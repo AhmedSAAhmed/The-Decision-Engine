@@ -1,0 +1,60 @@
+# Sufra Delivery: what the AI agent may do on its own, and when it must not.
+id: food_delivery
+name: Sufra Delivery · refunds & order fixes
+org: Sufra Delivery (fictional)
+version: 1.0.0
+currency: BHD
+
+thresholds:
+  execute_confidence: 0.80      # below this, never act alone
+  irreversible_confidence: 0.95
+  autonomy_budget: 3.0          # max expected loss (BHD) the agent may risk alone
+
+actions:
+  refund:
+    description: Refund money to the customer's original payment method
+    reversibility: compensable          # money can be clawed back, at a cost
+    intents: [double_charge, missing_item, damaged, late_delivery, refund_request]
+    impact: param:amount
+    cost_of_delay: 0.5
+    route_to: cx_supervisor
+    approvals_unlock: true              # a verified supervisor approval covers amounts above the limit
+    execute_template: "Refund {amount} BHD to the original card for order #{order_id}"
+    required_fields:
+      order_id: {question_en: "Could you share your order number?", question_ar: "ممكن ترسل لي رقم الطلب؟"}
+      amount:   {question_en: "How much were you charged for the affected items?", question_ar: "كم المبلغ اللي انخصم للأغراض المتأثرة؟"}
+      reason:   {question_en: "What went wrong with the order?", question_ar: "شو المشكلة في الطلب؟"}
+    required_evidence: [order_exists, order_belongs_to_customer, amount_within_order, issue_supported, no_prior_refund]
+    refuse_if:
+      - {check: destination_mismatch, reason: "Refunds only go back to the original payment method (anti-fraud rule R-4)"}
+      - {check: amount_exceeds_order, reason: "Refund cannot exceed what was paid"}
+    defer_if:
+      - {check: charge_pending, reason: "Second charge is a pending authorisation, not a settled payment",
+         retry: "Re-check after the authorisation window (72h). Most pending holds drop off on their own"}
+    escalate_if:
+      - {check: amount_over_without_approval, value: 15, reason: "Refunds above 15 BHD need a supervisor"}
+      - {check: refund_abuse, value: 3, reason: "3+ refunds in 30 days: abuse review"}
+    risk:
+      - {check: amount_over, value: 8, weight: 0.25, label: "amount above 8 BHD"}
+      - {check: new_customer, value: 30, weight: 0.2, label: "account younger than 30 days"}
+      - {check: refund_abuse, value: 2, weight: 0.3, label: "2+ refunds in 30 days"}
+      - {check: customer_urgency_pressure, weight: 0.1, label: "urgency pressure"}
+
+  redeliver_item:
+    description: Send a missing item again with tonight's deliveries, at no charge
+    reversibility: compensable
+    intents: [missing_item]
+    impact: 2.0
+    cost_of_delay: 1.0
+    route_to: cx_supervisor
+    execute_template: "Redeliver '{item}' for order #{order_id} tonight, no charge"
+    required_fields:
+      order_id: {question_en: "Could you share your order number?", question_ar: "ممكن ترسل لي رقم الطلب؟"}
+      item:     {question_en: "Which item was missing?", question_ar: "أي غرض كان ناقص؟"}
+    required_evidence: [order_exists, order_belongs_to_customer, item_in_order, item_missing_in_log]
+    defer_if:
+      - {check: order_in_transit, reason: "Order is still out for delivery", retry: "Re-check when the order is marked delivered"}
+    escalate_if:
+      - {check: refund_abuse, value: 3, reason: "3+ claims in 30 days: abuse review"}
+    risk:
+      - {check: new_customer, value: 30, weight: 0.2, label: "account younger than 30 days"}

@@ -1,0 +1,3183 @@
+{
+ "anchor_date": "2026-11-10",
+ "org": "Nahla Telecom",
+ "currency": "BHD",
+ "plans": {
+  "Basic 10": 10.0,
+  "Smart 15": 15.0,
+  "Unlimited 25": 25.0,
+  "Family 40": 40.0
+ },
+ "subscribers": {
+  "36001122": {
+   "holder_id": "S-2001",
+   "name": "Mohamed Al-Sayed",
+   "area": "Riffa",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "36003344": {
+   "holder_id": "S-2002",
+   "name": "Layla Hasan",
+   "area": "Isa Town",
+   "plan": "Smart 15",
+   "pending_plan_change": {
+    "to": "Unlimited 25",
+    "effective": "2026-11-30"
+   },
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33445566": {
+   "holder_id": "S-2003",
+   "name": "Ahmed Isa",
+   "area": "Muharraq",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-05-09",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39887766": {
+   "holder_id": "S-2004",
+   "name": "Huda Matar",
+   "area": "Sitra",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34112233": {
+   "holder_id": "S-2005",
+   "name": "Jassim Fakhro",
+   "area": "Manama",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 2,
+   "port_out_pending": true
+  },
+  "36550011": {
+   "holder_id": "S-2006",
+   "name": "Zainab Al-Aali",
+   "area": "Hamad Town",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "37686339": {
+   "holder_id": "S-3000",
+   "name": "Dana Buali",
+   "area": "Budaiya",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33145788": {
+   "holder_id": "S-3001",
+   "name": "Zainab Al-Zayani",
+   "area": "Sitra",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-06-25",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "35869282": {
+   "holder_id": "S-3002",
+   "name": "Ali Kanoo",
+   "area": "Manama",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-11-01",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "35578895": {
+   "holder_id": "S-3003",
+   "name": "Fatima Al-Doseri",
+   "area": "Muharraq",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "33652090": {
+   "holder_id": "S-3004",
+   "name": "Sara Al-Aali",
+   "area": "Budaiya",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": "2026-11-27",
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "37975922": {
+   "holder_id": "S-3005",
+   "name": "Youssef Al-Aali",
+   "area": "Riffa",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-04-14",
+   "sim_swaps_90d": 1,
+   "port_out_pending": true
+  },
+  "33809530": {
+   "holder_id": "S-3006",
+   "name": "Hamad Al-Doseri",
+   "area": "Isa Town",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39259562": {
+   "holder_id": "S-3007",
+   "name": "Layla Al-Zayani",
+   "area": "Hamad Town",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "35028554": {
+   "holder_id": "S-3008",
+   "name": "Omar Al-Khalifa",
+   "area": "Riffa",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "35364386": {
+   "holder_id": "S-3009",
+   "name": "Ali Al-Mansouri",
+   "area": "Riffa",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "36074114": {
+   "holder_id": "S-3010",
+   "name": "Jassim Hasan",
+   "area": "Juffair",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-05-11",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "37313850": {
+   "holder_id": "S-3011",
+   "name": "Khalid Al-Mahmood",
+   "area": "Riffa",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-01-06",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39394415": {
+   "holder_id": "S-3012",
+   "name": "Reem Kanoo",
+   "area": "Manama",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "36833138": {
+   "holder_id": "S-3013",
+   "name": "Dana Kanoo",
+   "area": "Juffair",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "36590002": {
+   "holder_id": "S-3014",
+   "name": "Mariam Al-Khalifa",
+   "area": "Juffair",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-10-22",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "36324990": {
+   "holder_id": "S-3015",
+   "name": "Isa Al-Khalifa",
+   "area": "Riffa",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "33853307": {
+   "holder_id": "S-3016",
+   "name": "Ali Al-Khalifa",
+   "area": "Hamad Town",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "36391422": {
+   "holder_id": "S-3017",
+   "name": "Hamad Isa",
+   "area": "Budaiya",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-11-11",
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "35289861": {
+   "holder_id": "S-3018",
+   "name": "Abdulla Al-Zayani",
+   "area": "Juffair",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39442447": {
+   "holder_id": "S-3019",
+   "name": "Isa Buali",
+   "area": "Riffa",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34129176": {
+   "holder_id": "S-3020",
+   "name": "Sara Buali",
+   "area": "Manama",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "36209758": {
+   "holder_id": "S-3021",
+   "name": "Dana Fakhro",
+   "area": "Muharraq",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38545546": {
+   "holder_id": "S-3022",
+   "name": "Omar Al-Aali",
+   "area": "Juffair",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-07-23",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "37550300": {
+   "holder_id": "S-3023",
+   "name": "Mohamed Al-Mansouri",
+   "area": "Manama",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "35638713": {
+   "holder_id": "S-3024",
+   "name": "Abdulla Nass",
+   "area": "Juffair",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-08-23",
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "35542122": {
+   "holder_id": "S-3025",
+   "name": "Ali Al-Aali",
+   "area": "Budaiya",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33917562": {
+   "holder_id": "S-3026",
+   "name": "Jassim Al-Aali",
+   "area": "Juffair",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "36283173": {
+   "holder_id": "S-3027",
+   "name": "Layla Al-Aali",
+   "area": "Budaiya",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33236114": {
+   "holder_id": "S-3028",
+   "name": "Jassim Rami",
+   "area": "Muharraq",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "39418912": {
+   "holder_id": "S-3029",
+   "name": "Mohamed Matar",
+   "area": "Riffa",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33473530": {
+   "holder_id": "S-3030",
+   "name": "Khalid Isa",
+   "area": "Isa Town",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "35557791": {
+   "holder_id": "S-3031",
+   "name": "Hamad Fakhro",
+   "area": "Muharraq",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "36543960": {
+   "holder_id": "S-3032",
+   "name": "Jassim Al-Mahmood",
+   "area": "Sitra",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": true
+  },
+  "35655114": {
+   "holder_id": "S-3033",
+   "name": "Abdulla Matar",
+   "area": "Hamad Town",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34727284": {
+   "holder_id": "S-3034",
+   "name": "Mohamed Al-Aali",
+   "area": "Hamad Town",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34692474": {
+   "holder_id": "S-3035",
+   "name": "Zainab Al-Khalifa",
+   "area": "Isa Town",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-04-12",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34894868": {
+   "holder_id": "S-3036",
+   "name": "Dana Al-Khalifa",
+   "area": "Riffa",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-08-28",
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "36582823": {
+   "holder_id": "S-3037",
+   "name": "Mariam Al-Zayani",
+   "area": "Riffa",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "37529408": {
+   "holder_id": "S-3038",
+   "name": "Mohamed Al-Doseri",
+   "area": "Budaiya",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-08-01",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "37593287": {
+   "holder_id": "S-3039",
+   "name": "Ali Al-Mansouri",
+   "area": "Muharraq",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-11-26",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38351314": {
+   "holder_id": "S-3040",
+   "name": "Aisha Al-Mahmood",
+   "area": "Manama",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39261538": {
+   "holder_id": "S-3041",
+   "name": "Ahmed Al-Mahmood",
+   "area": "Budaiya",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "36459783": {
+   "holder_id": "S-3042",
+   "name": "Layla Kanoo",
+   "area": "Muharraq",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33952598": {
+   "holder_id": "S-3043",
+   "name": "Fatima Al-Doseri",
+   "area": "Manama",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "37696152": {
+   "holder_id": "S-3044",
+   "name": "Huda Al-Mahmood",
+   "area": "Manama",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-01-19",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39740566": {
+   "holder_id": "S-3045",
+   "name": "Layla Hasan",
+   "area": "Manama",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33704052": {
+   "holder_id": "S-3046",
+   "name": "Mohamed Kanoo",
+   "area": "Riffa",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "33757544": {
+   "holder_id": "S-3047",
+   "name": "Abdulla Janahi",
+   "area": "Isa Town",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "37378497": {
+   "holder_id": "S-3048",
+   "name": "Jassim Al-Sayed",
+   "area": "Juffair",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-01-12",
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "35762250": {
+   "holder_id": "S-3049",
+   "name": "Jassim Matar",
+   "area": "Isa Town",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-01-04",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "35303069": {
+   "holder_id": "S-3050",
+   "name": "Isa Al-Mahmood",
+   "area": "Sitra",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33947588": {
+   "holder_id": "S-3051",
+   "name": "Mohamed Al-Mahmood",
+   "area": "Juffair",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "36045048": {
+   "holder_id": "S-3052",
+   "name": "Zainab Al-Zayani",
+   "area": "Sitra",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39202953": {
+   "holder_id": "S-3053",
+   "name": "Youssef Isa",
+   "area": "Sitra",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "39813649": {
+   "holder_id": "S-3054",
+   "name": "Hamad Isa",
+   "area": "Juffair",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-05-31",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39901372": {
+   "holder_id": "S-3055",
+   "name": "Khalid Kanoo",
+   "area": "Isa Town",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "39813628": {
+   "holder_id": "S-3056",
+   "name": "Huda Rami",
+   "area": "Sitra",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "36464170": {
+   "holder_id": "S-3057",
+   "name": "Mohamed Al-Mahmood",
+   "area": "Riffa",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "36530517": {
+   "holder_id": "S-3058",
+   "name": "Dana Fakhro",
+   "area": "Juffair",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "38286134": {
+   "holder_id": "S-3059",
+   "name": "Isa Janahi",
+   "area": "Manama",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-04-16",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33929694": {
+   "holder_id": "S-3060",
+   "name": "Ali Isa",
+   "area": "Muharraq",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39167070": {
+   "holder_id": "S-3061",
+   "name": "Fatima Al-Sayed",
+   "area": "Muharraq",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "36083648": {
+   "holder_id": "S-3062",
+   "name": "Ali Matar",
+   "area": "Budaiya",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": "2026-11-22",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38256531": {
+   "holder_id": "S-3063",
+   "name": "Khalid Al-Khalifa",
+   "area": "Juffair",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-02-05",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "36597902": {
+   "holder_id": "S-3064",
+   "name": "Dana Al-Sayed",
+   "area": "Muharraq",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33984407": {
+   "holder_id": "S-3065",
+   "name": "Sara Al-Mahmood",
+   "area": "Juffair",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-11-11",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39823397": {
+   "holder_id": "S-3066",
+   "name": "Layla Kanoo",
+   "area": "Juffair",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-02-24",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39912958": {
+   "holder_id": "S-3067",
+   "name": "Ahmed Al-Doseri",
+   "area": "Budaiya",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": true
+  },
+  "35196133": {
+   "holder_id": "S-3068",
+   "name": "Khalid Nass",
+   "area": "Isa Town",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "33086572": {
+   "holder_id": "S-3069",
+   "name": "Zainab Janahi",
+   "area": "Hamad Town",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "36550821": {
+   "holder_id": "S-3070",
+   "name": "Dana Al-Sayed",
+   "area": "Riffa",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34969992": {
+   "holder_id": "S-3071",
+   "name": "Zainab Al-Zayani",
+   "area": "Manama",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-09-24",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "36310956": {
+   "holder_id": "S-3072",
+   "name": "Reem Janahi",
+   "area": "Manama",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-07-26",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "36926580": {
+   "holder_id": "S-3073",
+   "name": "Fatima Al-Khalifa",
+   "area": "Hamad Town",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-01-09",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34072663": {
+   "holder_id": "S-3074",
+   "name": "Zainab Al-Sayed",
+   "area": "Hamad Town",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-03-25",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "35212561": {
+   "holder_id": "S-3075",
+   "name": "Omar Fakhro",
+   "area": "Budaiya",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34268900": {
+   "holder_id": "S-3076",
+   "name": "Aisha Nass",
+   "area": "Manama",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-03-08",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "35182916": {
+   "holder_id": "S-3077",
+   "name": "Ali Nass",
+   "area": "Budaiya",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "35990707": {
+   "holder_id": "S-3078",
+   "name": "Aisha Al-Aali",
+   "area": "Juffair",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-11-14",
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "35932693": {
+   "holder_id": "S-3079",
+   "name": "Noura Al-Doseri",
+   "area": "Sitra",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "35288341": {
+   "holder_id": "S-3080",
+   "name": "Jassim Al-Doseri",
+   "area": "Manama",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "37178456": {
+   "holder_id": "S-3081",
+   "name": "Hamad Fakhro",
+   "area": "Manama",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "36133634": {
+   "holder_id": "S-3082",
+   "name": "Jassim Buali",
+   "area": "Hamad Town",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-07-04",
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "37025316": {
+   "holder_id": "S-3083",
+   "name": "Isa Al-Sayed",
+   "area": "Manama",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "36800895": {
+   "holder_id": "S-3084",
+   "name": "Mohamed Janahi",
+   "area": "Isa Town",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33465861": {
+   "holder_id": "S-3085",
+   "name": "Noura Matar",
+   "area": "Riffa",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-03-13",
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "33748165": {
+   "holder_id": "S-3086",
+   "name": "Sara Al-Doseri",
+   "area": "Muharraq",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38486689": {
+   "holder_id": "S-3087",
+   "name": "Fatima Buali",
+   "area": "Sitra",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "35601318": {
+   "holder_id": "S-3088",
+   "name": "Dana Janahi",
+   "area": "Hamad Town",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "36736641": {
+   "holder_id": "S-3089",
+   "name": "Abdulla Al-Aali",
+   "area": "Sitra",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-06-15",
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "34563266": {
+   "holder_id": "S-3090",
+   "name": "Huda Al-Mahmood",
+   "area": "Riffa",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38432551": {
+   "holder_id": "S-3091",
+   "name": "Fatima Al-Aali",
+   "area": "Riffa",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "37006494": {
+   "holder_id": "S-3092",
+   "name": "Ahmed Janahi",
+   "area": "Muharraq",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "37769223": {
+   "holder_id": "S-3093",
+   "name": "Youssef Al-Khalifa",
+   "area": "Manama",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38543655": {
+   "holder_id": "S-3094",
+   "name": "Jassim Al-Sayed",
+   "area": "Hamad Town",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "33955760": {
+   "holder_id": "S-3095",
+   "name": "Isa Hasan",
+   "area": "Muharraq",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-06-12",
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "37925860": {
+   "holder_id": "S-3096",
+   "name": "Isa Nass",
+   "area": "Sitra",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "34770569": {
+   "holder_id": "S-3097",
+   "name": "Ali Al-Khalifa",
+   "area": "Sitra",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": true
+  },
+  "33978768": {
+   "holder_id": "S-3098",
+   "name": "Sara Hasan",
+   "area": "Juffair",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "39243194": {
+   "holder_id": "S-3099",
+   "name": "Dana Al-Aali",
+   "area": "Sitra",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "39749815": {
+   "holder_id": "S-3100",
+   "name": "Ahmed Al-Khalifa",
+   "area": "Muharraq",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-01-07",
+   "sim_swaps_90d": 3,
+   "port_out_pending": true
+  },
+  "34578913": {
+   "holder_id": "S-3101",
+   "name": "Sara Al-Doseri",
+   "area": "Juffair",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39627097": {
+   "holder_id": "S-3102",
+   "name": "Aisha Al-Doseri",
+   "area": "Riffa",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33183012": {
+   "holder_id": "S-3103",
+   "name": "Hamad Hasan",
+   "area": "Muharraq",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": true
+  },
+  "36770815": {
+   "holder_id": "S-3104",
+   "name": "Jassim Isa",
+   "area": "Isa Town",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "35800537": {
+   "holder_id": "S-3105",
+   "name": "Sara Buali",
+   "area": "Budaiya",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "39132731": {
+   "holder_id": "S-3106",
+   "name": "Aisha Kanoo",
+   "area": "Manama",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38129594": {
+   "holder_id": "S-3107",
+   "name": "Zainab Isa",
+   "area": "Manama",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "35246879": {
+   "holder_id": "S-3108",
+   "name": "Huda Al-Aali",
+   "area": "Riffa",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "38851175": {
+   "holder_id": "S-3109",
+   "name": "Huda Al-Mansouri",
+   "area": "Muharraq",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34947022": {
+   "holder_id": "S-3110",
+   "name": "Omar Isa",
+   "area": "Hamad Town",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-04-10",
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "36496884": {
+   "holder_id": "S-3111",
+   "name": "Reem Al-Aali",
+   "area": "Muharraq",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-11-29",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34082940": {
+   "holder_id": "S-3112",
+   "name": "Ali Al-Doseri",
+   "area": "Muharraq",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-06-11",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34756850": {
+   "holder_id": "S-3113",
+   "name": "Aisha Rami",
+   "area": "Manama",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34465613": {
+   "holder_id": "S-3114",
+   "name": "Omar Rami",
+   "area": "Riffa",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "37714242": {
+   "holder_id": "S-3115",
+   "name": "Khalid Al-Aali",
+   "area": "Sitra",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "37672642": {
+   "holder_id": "S-3116",
+   "name": "Layla Janahi",
+   "area": "Riffa",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39339810": {
+   "holder_id": "S-3117",
+   "name": "Hamad Buali",
+   "area": "Riffa",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34722904": {
+   "holder_id": "S-3118",
+   "name": "Reem Hasan",
+   "area": "Sitra",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33832940": {
+   "holder_id": "S-3119",
+   "name": "Fatima Al-Zayani",
+   "area": "Hamad Town",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-02-22",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39452679": {
+   "holder_id": "S-3120",
+   "name": "Sara Isa",
+   "area": "Juffair",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-02-06",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38999530": {
+   "holder_id": "S-3121",
+   "name": "Huda Al-Zayani",
+   "area": "Isa Town",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34914129": {
+   "holder_id": "S-3122",
+   "name": "Fatima Al-Mahmood",
+   "area": "Budaiya",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "38722696": {
+   "holder_id": "S-3123",
+   "name": "Reem Al-Mansouri",
+   "area": "Juffair",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "33583689": {
+   "holder_id": "S-3124",
+   "name": "Noura Fakhro",
+   "area": "Hamad Town",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "36298956": {
+   "holder_id": "S-3125",
+   "name": "Youssef Janahi",
+   "area": "Manama",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "35552846": {
+   "holder_id": "S-3126",
+   "name": "Mohamed Al-Zayani",
+   "area": "Manama",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38874500": {
+   "holder_id": "S-3127",
+   "name": "Abdulla Nass",
+   "area": "Isa Town",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "36393239": {
+   "holder_id": "S-3128",
+   "name": "Mariam Kanoo",
+   "area": "Riffa",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39208007": {
+   "holder_id": "S-3129",
+   "name": "Fatima Kanoo",
+   "area": "Isa Town",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39350564": {
+   "holder_id": "S-3130",
+   "name": "Ali Al-Mansouri",
+   "area": "Manama",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-12-12",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "37238550": {
+   "holder_id": "S-3131",
+   "name": "Hamad Rami",
+   "area": "Hamad Town",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39346484": {
+   "holder_id": "S-3132",
+   "name": "Hamad Nass",
+   "area": "Sitra",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "37878762": {
+   "holder_id": "S-3133",
+   "name": "Jassim Isa",
+   "area": "Hamad Town",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-11-12",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38992410": {
+   "holder_id": "S-3134",
+   "name": "Abdulla Isa",
+   "area": "Riffa",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "36030531": {
+   "holder_id": "S-3135",
+   "name": "Isa Buali",
+   "area": "Muharraq",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "36564208": {
+   "holder_id": "S-3136",
+   "name": "Fatima Al-Aali",
+   "area": "Isa Town",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-10-23",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "37688967": {
+   "holder_id": "S-3137",
+   "name": "Omar Matar",
+   "area": "Sitra",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "37106568": {
+   "holder_id": "S-3138",
+   "name": "Huda Hasan",
+   "area": "Muharraq",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38909981": {
+   "holder_id": "S-3139",
+   "name": "Omar Buali",
+   "area": "Isa Town",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "37689455": {
+   "holder_id": "S-3140",
+   "name": "Reem Buali",
+   "area": "Budaiya",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-08-30",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34286011": {
+   "holder_id": "S-3141",
+   "name": "Hamad Al-Zayani",
+   "area": "Sitra",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": true
+  },
+  "34198475": {
+   "holder_id": "S-3142",
+   "name": "Fatima Al-Mahmood",
+   "area": "Manama",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39204720": {
+   "holder_id": "S-3143",
+   "name": "Zainab Al-Mansouri",
+   "area": "Riffa",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": "2026-12-03",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "35597967": {
+   "holder_id": "S-3144",
+   "name": "Jassim Nass",
+   "area": "Hamad Town",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "34114087": {
+   "holder_id": "S-3145",
+   "name": "Fatima Nass",
+   "area": "Juffair",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-11-18",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38240954": {
+   "holder_id": "S-3146",
+   "name": "Dana Al-Mahmood",
+   "area": "Budaiya",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38624090": {
+   "holder_id": "S-3147",
+   "name": "Isa Al-Sayed",
+   "area": "Riffa",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39472609": {
+   "holder_id": "S-3148",
+   "name": "Ahmed Buali",
+   "area": "Riffa",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33443542": {
+   "holder_id": "S-3149",
+   "name": "Jassim Al-Doseri",
+   "area": "Juffair",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-08-10",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "35306552": {
+   "holder_id": "S-3150",
+   "name": "Mariam Isa",
+   "area": "Juffair",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "37939992": {
+   "holder_id": "S-3151",
+   "name": "Youssef Al-Aali",
+   "area": "Manama",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": true
+  },
+  "37428360": {
+   "holder_id": "S-3152",
+   "name": "Mohamed Matar",
+   "area": "Sitra",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": "2026-12-31",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34208246": {
+   "holder_id": "S-3153",
+   "name": "Ali Al-Sayed",
+   "area": "Riffa",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33494204": {
+   "holder_id": "S-3154",
+   "name": "Dana Fakhro",
+   "area": "Muharraq",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "35684702": {
+   "holder_id": "S-3155",
+   "name": "Fatima Al-Mahmood",
+   "area": "Hamad Town",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "33435185": {
+   "holder_id": "S-3156",
+   "name": "Mariam Isa",
+   "area": "Isa Town",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33965372": {
+   "holder_id": "S-3157",
+   "name": "Layla Rami",
+   "area": "Hamad Town",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "36418305": {
+   "holder_id": "S-3158",
+   "name": "Khalid Al-Mansouri",
+   "area": "Sitra",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-08-22",
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "35555277": {
+   "holder_id": "S-3159",
+   "name": "Jassim Al-Mahmood",
+   "area": "Juffair",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34194261": {
+   "holder_id": "S-3160",
+   "name": "Reem Hasan",
+   "area": "Isa Town",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33008397": {
+   "holder_id": "S-3161",
+   "name": "Isa Kanoo",
+   "area": "Muharraq",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-07-15",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38704234": {
+   "holder_id": "S-3162",
+   "name": "Abdulla Al-Zayani",
+   "area": "Isa Town",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-11-24",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "35521937": {
+   "holder_id": "S-3163",
+   "name": "Noura Matar",
+   "area": "Riffa",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34768739": {
+   "holder_id": "S-3164",
+   "name": "Dana Fakhro",
+   "area": "Hamad Town",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "35062995": {
+   "holder_id": "S-3165",
+   "name": "Mohamed Fakhro",
+   "area": "Isa Town",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": true
+  },
+  "38803617": {
+   "holder_id": "S-3166",
+   "name": "Fatima Al-Mansouri",
+   "area": "Juffair",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "37662309": {
+   "holder_id": "S-3167",
+   "name": "Zainab Matar",
+   "area": "Riffa",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "36734413": {
+   "holder_id": "S-3168",
+   "name": "Hamad Al-Zayani",
+   "area": "Budaiya",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "38847112": {
+   "holder_id": "S-3169",
+   "name": "Sara Buali",
+   "area": "Juffair",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": true
+  },
+  "39233947": {
+   "holder_id": "S-3170",
+   "name": "Sara Al-Sayed",
+   "area": "Hamad Town",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-09-21",
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "39021422": {
+   "holder_id": "S-3171",
+   "name": "Khalid Isa",
+   "area": "Juffair",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-07-21",
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "34753943": {
+   "holder_id": "S-3172",
+   "name": "Sara Al-Doseri",
+   "area": "Budaiya",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34430065": {
+   "holder_id": "S-3173",
+   "name": "Aisha Al-Doseri",
+   "area": "Muharraq",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "35177887": {
+   "holder_id": "S-3174",
+   "name": "Jassim Isa",
+   "area": "Sitra",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38813186": {
+   "holder_id": "S-3175",
+   "name": "Aisha Al-Sayed",
+   "area": "Juffair",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "38452847": {
+   "holder_id": "S-3176",
+   "name": "Youssef Fakhro",
+   "area": "Budaiya",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-10-25",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "36032245": {
+   "holder_id": "S-3177",
+   "name": "Omar Rami",
+   "area": "Isa Town",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-06-14",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33043279": {
+   "holder_id": "S-3178",
+   "name": "Abdulla Al-Doseri",
+   "area": "Hamad Town",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": true
+  },
+  "39186130": {
+   "holder_id": "S-3179",
+   "name": "Khalid Al-Mahmood",
+   "area": "Riffa",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-04-28",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38245352": {
+   "holder_id": "S-3180",
+   "name": "Hamad Al-Mansouri",
+   "area": "Juffair",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "35804332": {
+   "holder_id": "S-3181",
+   "name": "Layla Isa",
+   "area": "Riffa",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-05-04",
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "35798342": {
+   "holder_id": "S-3182",
+   "name": "Omar Isa",
+   "area": "Riffa",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "34047119": {
+   "holder_id": "S-3183",
+   "name": "Noura Rami",
+   "area": "Manama",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "39565312": {
+   "holder_id": "S-3184",
+   "name": "Fatima Rami",
+   "area": "Juffair",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "33854191": {
+   "holder_id": "S-3185",
+   "name": "Youssef Rami",
+   "area": "Sitra",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34955485": {
+   "holder_id": "S-3186",
+   "name": "Dana Al-Mansouri",
+   "area": "Juffair",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38194482": {
+   "holder_id": "S-3187",
+   "name": "Hamad Fakhro",
+   "area": "Manama",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33861423": {
+   "holder_id": "S-3188",
+   "name": "Sara Al-Khalifa",
+   "area": "Isa Town",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "37038270": {
+   "holder_id": "S-3189",
+   "name": "Dana Nass",
+   "area": "Muharraq",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": "2026-12-03",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "37903328": {
+   "holder_id": "S-3190",
+   "name": "Huda Al-Zayani",
+   "area": "Sitra",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-04-18",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "36093970": {
+   "holder_id": "S-3191",
+   "name": "Sara Janahi",
+   "area": "Manama",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "33458079": {
+   "holder_id": "S-3192",
+   "name": "Huda Al-Zayani",
+   "area": "Isa Town",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "35865145": {
+   "holder_id": "S-3193",
+   "name": "Mariam Al-Aali",
+   "area": "Juffair",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38168247": {
+   "holder_id": "S-3194",
+   "name": "Ahmed Al-Mahmood",
+   "area": "Hamad Town",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": "2026-12-02",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33031013": {
+   "holder_id": "S-3195",
+   "name": "Khalid Isa",
+   "area": "Juffair",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-11-22",
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "35780950": {
+   "holder_id": "S-3196",
+   "name": "Abdulla Al-Doseri",
+   "area": "Budaiya",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33618501": {
+   "holder_id": "S-3197",
+   "name": "Reem Al-Mansouri",
+   "area": "Riffa",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-02-18",
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "39421754": {
+   "holder_id": "S-3198",
+   "name": "Reem Rami",
+   "area": "Manama",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-02-08",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39030039": {
+   "holder_id": "S-3199",
+   "name": "Ali Fakhro",
+   "area": "Isa Town",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-02-09",
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "33848845": {
+   "holder_id": "S-3200",
+   "name": "Sara Janahi",
+   "area": "Budaiya",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "35014523": {
+   "holder_id": "S-3201",
+   "name": "Reem Al-Zayani",
+   "area": "Muharraq",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34097185": {
+   "holder_id": "S-3202",
+   "name": "Mariam Al-Doseri",
+   "area": "Budaiya",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "35051431": {
+   "holder_id": "S-3203",
+   "name": "Youssef Al-Doseri",
+   "area": "Sitra",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "35349425": {
+   "holder_id": "S-3204",
+   "name": "Fatima Al-Aali",
+   "area": "Isa Town",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "33544194": {
+   "holder_id": "S-3205",
+   "name": "Ali Matar",
+   "area": "Hamad Town",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "36136322": {
+   "holder_id": "S-3206",
+   "name": "Omar Al-Aali",
+   "area": "Juffair",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-06-04",
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "37898801": {
+   "holder_id": "S-3207",
+   "name": "Youssef Al-Doseri",
+   "area": "Isa Town",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "35566905": {
+   "holder_id": "S-3208",
+   "name": "Huda Matar",
+   "area": "Muharraq",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": "2026-12-24",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "35475042": {
+   "holder_id": "S-3209",
+   "name": "Isa Al-Zayani",
+   "area": "Isa Town",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "36784530": {
+   "holder_id": "S-3210",
+   "name": "Isa Al-Mahmood",
+   "area": "Budaiya",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33207351": {
+   "holder_id": "S-3211",
+   "name": "Ali Nass",
+   "area": "Isa Town",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "35470594": {
+   "holder_id": "S-3212",
+   "name": "Omar Al-Khalifa",
+   "area": "Sitra",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": "2026-12-17",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34680293": {
+   "holder_id": "S-3213",
+   "name": "Mohamed Al-Doseri",
+   "area": "Hamad Town",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "35302375": {
+   "holder_id": "S-3214",
+   "name": "Mariam Janahi",
+   "area": "Sitra",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39569355": {
+   "holder_id": "S-3215",
+   "name": "Abdulla Matar",
+   "area": "Manama",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "36334516": {
+   "holder_id": "S-3216",
+   "name": "Khalid Isa",
+   "area": "Isa Town",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-09-07",
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "36932062": {
+   "holder_id": "S-3217",
+   "name": "Isa Fakhro",
+   "area": "Riffa",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38854755": {
+   "holder_id": "S-3218",
+   "name": "Huda Al-Doseri",
+   "area": "Juffair",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "37844491": {
+   "holder_id": "S-3219",
+   "name": "Fatima Kanoo",
+   "area": "Manama",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "34891552": {
+   "holder_id": "S-3220",
+   "name": "Huda Al-Mahmood",
+   "area": "Budaiya",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33270188": {
+   "holder_id": "S-3221",
+   "name": "Fatima Janahi",
+   "area": "Hamad Town",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33534431": {
+   "holder_id": "S-3222",
+   "name": "Aisha Matar",
+   "area": "Isa Town",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-08-29",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "35555551": {
+   "holder_id": "S-3223",
+   "name": "Noura Hasan",
+   "area": "Riffa",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-10-29",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34566086": {
+   "holder_id": "S-3224",
+   "name": "Mariam Al-Khalifa",
+   "area": "Budaiya",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-04-09",
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "36813995": {
+   "holder_id": "S-3225",
+   "name": "Youssef Al-Zayani",
+   "area": "Manama",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33928987": {
+   "holder_id": "S-3226",
+   "name": "Fatima Al-Mahmood",
+   "area": "Juffair",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "34725343": {
+   "holder_id": "S-3227",
+   "name": "Ahmed Al-Mahmood",
+   "area": "Juffair",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "37215065": {
+   "holder_id": "S-3228",
+   "name": "Isa Al-Sayed",
+   "area": "Isa Town",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "36349041": {
+   "holder_id": "S-3229",
+   "name": "Dana Isa",
+   "area": "Hamad Town",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33764224": {
+   "holder_id": "S-3230",
+   "name": "Ahmed Nass",
+   "area": "Hamad Town",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "34469065": {
+   "holder_id": "S-3231",
+   "name": "Huda Isa",
+   "area": "Muharraq",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "37769890": {
+   "holder_id": "S-3232",
+   "name": "Hamad Matar",
+   "area": "Manama",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38268743": {
+   "holder_id": "S-3233",
+   "name": "Aisha Kanoo",
+   "area": "Riffa",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "37637422": {
+   "holder_id": "S-3234",
+   "name": "Hamad Al-Zayani",
+   "area": "Riffa",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "36782725": {
+   "holder_id": "S-3235",
+   "name": "Ali Al-Sayed",
+   "area": "Isa Town",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38667528": {
+   "holder_id": "S-3236",
+   "name": "Isa Matar",
+   "area": "Hamad Town",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "35102233": {
+   "holder_id": "S-3237",
+   "name": "Hamad Janahi",
+   "area": "Hamad Town",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38511505": {
+   "holder_id": "S-3238",
+   "name": "Khalid Nass",
+   "area": "Muharraq",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "33151549": {
+   "holder_id": "S-3239",
+   "name": "Dana Buali",
+   "area": "Muharraq",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-11-25",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38632045": {
+   "holder_id": "S-3240",
+   "name": "Sara Al-Sayed",
+   "area": "Muharraq",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38662680": {
+   "holder_id": "S-3241",
+   "name": "Aisha Al-Doseri",
+   "area": "Juffair",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "38557787": {
+   "holder_id": "S-3242",
+   "name": "Hamad Matar",
+   "area": "Sitra",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2026-11-13",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39435020": {
+   "holder_id": "S-3243",
+   "name": "Mariam Isa",
+   "area": "Hamad Town",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": "2026-11-19",
+   "sim_swaps_90d": 0,
+   "port_out_pending": true
+  },
+  "33122137": {
+   "holder_id": "S-3244",
+   "name": "Mohamed Al-Doseri",
+   "area": "Riffa",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39966325": {
+   "holder_id": "S-3245",
+   "name": "Ali Hasan",
+   "area": "Manama",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "37714851": {
+   "holder_id": "S-3246",
+   "name": "Mariam Al-Doseri",
+   "area": "Budaiya",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-02-28",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34456443": {
+   "holder_id": "S-3247",
+   "name": "Sara Matar",
+   "area": "Hamad Town",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38519382": {
+   "holder_id": "S-3248",
+   "name": "Layla Al-Zayani",
+   "area": "Manama",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38023678": {
+   "holder_id": "S-3249",
+   "name": "Zainab Buali",
+   "area": "Muharraq",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38292154": {
+   "holder_id": "S-3250",
+   "name": "Abdulla Janahi",
+   "area": "Hamad Town",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "38589921": {
+   "holder_id": "S-3251",
+   "name": "Zainab Al-Khalifa",
+   "area": "Hamad Town",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "37286797": {
+   "holder_id": "S-3252",
+   "name": "Khalid Al-Mansouri",
+   "area": "Isa Town",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39190065": {
+   "holder_id": "S-3253",
+   "name": "Huda Isa",
+   "area": "Riffa",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-07-24",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "36152002": {
+   "holder_id": "S-3254",
+   "name": "Mariam Rami",
+   "area": "Isa Town",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "35663707": {
+   "holder_id": "S-3255",
+   "name": "Youssef Al-Mahmood",
+   "area": "Sitra",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-11-21",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34726521": {
+   "holder_id": "S-3256",
+   "name": "Aisha Rami",
+   "area": "Isa Town",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34539691": {
+   "holder_id": "S-3257",
+   "name": "Isa Al-Mansouri",
+   "area": "Riffa",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-02-17",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34187256": {
+   "holder_id": "S-3258",
+   "name": "Mariam Janahi",
+   "area": "Riffa",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "34714407": {
+   "holder_id": "S-3259",
+   "name": "Khalid Al-Khalifa",
+   "area": "Budaiya",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "36556910": {
+   "holder_id": "S-3260",
+   "name": "Ali Isa",
+   "area": "Sitra",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "39553926": {
+   "holder_id": "S-3261",
+   "name": "Zainab Al-Khalifa",
+   "area": "Hamad Town",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "37238701": {
+   "holder_id": "S-3262",
+   "name": "Dana Al-Mahmood",
+   "area": "Muharraq",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-05-25",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39365764": {
+   "holder_id": "S-3263",
+   "name": "Ahmed Janahi",
+   "area": "Muharraq",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "36146960": {
+   "holder_id": "S-3264",
+   "name": "Aisha Al-Aali",
+   "area": "Riffa",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-07-09",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34590696": {
+   "holder_id": "S-3265",
+   "name": "Sara Al-Mansouri",
+   "area": "Hamad Town",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39225974": {
+   "holder_id": "S-3266",
+   "name": "Reem Matar",
+   "area": "Juffair",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33325703": {
+   "holder_id": "S-3267",
+   "name": "Hamad Matar",
+   "area": "Muharraq",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39304688": {
+   "holder_id": "S-3268",
+   "name": "Reem Al-Aali",
+   "area": "Hamad Town",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "35033003": {
+   "holder_id": "S-3269",
+   "name": "Zainab Rami",
+   "area": "Hamad Town",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "38078762": {
+   "holder_id": "S-3270",
+   "name": "Isa Janahi",
+   "area": "Sitra",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "33103493": {
+   "holder_id": "S-3271",
+   "name": "Hamad Al-Khalifa",
+   "area": "Budaiya",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34583964": {
+   "holder_id": "S-3272",
+   "name": "Huda Hasan",
+   "area": "Budaiya",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38523781": {
+   "holder_id": "S-3273",
+   "name": "Abdulla Kanoo",
+   "area": "Budaiya",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-08-31",
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "39830239": {
+   "holder_id": "S-3274",
+   "name": "Fatima Al-Sayed",
+   "area": "Isa Town",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39848370": {
+   "holder_id": "S-3275",
+   "name": "Zainab Al-Mansouri",
+   "area": "Riffa",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38490521": {
+   "holder_id": "S-3276",
+   "name": "Ahmed Al-Mahmood",
+   "area": "Muharraq",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "37080816": {
+   "holder_id": "S-3277",
+   "name": "Ali Buali",
+   "area": "Juffair",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": "2026-12-11",
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "39368334": {
+   "holder_id": "S-3278",
+   "name": "Mariam Al-Sayed",
+   "area": "Budaiya",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38338792": {
+   "holder_id": "S-3279",
+   "name": "Ali Al-Khalifa",
+   "area": "Sitra",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33248861": {
+   "holder_id": "S-3280",
+   "name": "Jassim Isa",
+   "area": "Juffair",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": true
+  },
+  "35232047": {
+   "holder_id": "S-3281",
+   "name": "Sara Rami",
+   "area": "Riffa",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "37362697": {
+   "holder_id": "S-3282",
+   "name": "Layla Al-Aali",
+   "area": "Juffair",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "35877942": {
+   "holder_id": "S-3283",
+   "name": "Mohamed Isa",
+   "area": "Hamad Town",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "35770381": {
+   "holder_id": "S-3284",
+   "name": "Hamad Al-Mansouri",
+   "area": "Juffair",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": true
+  },
+  "34030914": {
+   "holder_id": "S-3285",
+   "name": "Omar Al-Sayed",
+   "area": "Isa Town",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "36986261": {
+   "holder_id": "S-3286",
+   "name": "Omar Al-Mahmood",
+   "area": "Isa Town",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "38316509": {
+   "holder_id": "S-3287",
+   "name": "Reem Rami",
+   "area": "Hamad Town",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-07-17",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39660222": {
+   "holder_id": "S-3288",
+   "name": "Noura Al-Zayani",
+   "area": "Budaiya",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "33842683": {
+   "holder_id": "S-3289",
+   "name": "Abdulla Kanoo",
+   "area": "Isa Town",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39011827": {
+   "holder_id": "S-3290",
+   "name": "Omar Rami",
+   "area": "Muharraq",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "37603220": {
+   "holder_id": "S-3291",
+   "name": "Isa Hasan",
+   "area": "Juffair",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "34775371": {
+   "holder_id": "S-3292",
+   "name": "Ali Al-Khalifa",
+   "area": "Riffa",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "35738887": {
+   "holder_id": "S-3293",
+   "name": "Abdulla Al-Sayed",
+   "area": "Isa Town",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 1,
+   "port_out_pending": false
+  },
+  "34138807": {
+   "holder_id": "S-3294",
+   "name": "Aisha Al-Aali",
+   "area": "Riffa",
+   "plan": "Unlimited 25",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "38038864": {
+   "holder_id": "S-3295",
+   "name": "Noura Fakhro",
+   "area": "Budaiya",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 3,
+   "port_out_pending": false
+  },
+  "36665505": {
+   "holder_id": "S-3296",
+   "name": "Khalid Isa",
+   "area": "Sitra",
+   "plan": "Basic 10",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-01-07",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "37967737": {
+   "holder_id": "S-3297",
+   "name": "Mariam Buali",
+   "area": "Hamad Town",
+   "plan": "Smart 15",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "33014080": {
+   "holder_id": "S-3298",
+   "name": "Ahmed Rami",
+   "area": "Isa Town",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": null,
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  },
+  "39690067": {
+   "holder_id": "S-3299",
+   "name": "Fatima Isa",
+   "area": "Riffa",
+   "plan": "Family 40",
+   "pending_plan_change": null,
+   "contract_locked_until": "2027-07-04",
+   "sim_swaps_90d": 0,
+   "port_out_pending": false
+  }
+ },
+ "outages": [
+  {
+   "id": "OUT-77",
+   "area": "Muharraq",
+   "start": "2026-11-05",
+   "hours": 6
+  },
+  {
+   "id": "OUT-81",
+   "area": "Sitra",
+   "start": "2026-10-01",
+   "hours": 3
+  },
+  {
+   "id": "OUT-100",
+   "area": "Sitra",
+   "start": "2026-08-15",
+   "hours": 8
+  },
+  {
+   "id": "OUT-101",
+   "area": "Juffair",
+   "start": "2026-09-03",
+   "hours": 5
+  },
+  {
+   "id": "OUT-102",
+   "area": "Muharraq",
+   "start": "2026-10-02",
+   "hours": 6
+  },
+  {
+   "id": "OUT-103",
+   "area": "Sitra",
+   "start": "2026-06-04",
+   "hours": 2
+  },
+  {
+   "id": "OUT-104",
+   "area": "Sitra",
+   "start": "2026-05-17",
+   "hours": 8
+  },
+  {
+   "id": "OUT-105",
+   "area": "Isa Town",
+   "start": "2026-06-06",
+   "hours": 5
+  },
+  {
+   "id": "OUT-106",
+   "area": "Budaiya",
+   "start": "2026-09-25",
+   "hours": 6
+  },
+  {
+   "id": "OUT-107",
+   "area": "Muharraq",
+   "start": "2026-08-18",
+   "hours": 4
+  },
+  {
+   "id": "OUT-108",
+   "area": "Manama",
+   "start": "2026-08-26",
+   "hours": 8
+  },
+  {
+   "id": "OUT-109",
+   "area": "Budaiya",
+   "start": "2026-07-26",
+   "hours": 3
+  },
+  {
+   "id": "OUT-110",
+   "area": "Manama",
+   "start": "2026-05-23",
+   "hours": 7
+  },
+  {
+   "id": "OUT-111",
+   "area": "Hamad Town",
+   "start": "2026-06-24",
+   "hours": 8
+  }
+ ],
+ "credits": {
+  "36550011": [
+   {
+    "amount": 1.5,
+    "date": "2026-11-04",
+    "reason": "outage OUT-75"
+   }
+  ]
+ },
+ "verifications": {
+  "39887766": {
+   "method": "branch_id_check",
+   "by": "agent:branch_staff",
+   "date": "2026-11-10"
+  }
+ },
+ "approvals": [],
+ "credit_formula": {
+  "per_outage_hour": 0.5,
+  "window_days": 30
+ }
+}

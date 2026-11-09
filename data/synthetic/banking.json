@@ -1,0 +1,6234 @@
+{
+ "anchor_date": "2026-11-10",
+ "org": "Gulf Pearl Bank",
+ "currency": "BHD",
+ "customers": {
+  "B-3001": {
+   "name": "Khalid Al-Doseri",
+   "joined": "2020-11-01",
+   "risk_flag": null
+  },
+  "B-3002": {
+   "name": "Reem Al-Zayani",
+   "joined": "2024-05-24",
+   "risk_flag": null
+  },
+  "B-3003": {
+   "name": "Omar Nass",
+   "joined": "2026-09-11",
+   "risk_flag": "mule_watchlist"
+  },
+  "B-3004": {
+   "name": "Aisha Al-Mahmood",
+   "joined": "2022-10-02",
+   "risk_flag": null
+  },
+  "B-4000": {
+   "name": "Reem Matar",
+   "joined": "2022-06-13",
+   "risk_flag": null
+  },
+  "B-4001": {
+   "name": "Hamad Fakhro",
+   "joined": "2020-03-06",
+   "risk_flag": null
+  },
+  "B-4002": {
+   "name": "Isa Al-Zayani",
+   "joined": "2026-09-14",
+   "risk_flag": null
+  },
+  "B-4003": {
+   "name": "Aisha Al-Aali",
+   "joined": "2026-02-12",
+   "risk_flag": null
+  },
+  "B-4004": {
+   "name": "Youssef Isa",
+   "joined": "2026-06-03",
+   "risk_flag": null
+  },
+  "B-4005": {
+   "name": "Fatima Al-Doseri",
+   "joined": "2026-01-15",
+   "risk_flag": null
+  },
+  "B-4006": {
+   "name": "Zainab Buali",
+   "joined": "2020-11-25",
+   "risk_flag": null
+  },
+  "B-4007": {
+   "name": "Reem Nass",
+   "joined": "2021-03-14",
+   "risk_flag": null
+  },
+  "B-4008": {
+   "name": "Fatima Al-Aali",
+   "joined": "2021-04-01",
+   "risk_flag": null
+  },
+  "B-4009": {
+   "name": "Omar Al-Zayani",
+   "joined": "2016-02-25",
+   "risk_flag": null
+  },
+  "B-4010": {
+   "name": "Mariam Kanoo",
+   "joined": "2016-05-31",
+   "risk_flag": null
+  },
+  "B-4011": {
+   "name": "Abdulla Al-Zayani",
+   "joined": "2023-06-24",
+   "risk_flag": null
+  },
+  "B-4012": {
+   "name": "Mariam Kanoo",
+   "joined": "2026-05-20",
+   "risk_flag": null
+  },
+  "B-4013": {
+   "name": "Mohamed Matar",
+   "joined": "2021-03-16",
+   "risk_flag": null
+  },
+  "B-4014": {
+   "name": "Dana Al-Mansouri",
+   "joined": "2021-12-17",
+   "risk_flag": null
+  },
+  "B-4015": {
+   "name": "Huda Al-Doseri",
+   "joined": "2021-07-08",
+   "risk_flag": null
+  },
+  "B-4016": {
+   "name": "Ahmed Isa",
+   "joined": "2024-05-06",
+   "risk_flag": null
+  },
+  "B-4017": {
+   "name": "Reem Al-Zayani",
+   "joined": "2024-02-29",
+   "risk_flag": null
+  },
+  "B-4018": {
+   "name": "Noura Fakhro",
+   "joined": "2023-06-15",
+   "risk_flag": null
+  },
+  "B-4019": {
+   "name": "Hamad Al-Mahmood",
+   "joined": "2026-01-27",
+   "risk_flag": null
+  },
+  "B-4020": {
+   "name": "Ali Nass",
+   "joined": "2018-06-01",
+   "risk_flag": null
+  },
+  "B-4021": {
+   "name": "Mariam Buali",
+   "joined": "2026-10-26",
+   "risk_flag": null
+  },
+  "B-4022": {
+   "name": "Reem Isa",
+   "joined": "2018-08-22",
+   "risk_flag": null
+  },
+  "B-4023": {
+   "name": "Dana Al-Doseri",
+   "joined": "2017-09-03",
+   "risk_flag": null
+  },
+  "B-4024": {
+   "name": "Zainab Hasan",
+   "joined": "2019-07-28",
+   "risk_flag": null
+  },
+  "B-4025": {
+   "name": "Abdulla Matar",
+   "joined": "2026-08-08",
+   "risk_flag": null
+  },
+  "B-4026": {
+   "name": "Isa Hasan",
+   "joined": "2023-05-21",
+   "risk_flag": null
+  },
+  "B-4027": {
+   "name": "Huda Janahi",
+   "joined": "2026-10-27",
+   "risk_flag": null
+  },
+  "B-4028": {
+   "name": "Huda Janahi",
+   "joined": "2016-10-25",
+   "risk_flag": null
+  },
+  "B-4029": {
+   "name": "Layla Janahi",
+   "joined": "2025-10-26",
+   "risk_flag": null
+  },
+  "B-4030": {
+   "name": "Ahmed Nass",
+   "joined": "2025-03-20",
+   "risk_flag": null
+  },
+  "B-4031": {
+   "name": "Ali Al-Mansouri",
+   "joined": "2025-03-09",
+   "risk_flag": null
+  },
+  "B-4032": {
+   "name": "Zainab Al-Mahmood",
+   "joined": "2018-09-24",
+   "risk_flag": null
+  },
+  "B-4033": {
+   "name": "Isa Al-Sayed",
+   "joined": "2016-07-11",
+   "risk_flag": null
+  },
+  "B-4034": {
+   "name": "Layla Buali",
+   "joined": "2025-08-30",
+   "risk_flag": null
+  },
+  "B-4035": {
+   "name": "Zainab Rami",
+   "joined": "2026-04-18",
+   "risk_flag": null
+  },
+  "B-4036": {
+   "name": "Youssef Kanoo",
+   "joined": "2025-01-09",
+   "risk_flag": null
+  },
+  "B-4037": {
+   "name": "Noura Al-Aali",
+   "joined": "2025-10-11",
+   "risk_flag": null
+  },
+  "B-4038": {
+   "name": "Zainab Rami",
+   "joined": "2022-10-04",
+   "risk_flag": null
+  },
+  "B-4039": {
+   "name": "Mariam Matar",
+   "joined": "2023-02-23",
+   "risk_flag": null
+  },
+  "B-4040": {
+   "name": "Reem Al-Mahmood",
+   "joined": "2021-07-10",
+   "risk_flag": null
+  },
+  "B-4041": {
+   "name": "Mohamed Fakhro",
+   "joined": "2026-09-03",
+   "risk_flag": null
+  },
+  "B-4042": {
+   "name": "Sara Al-Zayani",
+   "joined": "2017-09-15",
+   "risk_flag": null
+  },
+  "B-4043": {
+   "name": "Sara Al-Mahmood",
+   "joined": "2025-09-02",
+   "risk_flag": null
+  },
+  "B-4044": {
+   "name": "Reem Fakhro",
+   "joined": "2023-01-28",
+   "risk_flag": null
+  },
+  "B-4045": {
+   "name": "Sara Janahi",
+   "joined": "2026-07-10",
+   "risk_flag": null
+  },
+  "B-4046": {
+   "name": "Noura Al-Khalifa",
+   "joined": "2021-04-16",
+   "risk_flag": null
+  },
+  "B-4047": {
+   "name": "Isa Hasan",
+   "joined": "2024-10-25",
+   "risk_flag": null
+  },
+  "B-4048": {
+   "name": "Sara Al-Mansouri",
+   "joined": "2021-01-09",
+   "risk_flag": null
+  },
+  "B-4049": {
+   "name": "Huda Al-Doseri",
+   "joined": "2020-06-21",
+   "risk_flag": null
+  },
+  "B-4050": {
+   "name": "Noura Al-Doseri",
+   "joined": "2019-06-20",
+   "risk_flag": null
+  },
+  "B-4051": {
+   "name": "Ahmed Al-Doseri",
+   "joined": "2020-12-02",
+   "risk_flag": null
+  },
+  "B-4052": {
+   "name": "Sara Al-Khalifa",
+   "joined": "2021-07-25",
+   "risk_flag": null
+  },
+  "B-4053": {
+   "name": "Mohamed Al-Mahmood",
+   "joined": "2024-04-17",
+   "risk_flag": null
+  },
+  "B-4054": {
+   "name": "Khalid Al-Doseri",
+   "joined": "2019-01-15",
+   "risk_flag": null
+  },
+  "B-4055": {
+   "name": "Omar Buali",
+   "joined": "2016-07-31",
+   "risk_flag": null
+  },
+  "B-4056": {
+   "name": "Mariam Janahi",
+   "joined": "2022-05-20",
+   "risk_flag": null
+  },
+  "B-4057": {
+   "name": "Omar Al-Aali",
+   "joined": "2021-01-06",
+   "risk_flag": null
+  },
+  "B-4058": {
+   "name": "Abdulla Matar",
+   "joined": "2022-06-05",
+   "risk_flag": null
+  },
+  "B-4059": {
+   "name": "Mohamed Al-Khalifa",
+   "joined": "2024-12-18",
+   "risk_flag": null
+  },
+  "B-4060": {
+   "name": "Zainab Al-Mansouri",
+   "joined": "2021-05-10",
+   "risk_flag": null
+  },
+  "B-4061": {
+   "name": "Mohamed Nass",
+   "joined": "2021-05-01",
+   "risk_flag": null
+  },
+  "B-4062": {
+   "name": "Omar Hasan",
+   "joined": "2023-11-10",
+   "risk_flag": null
+  },
+  "B-4063": {
+   "name": "Zainab Kanoo",
+   "joined": "2026-02-09",
+   "risk_flag": null
+  },
+  "B-4064": {
+   "name": "Fatima Al-Zayani",
+   "joined": "2016-12-23",
+   "risk_flag": null
+  },
+  "B-4065": {
+   "name": "Abdulla Al-Mahmood",
+   "joined": "2022-05-11",
+   "risk_flag": null
+  },
+  "B-4066": {
+   "name": "Huda Buali",
+   "joined": "2025-04-12",
+   "risk_flag": null
+  },
+  "B-4067": {
+   "name": "Omar Nass",
+   "joined": "2017-06-03",
+   "risk_flag": null
+  },
+  "B-4068": {
+   "name": "Youssef Buali",
+   "joined": "2023-06-21",
+   "risk_flag": null
+  },
+  "B-4069": {
+   "name": "Reem Janahi",
+   "joined": "2021-08-02",
+   "risk_flag": null
+  },
+  "B-4070": {
+   "name": "Reem Fakhro",
+   "joined": "2021-09-05",
+   "risk_flag": null
+  },
+  "B-4071": {
+   "name": "Layla Buali",
+   "joined": "2026-05-31",
+   "risk_flag": null
+  },
+  "B-4072": {
+   "name": "Zainab Al-Zayani",
+   "joined": "2022-11-01",
+   "risk_flag": null
+  },
+  "B-4073": {
+   "name": "Omar Kanoo",
+   "joined": "2022-05-10",
+   "risk_flag": null
+  },
+  "B-4074": {
+   "name": "Zainab Janahi",
+   "joined": "2023-10-19",
+   "risk_flag": null
+  },
+  "B-4075": {
+   "name": "Hamad Al-Zayani",
+   "joined": "2022-11-21",
+   "risk_flag": null
+  },
+  "B-4076": {
+   "name": "Ahmed Rami",
+   "joined": "2023-04-24",
+   "risk_flag": null
+  },
+  "B-4077": {
+   "name": "Reem Kanoo",
+   "joined": "2017-02-01",
+   "risk_flag": null
+  },
+  "B-4078": {
+   "name": "Khalid Nass",
+   "joined": "2019-07-18",
+   "risk_flag": null
+  },
+  "B-4079": {
+   "name": "Layla Al-Doseri",
+   "joined": "2018-05-05",
+   "risk_flag": null
+  },
+  "B-4080": {
+   "name": "Layla Hasan",
+   "joined": "2021-11-09",
+   "risk_flag": null
+  },
+  "B-4081": {
+   "name": "Omar Nass",
+   "joined": "2020-04-30",
+   "risk_flag": null
+  },
+  "B-4082": {
+   "name": "Dana Al-Doseri",
+   "joined": "2017-10-09",
+   "risk_flag": null
+  },
+  "B-4083": {
+   "name": "Omar Rami",
+   "joined": "2020-01-10",
+   "risk_flag": null
+  },
+  "B-4084": {
+   "name": "Khalid Nass",
+   "joined": "2018-01-06",
+   "risk_flag": null
+  },
+  "B-4085": {
+   "name": "Hamad Fakhro",
+   "joined": "2016-10-08",
+   "risk_flag": null
+  },
+  "B-4086": {
+   "name": "Huda Kanoo",
+   "joined": "2023-03-19",
+   "risk_flag": null
+  },
+  "B-4087": {
+   "name": "Hamad Kanoo",
+   "joined": "2023-10-06",
+   "risk_flag": null
+  },
+  "B-4088": {
+   "name": "Ahmed Al-Mahmood",
+   "joined": "2018-08-16",
+   "risk_flag": null
+  },
+  "B-4089": {
+   "name": "Isa Al-Khalifa",
+   "joined": "2018-11-27",
+   "risk_flag": null
+  },
+  "B-4090": {
+   "name": "Jassim Matar",
+   "joined": "2017-01-19",
+   "risk_flag": null
+  },
+  "B-4091": {
+   "name": "Ali Kanoo",
+   "joined": "2017-05-28",
+   "risk_flag": null
+  },
+  "B-4092": {
+   "name": "Zainab Al-Mahmood",
+   "joined": "2019-02-16",
+   "risk_flag": null
+  },
+  "B-4093": {
+   "name": "Aisha Al-Mansouri",
+   "joined": "2016-03-05",
+   "risk_flag": null
+  },
+  "B-4094": {
+   "name": "Abdulla Janahi",
+   "joined": "2017-08-28",
+   "risk_flag": null
+  },
+  "B-4095": {
+   "name": "Jassim Matar",
+   "joined": "2024-08-27",
+   "risk_flag": null
+  },
+  "B-4096": {
+   "name": "Isa Isa",
+   "joined": "2020-05-09",
+   "risk_flag": null
+  },
+  "B-4097": {
+   "name": "Youssef Fakhro",
+   "joined": "2019-02-08",
+   "risk_flag": null
+  },
+  "B-4098": {
+   "name": "Ali Buali",
+   "joined": "2024-12-20",
+   "risk_flag": null
+  },
+  "B-4099": {
+   "name": "Dana Al-Sayed",
+   "joined": "2021-07-16",
+   "risk_flag": null
+  },
+  "B-4100": {
+   "name": "Youssef Nass",
+   "joined": "2020-03-02",
+   "risk_flag": null
+  },
+  "B-4101": {
+   "name": "Hamad Janahi",
+   "joined": "2017-11-23",
+   "risk_flag": null
+  },
+  "B-4102": {
+   "name": "Zainab Al-Zayani",
+   "joined": "2023-05-04",
+   "risk_flag": null
+  },
+  "B-4103": {
+   "name": "Omar Al-Doseri",
+   "joined": "2026-10-09",
+   "risk_flag": null
+  },
+  "B-4104": {
+   "name": "Aisha Buali",
+   "joined": "2026-05-28",
+   "risk_flag": null
+  },
+  "B-4105": {
+   "name": "Sara Kanoo",
+   "joined": "2023-10-06",
+   "risk_flag": null
+  },
+  "B-4106": {
+   "name": "Fatima Kanoo",
+   "joined": "2026-03-27",
+   "risk_flag": null
+  },
+  "B-4107": {
+   "name": "Jassim Matar",
+   "joined": "2025-02-01",
+   "risk_flag": null
+  },
+  "B-4108": {
+   "name": "Mohamed Al-Zayani",
+   "joined": "2020-07-05",
+   "risk_flag": null
+  },
+  "B-4109": {
+   "name": "Huda Al-Sayed",
+   "joined": "2016-02-19",
+   "risk_flag": null
+  },
+  "B-4110": {
+   "name": "Fatima Al-Zayani",
+   "joined": "2026-10-11",
+   "risk_flag": null
+  },
+  "B-4111": {
+   "name": "Sara Isa",
+   "joined": "2016-11-25",
+   "risk_flag": null
+  },
+  "B-4112": {
+   "name": "Huda Hasan",
+   "joined": "2024-12-31",
+   "risk_flag": null
+  },
+  "B-4113": {
+   "name": "Aisha Al-Zayani",
+   "joined": "2025-07-31",
+   "risk_flag": null
+  },
+  "B-4114": {
+   "name": "Fatima Al-Aali",
+   "joined": "2021-12-31",
+   "risk_flag": null
+  },
+  "B-4115": {
+   "name": "Khalid Rami",
+   "joined": "2022-08-21",
+   "risk_flag": null
+  },
+  "B-4116": {
+   "name": "Khalid Isa",
+   "joined": "2026-08-18",
+   "risk_flag": null
+  },
+  "B-4117": {
+   "name": "Omar Al-Zayani",
+   "joined": "2023-06-04",
+   "risk_flag": null
+  },
+  "B-4118": {
+   "name": "Reem Buali",
+   "joined": "2019-05-21",
+   "risk_flag": null
+  },
+  "B-4119": {
+   "name": "Huda Al-Mahmood",
+   "joined": "2022-03-26",
+   "risk_flag": null
+  }
+ },
+ "cards": {
+  "5521": {
+   "customer_id": "B-3001",
+   "type": "debit",
+   "status": "active"
+  },
+  "8890": {
+   "customer_id": "B-3001",
+   "type": "credit",
+   "status": "active"
+  },
+  "4402": {
+   "customer_id": "B-3002",
+   "type": "credit",
+   "status": "active"
+  },
+  "7713": {
+   "customer_id": "B-3004",
+   "type": "credit",
+   "status": "active"
+  },
+  "5637": {
+   "customer_id": "B-4000",
+   "type": "credit",
+   "status": "active"
+  },
+  "3434": {
+   "customer_id": "B-4001",
+   "type": "credit",
+   "status": "active"
+  },
+  "2353": {
+   "customer_id": "B-4002",
+   "type": "debit",
+   "status": "active"
+  },
+  "9830": {
+   "customer_id": "B-4003",
+   "type": "debit",
+   "status": "active"
+  },
+  "5910": {
+   "customer_id": "B-4004",
+   "type": "debit",
+   "status": "active"
+  },
+  "5413": {
+   "customer_id": "B-4005",
+   "type": "debit",
+   "status": "active"
+  },
+  "5620": {
+   "customer_id": "B-4006",
+   "type": "credit",
+   "status": "active"
+  },
+  "8008": {
+   "customer_id": "B-4007",
+   "type": "debit",
+   "status": "active"
+  },
+  "9722": {
+   "customer_id": "B-4008",
+   "type": "debit",
+   "status": "active"
+  },
+  "9118": {
+   "customer_id": "B-4009",
+   "type": "credit",
+   "status": "active"
+  },
+  "9446": {
+   "customer_id": "B-4010",
+   "type": "debit",
+   "status": "active"
+  },
+  "3984": {
+   "customer_id": "B-4011",
+   "type": "credit",
+   "status": "active"
+  },
+  "7898": {
+   "customer_id": "B-4030",
+   "type": "debit",
+   "status": "active"
+  },
+  "7370": {
+   "customer_id": "B-4013",
+   "type": "debit",
+   "status": "active"
+  },
+  "5623": {
+   "customer_id": "B-4014",
+   "type": "credit",
+   "status": "active"
+  },
+  "2688": {
+   "customer_id": "B-4015",
+   "type": "debit",
+   "status": "active"
+  },
+  "8851": {
+   "customer_id": "B-4016",
+   "type": "debit",
+   "status": "active"
+  },
+  "4441": {
+   "customer_id": "B-4017",
+   "type": "credit",
+   "status": "active"
+  },
+  "4309": {
+   "customer_id": "B-4018",
+   "type": "debit",
+   "status": "active"
+  },
+  "9581": {
+   "customer_id": "B-4019",
+   "type": "debit",
+   "status": "active"
+  },
+  "7393": {
+   "customer_id": "B-4020",
+   "type": "credit",
+   "status": "active"
+  },
+  "7047": {
+   "customer_id": "B-4021",
+   "type": "credit",
+   "status": "active"
+  },
+  "3895": {
+   "customer_id": "B-4022",
+   "type": "credit",
+   "status": "active"
+  },
+  "6312": {
+   "customer_id": "B-4023",
+   "type": "credit",
+   "status": "active"
+  },
+  "6081": {
+   "customer_id": "B-4024",
+   "type": "debit",
+   "status": "active"
+  },
+  "1222": {
+   "customer_id": "B-4025",
+   "type": "debit",
+   "status": "active"
+  },
+  "3531": {
+   "customer_id": "B-4026",
+   "type": "debit",
+   "status": "active"
+  },
+  "1393": {
+   "customer_id": "B-4027",
+   "type": "debit",
+   "status": "active"
+  },
+  "5940": {
+   "customer_id": "B-4028",
+   "type": "credit",
+   "status": "active"
+  },
+  "3089": {
+   "customer_id": "B-4029",
+   "type": "debit",
+   "status": "active"
+  },
+  "2294": {
+   "customer_id": "B-4031",
+   "type": "debit",
+   "status": "active"
+  },
+  "1216": {
+   "customer_id": "B-4032",
+   "type": "credit",
+   "status": "active"
+  },
+  "6014": {
+   "customer_id": "B-4033",
+   "type": "debit",
+   "status": "active"
+  },
+  "6496": {
+   "customer_id": "B-4034",
+   "type": "debit",
+   "status": "active"
+  },
+  "6056": {
+   "customer_id": "B-4035",
+   "type": "debit",
+   "status": "active"
+  },
+  "8587": {
+   "customer_id": "B-4036",
+   "type": "debit",
+   "status": "active"
+  },
+  "3780": {
+   "customer_id": "B-4037",
+   "type": "credit",
+   "status": "active"
+  },
+  "7568": {
+   "customer_id": "B-4038",
+   "type": "credit",
+   "status": "active"
+  },
+  "6610": {
+   "customer_id": "B-4039",
+   "type": "credit",
+   "status": "active"
+  },
+  "4465": {
+   "customer_id": "B-4040",
+   "type": "debit",
+   "status": "active"
+  },
+  "8514": {
+   "customer_id": "B-4041",
+   "type": "debit",
+   "status": "active"
+  },
+  "5947": {
+   "customer_id": "B-4042",
+   "type": "credit",
+   "status": "active"
+  },
+  "9924": {
+   "customer_id": "B-4043",
+   "type": "debit",
+   "status": "active"
+  },
+  "8045": {
+   "customer_id": "B-4044",
+   "type": "debit",
+   "status": "active"
+  },
+  "9907": {
+   "customer_id": "B-4045",
+   "type": "debit",
+   "status": "active"
+  },
+  "4407": {
+   "customer_id": "B-4046",
+   "type": "credit",
+   "status": "active"
+  },
+  "3927": {
+   "customer_id": "B-4047",
+   "type": "debit",
+   "status": "active"
+  },
+  "3496": {
+   "customer_id": "B-4048",
+   "type": "debit",
+   "status": "active"
+  },
+  "2052": {
+   "customer_id": "B-4049",
+   "type": "credit",
+   "status": "active"
+  },
+  "3376": {
+   "customer_id": "B-4050",
+   "type": "credit",
+   "status": "active"
+  },
+  "5555": {
+   "customer_id": "B-4051",
+   "type": "debit",
+   "status": "active"
+  },
+  "7800": {
+   "customer_id": "B-4052",
+   "type": "credit",
+   "status": "active"
+  },
+  "4131": {
+   "customer_id": "B-4053",
+   "type": "credit",
+   "status": "active"
+  },
+  "9103": {
+   "customer_id": "B-4054",
+   "type": "debit",
+   "status": "active"
+  },
+  "6957": {
+   "customer_id": "B-4055",
+   "type": "credit",
+   "status": "active"
+  },
+  "9321": {
+   "customer_id": "B-4056",
+   "type": "credit",
+   "status": "active"
+  },
+  "1817": {
+   "customer_id": "B-4057",
+   "type": "debit",
+   "status": "active"
+  },
+  "5395": {
+   "customer_id": "B-4058",
+   "type": "credit",
+   "status": "active"
+  },
+  "8458": {
+   "customer_id": "B-4059",
+   "type": "debit",
+   "status": "active"
+  },
+  "8742": {
+   "customer_id": "B-4060",
+   "type": "debit",
+   "status": "active"
+  },
+  "9940": {
+   "customer_id": "B-4061",
+   "type": "credit",
+   "status": "active"
+  },
+  "6715": {
+   "customer_id": "B-4062",
+   "type": "credit",
+   "status": "active"
+  },
+  "1255": {
+   "customer_id": "B-4063",
+   "type": "credit",
+   "status": "active"
+  },
+  "9224": {
+   "customer_id": "B-4064",
+   "type": "debit",
+   "status": "active"
+  },
+  "2607": {
+   "customer_id": "B-4065",
+   "type": "credit",
+   "status": "active"
+  },
+  "6132": {
+   "customer_id": "B-4066",
+   "type": "credit",
+   "status": "active"
+  },
+  "1896": {
+   "customer_id": "B-4067",
+   "type": "credit",
+   "status": "active"
+  },
+  "4015": {
+   "customer_id": "B-4068",
+   "type": "debit",
+   "status": "active"
+  },
+  "8509": {
+   "customer_id": "B-4069",
+   "type": "credit",
+   "status": "active"
+  },
+  "3294": {
+   "customer_id": "B-4070",
+   "type": "credit",
+   "status": "active"
+  },
+  "2194": {
+   "customer_id": "B-4071",
+   "type": "credit",
+   "status": "active"
+  },
+  "3258": {
+   "customer_id": "B-4072",
+   "type": "debit",
+   "status": "active"
+  },
+  "9944": {
+   "customer_id": "B-4073",
+   "type": "debit",
+   "status": "active"
+  },
+  "2704": {
+   "customer_id": "B-4074",
+   "type": "debit",
+   "status": "active"
+  },
+  "8152": {
+   "customer_id": "B-4075",
+   "type": "debit",
+   "status": "active"
+  },
+  "5001": {
+   "customer_id": "B-4076",
+   "type": "credit",
+   "status": "active"
+  },
+  "9631": {
+   "customer_id": "B-4077",
+   "type": "credit",
+   "status": "active"
+  },
+  "2871": {
+   "customer_id": "B-4078",
+   "type": "debit",
+   "status": "active"
+  },
+  "8111": {
+   "customer_id": "B-4079",
+   "type": "credit",
+   "status": "active"
+  },
+  "8207": {
+   "customer_id": "B-4080",
+   "type": "debit",
+   "status": "active"
+  },
+  "4734": {
+   "customer_id": "B-4081",
+   "type": "debit",
+   "status": "active"
+  },
+  "9326": {
+   "customer_id": "B-4082",
+   "type": "credit",
+   "status": "active"
+  },
+  "9592": {
+   "customer_id": "B-4083",
+   "type": "credit",
+   "status": "active"
+  },
+  "3052": {
+   "customer_id": "B-4084",
+   "type": "debit",
+   "status": "active"
+  },
+  "6515": {
+   "customer_id": "B-4085",
+   "type": "debit",
+   "status": "active"
+  },
+  "3923": {
+   "customer_id": "B-4086",
+   "type": "debit",
+   "status": "active"
+  },
+  "4664": {
+   "customer_id": "B-4087",
+   "type": "debit",
+   "status": "active"
+  },
+  "3067": {
+   "customer_id": "B-4088",
+   "type": "credit",
+   "status": "active"
+  },
+  "1628": {
+   "customer_id": "B-4089",
+   "type": "credit",
+   "status": "active"
+  },
+  "4205": {
+   "customer_id": "B-4090",
+   "type": "credit",
+   "status": "active"
+  },
+  "5786": {
+   "customer_id": "B-4091",
+   "type": "credit",
+   "status": "active"
+  },
+  "5766": {
+   "customer_id": "B-4092",
+   "type": "credit",
+   "status": "active"
+  },
+  "7212": {
+   "customer_id": "B-4093",
+   "type": "debit",
+   "status": "active"
+  },
+  "5423": {
+   "customer_id": "B-4094",
+   "type": "debit",
+   "status": "active"
+  },
+  "6114": {
+   "customer_id": "B-4095",
+   "type": "credit",
+   "status": "active"
+  },
+  "7510": {
+   "customer_id": "B-4096",
+   "type": "debit",
+   "status": "active"
+  },
+  "7660": {
+   "customer_id": "B-4097",
+   "type": "debit",
+   "status": "active"
+  },
+  "2862": {
+   "customer_id": "B-4098",
+   "type": "debit",
+   "status": "active"
+  },
+  "6409": {
+   "customer_id": "B-4099",
+   "type": "debit",
+   "status": "active"
+  },
+  "6741": {
+   "customer_id": "B-4100",
+   "type": "debit",
+   "status": "active"
+  },
+  "7274": {
+   "customer_id": "B-4101",
+   "type": "credit",
+   "status": "active"
+  },
+  "6193": {
+   "customer_id": "B-4102",
+   "type": "debit",
+   "status": "active"
+  },
+  "6381": {
+   "customer_id": "B-4103",
+   "type": "debit",
+   "status": "active"
+  },
+  "3509": {
+   "customer_id": "B-4104",
+   "type": "debit",
+   "status": "active"
+  },
+  "2928": {
+   "customer_id": "B-4105",
+   "type": "credit",
+   "status": "active"
+  },
+  "5703": {
+   "customer_id": "B-4106",
+   "type": "debit",
+   "status": "active"
+  },
+  "4451": {
+   "customer_id": "B-4107",
+   "type": "credit",
+   "status": "active"
+  },
+  "1554": {
+   "customer_id": "B-4108",
+   "type": "credit",
+   "status": "active"
+  },
+  "1467": {
+   "customer_id": "B-4109",
+   "type": "debit",
+   "status": "active"
+  },
+  "6647": {
+   "customer_id": "B-4110",
+   "type": "debit",
+   "status": "active"
+  },
+  "4852": {
+   "customer_id": "B-4111",
+   "type": "credit",
+   "status": "active"
+  },
+  "9476": {
+   "customer_id": "B-4112",
+   "type": "debit",
+   "status": "active"
+  },
+  "7947": {
+   "customer_id": "B-4113",
+   "type": "credit",
+   "status": "active"
+  },
+  "6658": {
+   "customer_id": "B-4114",
+   "type": "credit",
+   "status": "active"
+  },
+  "4525": {
+   "customer_id": "B-4115",
+   "type": "credit",
+   "status": "active"
+  },
+  "4621": {
+   "customer_id": "B-4116",
+   "type": "debit",
+   "status": "active"
+  },
+  "6166": {
+   "customer_id": "B-4117",
+   "type": "credit",
+   "status": "active"
+  },
+  "6206": {
+   "customer_id": "B-4118",
+   "type": "credit",
+   "status": "active"
+  },
+  "1475": {
+   "customer_id": "B-4119",
+   "type": "debit",
+   "status": "active"
+  }
+ },
+ "transactions": {
+  "T-7001": {
+   "customer_id": "B-3002",
+   "card": "4402",
+   "merchant": "SHOPNOVA*ONLINE",
+   "amount": 32.5,
+   "status": "posted",
+   "date": "2026-10-31",
+   "disputed": false
+  },
+  "T-7002": {
+   "customer_id": "B-3002",
+   "card": "4402",
+   "merchant": "TRAVELHUB BOOKING",
+   "amount": 88.0,
+   "status": "pending",
+   "date": "2026-11-09",
+   "disputed": false
+  },
+  "T-7003": {
+   "customer_id": "B-3004",
+   "card": "7713",
+   "merchant": "GYMPRO MEMBERSHIP",
+   "amount": 45.0,
+   "status": "posted",
+   "date": "2026-04-24",
+   "disputed": false
+  },
+  "T-7004": {
+   "customer_id": "B-3004",
+   "card": "7713",
+   "merchant": "LUXE WATCHES DXB",
+   "amount": 450.0,
+   "status": "posted",
+   "date": "2026-11-04",
+   "disputed": false
+  },
+  "T-7005": {
+   "customer_id": "B-3002",
+   "card": "4402",
+   "merchant": "STREAMFLIX",
+   "amount": 4.9,
+   "status": "posted",
+   "date": "2026-10-21",
+   "disputed": true
+  },
+  "T-7006": {
+   "customer_id": "B-3001",
+   "card": "8890",
+   "merchant": "ELECTRO SOUQ",
+   "amount": 61.0,
+   "status": "posted",
+   "date": "2026-11-07",
+   "disputed": false
+  },
+  "T-8000": {
+   "customer_id": "B-4000",
+   "card": "5637",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 210.631,
+   "status": "posted",
+   "date": "2026-10-17",
+   "disputed": false
+  },
+  "T-8001": {
+   "customer_id": "B-4000",
+   "card": "5637",
+   "merchant": "TALABAT",
+   "amount": 259.891,
+   "status": "pending",
+   "date": "2026-05-13",
+   "disputed": false
+  },
+  "T-8002": {
+   "customer_id": "B-4000",
+   "card": "5637",
+   "merchant": "CARREFOUR",
+   "amount": 49.945,
+   "status": "posted",
+   "date": "2026-05-16",
+   "disputed": false
+  },
+  "T-8003": {
+   "customer_id": "B-4000",
+   "card": "5637",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 63.72,
+   "status": "posted",
+   "date": "2026-09-21",
+   "disputed": false
+  },
+  "T-8004": {
+   "customer_id": "B-4000",
+   "card": "5637",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 109.306,
+   "status": "posted",
+   "date": "2026-10-15",
+   "disputed": false
+  },
+  "T-8005": {
+   "customer_id": "B-4000",
+   "card": "5637",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 113.59,
+   "status": "posted",
+   "date": "2026-05-21",
+   "disputed": false
+  },
+  "T-8006": {
+   "customer_id": "B-4000",
+   "card": "5637",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 29.718,
+   "status": "posted",
+   "date": "2026-09-26",
+   "disputed": false
+  },
+  "T-8010": {
+   "customer_id": "B-4001",
+   "card": "3434",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 36.522,
+   "status": "posted",
+   "date": "2026-08-25",
+   "disputed": false
+  },
+  "T-8011": {
+   "customer_id": "B-4001",
+   "card": "3434",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 196.186,
+   "status": "posted",
+   "date": "2026-05-17",
+   "disputed": false
+  },
+  "T-8012": {
+   "customer_id": "B-4001",
+   "card": "3434",
+   "merchant": "CARREFOUR",
+   "amount": 197.897,
+   "status": "posted",
+   "date": "2026-05-28",
+   "disputed": false
+  },
+  "T-8020": {
+   "customer_id": "B-4002",
+   "card": "2353",
+   "merchant": "CARREFOUR",
+   "amount": 200.969,
+   "status": "posted",
+   "date": "2026-11-05",
+   "disputed": false
+  },
+  "T-8021": {
+   "customer_id": "B-4002",
+   "card": "2353",
+   "merchant": "TALABAT",
+   "amount": 144.37,
+   "status": "posted",
+   "date": "2026-10-17",
+   "disputed": false
+  },
+  "T-8022": {
+   "customer_id": "B-4002",
+   "card": "2353",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 115.804,
+   "status": "posted",
+   "date": "2026-05-15",
+   "disputed": false
+  },
+  "T-8023": {
+   "customer_id": "B-4002",
+   "card": "2353",
+   "merchant": "TALABAT",
+   "amount": 38.446,
+   "status": "posted",
+   "date": "2026-05-12",
+   "disputed": false
+  },
+  "T-8024": {
+   "customer_id": "B-4002",
+   "card": "2353",
+   "merchant": "TALABAT",
+   "amount": 56.282,
+   "status": "posted",
+   "date": "2026-11-05",
+   "disputed": false
+  },
+  "T-8030": {
+   "customer_id": "B-4003",
+   "card": "9830",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 289.739,
+   "status": "posted",
+   "date": "2026-09-25",
+   "disputed": false
+  },
+  "T-8031": {
+   "customer_id": "B-4003",
+   "card": "9830",
+   "merchant": "CARREFOUR",
+   "amount": 54.801,
+   "status": "posted",
+   "date": "2026-08-22",
+   "disputed": false
+  },
+  "T-8032": {
+   "customer_id": "B-4003",
+   "card": "9830",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 172.949,
+   "status": "posted",
+   "date": "2026-10-19",
+   "disputed": false
+  },
+  "T-8033": {
+   "customer_id": "B-4003",
+   "card": "9830",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 26.298,
+   "status": "posted",
+   "date": "2026-08-26",
+   "disputed": false
+  },
+  "T-8034": {
+   "customer_id": "B-4003",
+   "card": "9830",
+   "merchant": "TALABAT",
+   "amount": 52.309,
+   "status": "posted",
+   "date": "2026-05-26",
+   "disputed": true
+  },
+  "T-8035": {
+   "customer_id": "B-4003",
+   "card": "9830",
+   "merchant": "BAPCO FUEL",
+   "amount": 14.804,
+   "status": "posted",
+   "date": "2026-04-24",
+   "disputed": false
+  },
+  "T-8036": {
+   "customer_id": "B-4003",
+   "card": "9830",
+   "merchant": "TALABAT",
+   "amount": 134.031,
+   "status": "posted",
+   "date": "2026-05-17",
+   "disputed": false
+  },
+  "T-8037": {
+   "customer_id": "B-4003",
+   "card": "9830",
+   "merchant": "BAPCO FUEL",
+   "amount": 182.245,
+   "status": "posted",
+   "date": "2026-05-18",
+   "disputed": false
+  },
+  "T-8040": {
+   "customer_id": "B-4004",
+   "card": "5910",
+   "merchant": "TALABAT",
+   "amount": 166.069,
+   "status": "posted",
+   "date": "2026-08-31",
+   "disputed": false
+  },
+  "T-8041": {
+   "customer_id": "B-4004",
+   "card": "5910",
+   "merchant": "TALABAT",
+   "amount": 127.182,
+   "status": "posted",
+   "date": "2026-09-05",
+   "disputed": false
+  },
+  "T-8042": {
+   "customer_id": "B-4004",
+   "card": "5910",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 120.618,
+   "status": "pending",
+   "date": "2026-09-06",
+   "disputed": false
+  },
+  "T-8050": {
+   "customer_id": "B-4005",
+   "card": "5413",
+   "merchant": "BAPCO FUEL",
+   "amount": 169.529,
+   "status": "posted",
+   "date": "2026-07-03",
+   "disputed": false
+  },
+  "T-8051": {
+   "customer_id": "B-4005",
+   "card": "5413",
+   "merchant": "AMAZON.AE",
+   "amount": 246.649,
+   "status": "posted",
+   "date": "2026-07-22",
+   "disputed": false
+  },
+  "T-8052": {
+   "customer_id": "B-4005",
+   "card": "5413",
+   "merchant": "TALABAT",
+   "amount": 75.002,
+   "status": "posted",
+   "date": "2026-06-27",
+   "disputed": false
+  },
+  "T-8053": {
+   "customer_id": "B-4005",
+   "card": "5413",
+   "merchant": "TALABAT",
+   "amount": 122.628,
+   "status": "posted",
+   "date": "2026-10-19",
+   "disputed": false
+  },
+  "T-8054": {
+   "customer_id": "B-4005",
+   "card": "5413",
+   "merchant": "BAPCO FUEL",
+   "amount": 233.643,
+   "status": "posted",
+   "date": "2026-09-14",
+   "disputed": false
+  },
+  "T-8055": {
+   "customer_id": "B-4005",
+   "card": "5413",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 113.77,
+   "status": "posted",
+   "date": "2026-08-06",
+   "disputed": false
+  },
+  "T-8056": {
+   "customer_id": "B-4005",
+   "card": "5413",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 53.544,
+   "status": "posted",
+   "date": "2026-08-24",
+   "disputed": false
+  },
+  "T-8060": {
+   "customer_id": "B-4006",
+   "card": "5620",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 269.075,
+   "status": "posted",
+   "date": "2026-05-02",
+   "disputed": false
+  },
+  "T-8061": {
+   "customer_id": "B-4006",
+   "card": "5620",
+   "merchant": "BAPCO FUEL",
+   "amount": 242.019,
+   "status": "posted",
+   "date": "2026-06-27",
+   "disputed": false
+  },
+  "T-8062": {
+   "customer_id": "B-4006",
+   "card": "5620",
+   "merchant": "AMAZON.AE",
+   "amount": 143.582,
+   "status": "posted",
+   "date": "2026-11-08",
+   "disputed": false
+  },
+  "T-8063": {
+   "customer_id": "B-4006",
+   "card": "5620",
+   "merchant": "CARREFOUR",
+   "amount": 47.492,
+   "status": "posted",
+   "date": "2026-08-06",
+   "disputed": false
+  },
+  "T-8064": {
+   "customer_id": "B-4006",
+   "card": "5620",
+   "merchant": "BAPCO FUEL",
+   "amount": 16.807,
+   "status": "posted",
+   "date": "2026-08-08",
+   "disputed": false
+  },
+  "T-8065": {
+   "customer_id": "B-4006",
+   "card": "5620",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 203.786,
+   "status": "posted",
+   "date": "2026-07-16",
+   "disputed": false
+  },
+  "T-8070": {
+   "customer_id": "B-4007",
+   "card": "8008",
+   "merchant": "CARREFOUR",
+   "amount": 257.519,
+   "status": "posted",
+   "date": "2026-07-29",
+   "disputed": false
+  },
+  "T-8071": {
+   "customer_id": "B-4007",
+   "card": "8008",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 190.768,
+   "status": "pending",
+   "date": "2026-09-10",
+   "disputed": false
+  },
+  "T-8072": {
+   "customer_id": "B-4007",
+   "card": "8008",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 173.02,
+   "status": "pending",
+   "date": "2026-08-29",
+   "disputed": false
+  },
+  "T-8073": {
+   "customer_id": "B-4007",
+   "card": "8008",
+   "merchant": "AMAZON.AE",
+   "amount": 242.696,
+   "status": "pending",
+   "date": "2026-07-25",
+   "disputed": false
+  },
+  "T-8080": {
+   "customer_id": "B-4008",
+   "card": "9722",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 185.27,
+   "status": "posted",
+   "date": "2026-05-04",
+   "disputed": true
+  },
+  "T-8081": {
+   "customer_id": "B-4008",
+   "card": "9722",
+   "merchant": "AMAZON.AE",
+   "amount": 211.075,
+   "status": "posted",
+   "date": "2026-09-09",
+   "disputed": false
+  },
+  "T-8082": {
+   "customer_id": "B-4008",
+   "card": "9722",
+   "merchant": "CARREFOUR",
+   "amount": 285.31,
+   "status": "posted",
+   "date": "2026-06-28",
+   "disputed": false
+  },
+  "T-8083": {
+   "customer_id": "B-4008",
+   "card": "9722",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 182.605,
+   "status": "posted",
+   "date": "2026-05-22",
+   "disputed": false
+  },
+  "T-8084": {
+   "customer_id": "B-4008",
+   "card": "9722",
+   "merchant": "TALABAT",
+   "amount": 271.236,
+   "status": "posted",
+   "date": "2026-08-09",
+   "disputed": false
+  },
+  "T-8090": {
+   "customer_id": "B-4009",
+   "card": "9118",
+   "merchant": "BAPCO FUEL",
+   "amount": 290.949,
+   "status": "posted",
+   "date": "2026-05-21",
+   "disputed": false
+  },
+  "T-8091": {
+   "customer_id": "B-4009",
+   "card": "9118",
+   "merchant": "TALABAT",
+   "amount": 255.382,
+   "status": "posted",
+   "date": "2026-08-28",
+   "disputed": false
+  },
+  "T-8092": {
+   "customer_id": "B-4009",
+   "card": "9118",
+   "merchant": "BAPCO FUEL",
+   "amount": 80.16,
+   "status": "pending",
+   "date": "2026-06-02",
+   "disputed": false
+  },
+  "T-8100": {
+   "customer_id": "B-4010",
+   "card": "9446",
+   "merchant": "TALABAT",
+   "amount": 254.657,
+   "status": "pending",
+   "date": "2026-11-09",
+   "disputed": false
+  },
+  "T-8101": {
+   "customer_id": "B-4010",
+   "card": "9446",
+   "merchant": "BAPCO FUEL",
+   "amount": 90.207,
+   "status": "posted",
+   "date": "2026-08-13",
+   "disputed": false
+  },
+  "T-8102": {
+   "customer_id": "B-4010",
+   "card": "9446",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 121.218,
+   "status": "pending",
+   "date": "2026-07-23",
+   "disputed": false
+  },
+  "T-8103": {
+   "customer_id": "B-4010",
+   "card": "9446",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 159.2,
+   "status": "posted",
+   "date": "2026-07-28",
+   "disputed": false
+  },
+  "T-8104": {
+   "customer_id": "B-4010",
+   "card": "9446",
+   "merchant": "AMAZON.AE",
+   "amount": 3.066,
+   "status": "posted",
+   "date": "2026-09-07",
+   "disputed": false
+  },
+  "T-8110": {
+   "customer_id": "B-4011",
+   "card": "3984",
+   "merchant": "AMAZON.AE",
+   "amount": 197.228,
+   "status": "posted",
+   "date": "2026-10-06",
+   "disputed": false
+  },
+  "T-8111": {
+   "customer_id": "B-4011",
+   "card": "3984",
+   "merchant": "AMAZON.AE",
+   "amount": 2.737,
+   "status": "posted",
+   "date": "2026-05-13",
+   "disputed": false
+  },
+  "T-8120": {
+   "customer_id": "B-4012",
+   "card": "7898",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 200.195,
+   "status": "posted",
+   "date": "2026-05-24",
+   "disputed": false
+  },
+  "T-8121": {
+   "customer_id": "B-4012",
+   "card": "7898",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 126.908,
+   "status": "posted",
+   "date": "2026-05-20",
+   "disputed": false
+  },
+  "T-8130": {
+   "customer_id": "B-4013",
+   "card": "7370",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 238.021,
+   "status": "posted",
+   "date": "2026-08-14",
+   "disputed": false
+  },
+  "T-8131": {
+   "customer_id": "B-4013",
+   "card": "7370",
+   "merchant": "CARREFOUR",
+   "amount": 71.715,
+   "status": "posted",
+   "date": "2026-08-15",
+   "disputed": false
+  },
+  "T-8140": {
+   "customer_id": "B-4014",
+   "card": "5623",
+   "merchant": "AMAZON.AE",
+   "amount": 75.076,
+   "status": "posted",
+   "date": "2026-07-03",
+   "disputed": false
+  },
+  "T-8141": {
+   "customer_id": "B-4014",
+   "card": "5623",
+   "merchant": "BAPCO FUEL",
+   "amount": 230.252,
+   "status": "posted",
+   "date": "2026-05-15",
+   "disputed": false
+  },
+  "T-8150": {
+   "customer_id": "B-4015",
+   "card": "2688",
+   "merchant": "TALABAT",
+   "amount": 189.043,
+   "status": "posted",
+   "date": "2026-10-11",
+   "disputed": false
+  },
+  "T-8151": {
+   "customer_id": "B-4015",
+   "card": "2688",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 82.885,
+   "status": "posted",
+   "date": "2026-10-04",
+   "disputed": false
+  },
+  "T-8152": {
+   "customer_id": "B-4015",
+   "card": "2688",
+   "merchant": "TALABAT",
+   "amount": 60.693,
+   "status": "posted",
+   "date": "2026-08-05",
+   "disputed": false
+  },
+  "T-8160": {
+   "customer_id": "B-4016",
+   "card": "8851",
+   "merchant": "AMAZON.AE",
+   "amount": 193.518,
+   "status": "posted",
+   "date": "2026-09-03",
+   "disputed": false
+  },
+  "T-8161": {
+   "customer_id": "B-4016",
+   "card": "8851",
+   "merchant": "BAPCO FUEL",
+   "amount": 213.764,
+   "status": "posted",
+   "date": "2026-10-29",
+   "disputed": false
+  },
+  "T-8162": {
+   "customer_id": "B-4016",
+   "card": "8851",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 16.587,
+   "status": "posted",
+   "date": "2026-09-17",
+   "disputed": false
+  },
+  "T-8163": {
+   "customer_id": "B-4016",
+   "card": "8851",
+   "merchant": "BAPCO FUEL",
+   "amount": 272.636,
+   "status": "posted",
+   "date": "2026-09-24",
+   "disputed": false
+  },
+  "T-8164": {
+   "customer_id": "B-4016",
+   "card": "8851",
+   "merchant": "AMAZON.AE",
+   "amount": 109.711,
+   "status": "posted",
+   "date": "2026-10-17",
+   "disputed": false
+  },
+  "T-8165": {
+   "customer_id": "B-4016",
+   "card": "8851",
+   "merchant": "CARREFOUR",
+   "amount": 165.979,
+   "status": "posted",
+   "date": "2026-08-18",
+   "disputed": false
+  },
+  "T-8170": {
+   "customer_id": "B-4017",
+   "card": "4441",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 40.015,
+   "status": "posted",
+   "date": "2026-10-11",
+   "disputed": false
+  },
+  "T-8171": {
+   "customer_id": "B-4017",
+   "card": "4441",
+   "merchant": "CARREFOUR",
+   "amount": 245.405,
+   "status": "posted",
+   "date": "2026-07-19",
+   "disputed": false
+  },
+  "T-8180": {
+   "customer_id": "B-4018",
+   "card": "4309",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 58.32,
+   "status": "posted",
+   "date": "2026-09-07",
+   "disputed": false
+  },
+  "T-8181": {
+   "customer_id": "B-4018",
+   "card": "4309",
+   "merchant": "TALABAT",
+   "amount": 292.563,
+   "status": "posted",
+   "date": "2026-07-19",
+   "disputed": false
+  },
+  "T-8190": {
+   "customer_id": "B-4019",
+   "card": "9581",
+   "merchant": "TALABAT",
+   "amount": 82.97,
+   "status": "posted",
+   "date": "2026-08-28",
+   "disputed": false
+  },
+  "T-8191": {
+   "customer_id": "B-4019",
+   "card": "9581",
+   "merchant": "TALABAT",
+   "amount": 19.177,
+   "status": "posted",
+   "date": "2026-09-23",
+   "disputed": false
+  },
+  "T-8192": {
+   "customer_id": "B-4019",
+   "card": "9581",
+   "merchant": "AMAZON.AE",
+   "amount": 149.013,
+   "status": "posted",
+   "date": "2026-07-02",
+   "disputed": false
+  },
+  "T-8200": {
+   "customer_id": "B-4020",
+   "card": "7393",
+   "merchant": "BAPCO FUEL",
+   "amount": 62.87,
+   "status": "pending",
+   "date": "2026-06-17",
+   "disputed": false
+  },
+  "T-8201": {
+   "customer_id": "B-4020",
+   "card": "7393",
+   "merchant": "CARREFOUR",
+   "amount": 3.65,
+   "status": "posted",
+   "date": "2026-07-02",
+   "disputed": false
+  },
+  "T-8202": {
+   "customer_id": "B-4020",
+   "card": "7393",
+   "merchant": "CARREFOUR",
+   "amount": 216.453,
+   "status": "posted",
+   "date": "2026-09-15",
+   "disputed": false
+  },
+  "T-8203": {
+   "customer_id": "B-4020",
+   "card": "7393",
+   "merchant": "BAPCO FUEL",
+   "amount": 166.093,
+   "status": "posted",
+   "date": "2026-10-30",
+   "disputed": false
+  },
+  "T-8204": {
+   "customer_id": "B-4020",
+   "card": "7393",
+   "merchant": "BAPCO FUEL",
+   "amount": 12.688,
+   "status": "posted",
+   "date": "2026-08-31",
+   "disputed": false
+  },
+  "T-8205": {
+   "customer_id": "B-4020",
+   "card": "7393",
+   "merchant": "BAPCO FUEL",
+   "amount": 262.141,
+   "status": "pending",
+   "date": "2026-09-08",
+   "disputed": false
+  },
+  "T-8210": {
+   "customer_id": "B-4021",
+   "card": "7047",
+   "merchant": "CARREFOUR",
+   "amount": 265.312,
+   "status": "posted",
+   "date": "2026-10-07",
+   "disputed": false
+  },
+  "T-8211": {
+   "customer_id": "B-4021",
+   "card": "7047",
+   "merchant": "TALABAT",
+   "amount": 89.174,
+   "status": "posted",
+   "date": "2026-06-03",
+   "disputed": false
+  },
+  "T-8220": {
+   "customer_id": "B-4022",
+   "card": "3895",
+   "merchant": "TALABAT",
+   "amount": 197.538,
+   "status": "posted",
+   "date": "2026-04-25",
+   "disputed": false
+  },
+  "T-8221": {
+   "customer_id": "B-4022",
+   "card": "3895",
+   "merchant": "CARREFOUR",
+   "amount": 223.985,
+   "status": "posted",
+   "date": "2026-05-27",
+   "disputed": false
+  },
+  "T-8230": {
+   "customer_id": "B-4023",
+   "card": "6312",
+   "merchant": "TALABAT",
+   "amount": 189.31,
+   "status": "posted",
+   "date": "2026-08-01",
+   "disputed": false
+  },
+  "T-8231": {
+   "customer_id": "B-4023",
+   "card": "6312",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 219.214,
+   "status": "posted",
+   "date": "2026-10-04",
+   "disputed": false
+  },
+  "T-8232": {
+   "customer_id": "B-4023",
+   "card": "6312",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 149.292,
+   "status": "posted",
+   "date": "2026-09-26",
+   "disputed": false
+  },
+  "T-8240": {
+   "customer_id": "B-4024",
+   "card": "6081",
+   "merchant": "AMAZON.AE",
+   "amount": 206.523,
+   "status": "posted",
+   "date": "2026-10-05",
+   "disputed": false
+  },
+  "T-8241": {
+   "customer_id": "B-4024",
+   "card": "6081",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 137.052,
+   "status": "posted",
+   "date": "2026-07-30",
+   "disputed": false
+  },
+  "T-8242": {
+   "customer_id": "B-4024",
+   "card": "6081",
+   "merchant": "TALABAT",
+   "amount": 42.05,
+   "status": "posted",
+   "date": "2026-11-07",
+   "disputed": false
+  },
+  "T-8250": {
+   "customer_id": "B-4025",
+   "card": "1222",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 231.265,
+   "status": "posted",
+   "date": "2026-06-03",
+   "disputed": false
+  },
+  "T-8251": {
+   "customer_id": "B-4025",
+   "card": "1222",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 287.328,
+   "status": "posted",
+   "date": "2026-05-06",
+   "disputed": false
+  },
+  "T-8252": {
+   "customer_id": "B-4025",
+   "card": "1222",
+   "merchant": "CARREFOUR",
+   "amount": 26.405,
+   "status": "posted",
+   "date": "2026-04-30",
+   "disputed": false
+  },
+  "T-8260": {
+   "customer_id": "B-4026",
+   "card": "3531",
+   "merchant": "TALABAT",
+   "amount": 207.92,
+   "status": "posted",
+   "date": "2026-10-10",
+   "disputed": true
+  },
+  "T-8261": {
+   "customer_id": "B-4026",
+   "card": "3531",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 31.742,
+   "status": "posted",
+   "date": "2026-07-03",
+   "disputed": false
+  },
+  "T-8270": {
+   "customer_id": "B-4027",
+   "card": "1393",
+   "merchant": "AMAZON.AE",
+   "amount": 45.066,
+   "status": "posted",
+   "date": "2026-09-14",
+   "disputed": false
+  },
+  "T-8271": {
+   "customer_id": "B-4027",
+   "card": "1393",
+   "merchant": "CARREFOUR",
+   "amount": 116.038,
+   "status": "posted",
+   "date": "2026-10-13",
+   "disputed": false
+  },
+  "T-8272": {
+   "customer_id": "B-4027",
+   "card": "1393",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 68.132,
+   "status": "posted",
+   "date": "2026-08-30",
+   "disputed": false
+  },
+  "T-8273": {
+   "customer_id": "B-4027",
+   "card": "1393",
+   "merchant": "TALABAT",
+   "amount": 100.784,
+   "status": "posted",
+   "date": "2026-10-20",
+   "disputed": false
+  },
+  "T-8274": {
+   "customer_id": "B-4027",
+   "card": "1393",
+   "merchant": "TALABAT",
+   "amount": 46.18,
+   "status": "posted",
+   "date": "2026-08-17",
+   "disputed": false
+  },
+  "T-8280": {
+   "customer_id": "B-4028",
+   "card": "5940",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 82.057,
+   "status": "posted",
+   "date": "2026-08-08",
+   "disputed": false
+  },
+  "T-8281": {
+   "customer_id": "B-4028",
+   "card": "5940",
+   "merchant": "CARREFOUR",
+   "amount": 239.806,
+   "status": "posted",
+   "date": "2026-10-03",
+   "disputed": false
+  },
+  "T-8282": {
+   "customer_id": "B-4028",
+   "card": "5940",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 96.757,
+   "status": "posted",
+   "date": "2026-05-10",
+   "disputed": false
+  },
+  "T-8283": {
+   "customer_id": "B-4028",
+   "card": "5940",
+   "merchant": "AMAZON.AE",
+   "amount": 244.58,
+   "status": "posted",
+   "date": "2026-07-24",
+   "disputed": false
+  },
+  "T-8290": {
+   "customer_id": "B-4029",
+   "card": "3089",
+   "merchant": "AMAZON.AE",
+   "amount": 106.43,
+   "status": "posted",
+   "date": "2026-07-10",
+   "disputed": false
+  },
+  "T-8291": {
+   "customer_id": "B-4029",
+   "card": "3089",
+   "merchant": "AMAZON.AE",
+   "amount": 180.921,
+   "status": "posted",
+   "date": "2026-10-06",
+   "disputed": false
+  },
+  "T-8292": {
+   "customer_id": "B-4029",
+   "card": "3089",
+   "merchant": "CARREFOUR",
+   "amount": 276.56,
+   "status": "posted",
+   "date": "2026-06-23",
+   "disputed": false
+  },
+  "T-8293": {
+   "customer_id": "B-4029",
+   "card": "3089",
+   "merchant": "TALABAT",
+   "amount": 148.288,
+   "status": "posted",
+   "date": "2026-09-13",
+   "disputed": false
+  },
+  "T-8294": {
+   "customer_id": "B-4029",
+   "card": "3089",
+   "merchant": "TALABAT",
+   "amount": 214.761,
+   "status": "posted",
+   "date": "2026-04-26",
+   "disputed": false
+  },
+  "T-8295": {
+   "customer_id": "B-4029",
+   "card": "3089",
+   "merchant": "CARREFOUR",
+   "amount": 66.581,
+   "status": "pending",
+   "date": "2026-08-10",
+   "disputed": true
+  },
+  "T-8296": {
+   "customer_id": "B-4029",
+   "card": "3089",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 109.357,
+   "status": "posted",
+   "date": "2026-10-07",
+   "disputed": false
+  },
+  "T-8297": {
+   "customer_id": "B-4029",
+   "card": "3089",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 273.497,
+   "status": "posted",
+   "date": "2026-04-25",
+   "disputed": false
+  },
+  "T-8300": {
+   "customer_id": "B-4030",
+   "card": "7898",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 17.704,
+   "status": "posted",
+   "date": "2026-05-16",
+   "disputed": false
+  },
+  "T-8301": {
+   "customer_id": "B-4030",
+   "card": "7898",
+   "merchant": "AMAZON.AE",
+   "amount": 220.191,
+   "status": "posted",
+   "date": "2026-07-25",
+   "disputed": false
+  },
+  "T-8302": {
+   "customer_id": "B-4030",
+   "card": "7898",
+   "merchant": "CARREFOUR",
+   "amount": 32.697,
+   "status": "posted",
+   "date": "2026-07-11",
+   "disputed": false
+  },
+  "T-8310": {
+   "customer_id": "B-4031",
+   "card": "2294",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 171.186,
+   "status": "posted",
+   "date": "2026-10-03",
+   "disputed": false
+  },
+  "T-8311": {
+   "customer_id": "B-4031",
+   "card": "2294",
+   "merchant": "AMAZON.AE",
+   "amount": 223.324,
+   "status": "posted",
+   "date": "2026-05-16",
+   "disputed": false
+  },
+  "T-8320": {
+   "customer_id": "B-4032",
+   "card": "1216",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 18.94,
+   "status": "posted",
+   "date": "2026-06-09",
+   "disputed": false
+  },
+  "T-8321": {
+   "customer_id": "B-4032",
+   "card": "1216",
+   "merchant": "TALABAT",
+   "amount": 48.944,
+   "status": "posted",
+   "date": "2026-07-25",
+   "disputed": false
+  },
+  "T-8330": {
+   "customer_id": "B-4033",
+   "card": "6014",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 82.276,
+   "status": "pending",
+   "date": "2026-08-06",
+   "disputed": false
+  },
+  "T-8331": {
+   "customer_id": "B-4033",
+   "card": "6014",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 223.197,
+   "status": "posted",
+   "date": "2026-10-27",
+   "disputed": false
+  },
+  "T-8332": {
+   "customer_id": "B-4033",
+   "card": "6014",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 246.929,
+   "status": "posted",
+   "date": "2026-06-09",
+   "disputed": false
+  },
+  "T-8333": {
+   "customer_id": "B-4033",
+   "card": "6014",
+   "merchant": "CARREFOUR",
+   "amount": 141.062,
+   "status": "posted",
+   "date": "2026-05-30",
+   "disputed": false
+  },
+  "T-8334": {
+   "customer_id": "B-4033",
+   "card": "6014",
+   "merchant": "AMAZON.AE",
+   "amount": 50.282,
+   "status": "posted",
+   "date": "2026-05-29",
+   "disputed": false
+  },
+  "T-8340": {
+   "customer_id": "B-4034",
+   "card": "6496",
+   "merchant": "BAPCO FUEL",
+   "amount": 49.665,
+   "status": "posted",
+   "date": "2026-09-17",
+   "disputed": false
+  },
+  "T-8341": {
+   "customer_id": "B-4034",
+   "card": "6496",
+   "merchant": "BAPCO FUEL",
+   "amount": 57.135,
+   "status": "posted",
+   "date": "2026-11-02",
+   "disputed": false
+  },
+  "T-8342": {
+   "customer_id": "B-4034",
+   "card": "6496",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 293.022,
+   "status": "posted",
+   "date": "2026-06-19",
+   "disputed": false
+  },
+  "T-8350": {
+   "customer_id": "B-4035",
+   "card": "6056",
+   "merchant": "BAPCO FUEL",
+   "amount": 287.663,
+   "status": "posted",
+   "date": "2026-08-22",
+   "disputed": false
+  },
+  "T-8351": {
+   "customer_id": "B-4035",
+   "card": "6056",
+   "merchant": "CARREFOUR",
+   "amount": 107.395,
+   "status": "posted",
+   "date": "2026-05-22",
+   "disputed": false
+  },
+  "T-8352": {
+   "customer_id": "B-4035",
+   "card": "6056",
+   "merchant": "AMAZON.AE",
+   "amount": 269.057,
+   "status": "posted",
+   "date": "2026-07-05",
+   "disputed": false
+  },
+  "T-8353": {
+   "customer_id": "B-4035",
+   "card": "6056",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 8.082,
+   "status": "posted",
+   "date": "2026-07-11",
+   "disputed": false
+  },
+  "T-8360": {
+   "customer_id": "B-4036",
+   "card": "8587",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 285.893,
+   "status": "posted",
+   "date": "2026-09-16",
+   "disputed": false
+  },
+  "T-8361": {
+   "customer_id": "B-4036",
+   "card": "8587",
+   "merchant": "CARREFOUR",
+   "amount": 43.118,
+   "status": "posted",
+   "date": "2026-07-05",
+   "disputed": false
+  },
+  "T-8362": {
+   "customer_id": "B-4036",
+   "card": "8587",
+   "merchant": "CARREFOUR",
+   "amount": 183.013,
+   "status": "posted",
+   "date": "2026-04-28",
+   "disputed": false
+  },
+  "T-8363": {
+   "customer_id": "B-4036",
+   "card": "8587",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 102.367,
+   "status": "posted",
+   "date": "2026-07-23",
+   "disputed": false
+  },
+  "T-8364": {
+   "customer_id": "B-4036",
+   "card": "8587",
+   "merchant": "CARREFOUR",
+   "amount": 232.478,
+   "status": "posted",
+   "date": "2026-09-18",
+   "disputed": false
+  },
+  "T-8365": {
+   "customer_id": "B-4036",
+   "card": "8587",
+   "merchant": "TALABAT",
+   "amount": 23.424,
+   "status": "posted",
+   "date": "2026-06-03",
+   "disputed": false
+  },
+  "T-8366": {
+   "customer_id": "B-4036",
+   "card": "8587",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 241.613,
+   "status": "posted",
+   "date": "2026-08-23",
+   "disputed": false
+  },
+  "T-8370": {
+   "customer_id": "B-4037",
+   "card": "3780",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 84.755,
+   "status": "posted",
+   "date": "2026-10-19",
+   "disputed": false
+  },
+  "T-8371": {
+   "customer_id": "B-4037",
+   "card": "3780",
+   "merchant": "CARREFOUR",
+   "amount": 231.81,
+   "status": "posted",
+   "date": "2026-07-12",
+   "disputed": false
+  },
+  "T-8372": {
+   "customer_id": "B-4037",
+   "card": "3780",
+   "merchant": "AMAZON.AE",
+   "amount": 195.437,
+   "status": "posted",
+   "date": "2026-10-10",
+   "disputed": false
+  },
+  "T-8380": {
+   "customer_id": "B-4038",
+   "card": "7568",
+   "merchant": "TALABAT",
+   "amount": 275.225,
+   "status": "posted",
+   "date": "2026-08-09",
+   "disputed": false
+  },
+  "T-8381": {
+   "customer_id": "B-4038",
+   "card": "7568",
+   "merchant": "TALABAT",
+   "amount": 285.661,
+   "status": "posted",
+   "date": "2026-05-20",
+   "disputed": false
+  },
+  "T-8382": {
+   "customer_id": "B-4038",
+   "card": "7568",
+   "merchant": "AMAZON.AE",
+   "amount": 79.585,
+   "status": "posted",
+   "date": "2026-05-20",
+   "disputed": false
+  },
+  "T-8383": {
+   "customer_id": "B-4038",
+   "card": "7568",
+   "merchant": "CARREFOUR",
+   "amount": 18.061,
+   "status": "posted",
+   "date": "2026-05-15",
+   "disputed": false
+  },
+  "T-8384": {
+   "customer_id": "B-4038",
+   "card": "7568",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 47.214,
+   "status": "posted",
+   "date": "2026-08-06",
+   "disputed": false
+  },
+  "T-8385": {
+   "customer_id": "B-4038",
+   "card": "7568",
+   "merchant": "AMAZON.AE",
+   "amount": 256.295,
+   "status": "posted",
+   "date": "2026-07-15",
+   "disputed": false
+  },
+  "T-8386": {
+   "customer_id": "B-4038",
+   "card": "7568",
+   "merchant": "BAPCO FUEL",
+   "amount": 140.297,
+   "status": "posted",
+   "date": "2026-07-14",
+   "disputed": false
+  },
+  "T-8387": {
+   "customer_id": "B-4038",
+   "card": "7568",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 219.802,
+   "status": "posted",
+   "date": "2026-08-01",
+   "disputed": false
+  },
+  "T-8390": {
+   "customer_id": "B-4039",
+   "card": "6610",
+   "merchant": "CARREFOUR",
+   "amount": 222.644,
+   "status": "posted",
+   "date": "2026-07-17",
+   "disputed": false
+  },
+  "T-8391": {
+   "customer_id": "B-4039",
+   "card": "6610",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 284.612,
+   "status": "posted",
+   "date": "2026-09-17",
+   "disputed": false
+  },
+  "T-8392": {
+   "customer_id": "B-4039",
+   "card": "6610",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 296.355,
+   "status": "posted",
+   "date": "2026-10-26",
+   "disputed": false
+  },
+  "T-8400": {
+   "customer_id": "B-4040",
+   "card": "4465",
+   "merchant": "CARREFOUR",
+   "amount": 127.453,
+   "status": "posted",
+   "date": "2026-09-26",
+   "disputed": false
+  },
+  "T-8401": {
+   "customer_id": "B-4040",
+   "card": "4465",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 82.898,
+   "status": "pending",
+   "date": "2026-05-12",
+   "disputed": false
+  },
+  "T-8402": {
+   "customer_id": "B-4040",
+   "card": "4465",
+   "merchant": "AMAZON.AE",
+   "amount": 157.909,
+   "status": "posted",
+   "date": "2026-09-05",
+   "disputed": false
+  },
+  "T-8403": {
+   "customer_id": "B-4040",
+   "card": "4465",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 28.64,
+   "status": "posted",
+   "date": "2026-08-15",
+   "disputed": false
+  },
+  "T-8404": {
+   "customer_id": "B-4040",
+   "card": "4465",
+   "merchant": "BAPCO FUEL",
+   "amount": 50.195,
+   "status": "posted",
+   "date": "2026-07-26",
+   "disputed": false
+  },
+  "T-8405": {
+   "customer_id": "B-4040",
+   "card": "4465",
+   "merchant": "TALABAT",
+   "amount": 206.96,
+   "status": "posted",
+   "date": "2026-05-16",
+   "disputed": false
+  },
+  "T-8406": {
+   "customer_id": "B-4040",
+   "card": "4465",
+   "merchant": "CARREFOUR",
+   "amount": 171.525,
+   "status": "posted",
+   "date": "2026-06-20",
+   "disputed": false
+  },
+  "T-8407": {
+   "customer_id": "B-4040",
+   "card": "4465",
+   "merchant": "TALABAT",
+   "amount": 60.369,
+   "status": "posted",
+   "date": "2026-06-15",
+   "disputed": false
+  },
+  "T-8410": {
+   "customer_id": "B-4041",
+   "card": "8514",
+   "merchant": "BAPCO FUEL",
+   "amount": 34.968,
+   "status": "posted",
+   "date": "2026-07-29",
+   "disputed": false
+  },
+  "T-8411": {
+   "customer_id": "B-4041",
+   "card": "8514",
+   "merchant": "CARREFOUR",
+   "amount": 2.099,
+   "status": "posted",
+   "date": "2026-10-09",
+   "disputed": false
+  },
+  "T-8412": {
+   "customer_id": "B-4041",
+   "card": "8514",
+   "merchant": "CARREFOUR",
+   "amount": 290.868,
+   "status": "pending",
+   "date": "2026-09-16",
+   "disputed": false
+  },
+  "T-8413": {
+   "customer_id": "B-4041",
+   "card": "8514",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 126.633,
+   "status": "posted",
+   "date": "2026-09-29",
+   "disputed": false
+  },
+  "T-8414": {
+   "customer_id": "B-4041",
+   "card": "8514",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 105.078,
+   "status": "posted",
+   "date": "2026-05-21",
+   "disputed": false
+  },
+  "T-8420": {
+   "customer_id": "B-4042",
+   "card": "5947",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 210.096,
+   "status": "posted",
+   "date": "2026-07-17",
+   "disputed": false
+  },
+  "T-8421": {
+   "customer_id": "B-4042",
+   "card": "5947",
+   "merchant": "BAPCO FUEL",
+   "amount": 106.311,
+   "status": "posted",
+   "date": "2026-06-30",
+   "disputed": false
+  },
+  "T-8422": {
+   "customer_id": "B-4042",
+   "card": "5947",
+   "merchant": "BAPCO FUEL",
+   "amount": 34.901,
+   "status": "posted",
+   "date": "2026-07-24",
+   "disputed": false
+  },
+  "T-8423": {
+   "customer_id": "B-4042",
+   "card": "5947",
+   "merchant": "TALABAT",
+   "amount": 178.873,
+   "status": "posted",
+   "date": "2026-08-05",
+   "disputed": false
+  },
+  "T-8424": {
+   "customer_id": "B-4042",
+   "card": "5947",
+   "merchant": "CARREFOUR",
+   "amount": 206.877,
+   "status": "posted",
+   "date": "2026-08-30",
+   "disputed": false
+  },
+  "T-8425": {
+   "customer_id": "B-4042",
+   "card": "5947",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 298.614,
+   "status": "posted",
+   "date": "2026-10-15",
+   "disputed": false
+  },
+  "T-8430": {
+   "customer_id": "B-4043",
+   "card": "9924",
+   "merchant": "AMAZON.AE",
+   "amount": 151.505,
+   "status": "posted",
+   "date": "2026-05-24",
+   "disputed": false
+  },
+  "T-8431": {
+   "customer_id": "B-4043",
+   "card": "9924",
+   "merchant": "AMAZON.AE",
+   "amount": 64.349,
+   "status": "posted",
+   "date": "2026-06-22",
+   "disputed": false
+  },
+  "T-8432": {
+   "customer_id": "B-4043",
+   "card": "9924",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 257.046,
+   "status": "posted",
+   "date": "2026-08-13",
+   "disputed": false
+  },
+  "T-8433": {
+   "customer_id": "B-4043",
+   "card": "9924",
+   "merchant": "AMAZON.AE",
+   "amount": 124.467,
+   "status": "posted",
+   "date": "2026-05-14",
+   "disputed": false
+  },
+  "T-8434": {
+   "customer_id": "B-4043",
+   "card": "9924",
+   "merchant": "AMAZON.AE",
+   "amount": 3.274,
+   "status": "posted",
+   "date": "2026-09-14",
+   "disputed": false
+  },
+  "T-8435": {
+   "customer_id": "B-4043",
+   "card": "9924",
+   "merchant": "BAPCO FUEL",
+   "amount": 264.003,
+   "status": "posted",
+   "date": "2026-07-27",
+   "disputed": false
+  },
+  "T-8436": {
+   "customer_id": "B-4043",
+   "card": "9924",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 270.156,
+   "status": "posted",
+   "date": "2026-11-07",
+   "disputed": true
+  },
+  "T-8440": {
+   "customer_id": "B-4044",
+   "card": "8045",
+   "merchant": "AMAZON.AE",
+   "amount": 58.605,
+   "status": "posted",
+   "date": "2026-10-28",
+   "disputed": false
+  },
+  "T-8441": {
+   "customer_id": "B-4044",
+   "card": "8045",
+   "merchant": "TALABAT",
+   "amount": 129.302,
+   "status": "posted",
+   "date": "2026-08-03",
+   "disputed": false
+  },
+  "T-8442": {
+   "customer_id": "B-4044",
+   "card": "8045",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 121.533,
+   "status": "posted",
+   "date": "2026-10-01",
+   "disputed": false
+  },
+  "T-8443": {
+   "customer_id": "B-4044",
+   "card": "8045",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 213.297,
+   "status": "posted",
+   "date": "2026-10-11",
+   "disputed": false
+  },
+  "T-8444": {
+   "customer_id": "B-4044",
+   "card": "8045",
+   "merchant": "AMAZON.AE",
+   "amount": 253.066,
+   "status": "posted",
+   "date": "2026-09-05",
+   "disputed": false
+  },
+  "T-8445": {
+   "customer_id": "B-4044",
+   "card": "8045",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 284.661,
+   "status": "posted",
+   "date": "2026-10-18",
+   "disputed": true
+  },
+  "T-8450": {
+   "customer_id": "B-4045",
+   "card": "9907",
+   "merchant": "AMAZON.AE",
+   "amount": 8.562,
+   "status": "posted",
+   "date": "2026-07-17",
+   "disputed": false
+  },
+  "T-8451": {
+   "customer_id": "B-4045",
+   "card": "9907",
+   "merchant": "BAPCO FUEL",
+   "amount": 56.78,
+   "status": "posted",
+   "date": "2026-09-15",
+   "disputed": false
+  },
+  "T-8452": {
+   "customer_id": "B-4045",
+   "card": "9907",
+   "merchant": "TALABAT",
+   "amount": 252.297,
+   "status": "posted",
+   "date": "2026-08-06",
+   "disputed": false
+  },
+  "T-8453": {
+   "customer_id": "B-4045",
+   "card": "9907",
+   "merchant": "CARREFOUR",
+   "amount": 16.473,
+   "status": "pending",
+   "date": "2026-10-05",
+   "disputed": false
+  },
+  "T-8454": {
+   "customer_id": "B-4045",
+   "card": "9907",
+   "merchant": "CARREFOUR",
+   "amount": 295.455,
+   "status": "posted",
+   "date": "2026-10-13",
+   "disputed": false
+  },
+  "T-8455": {
+   "customer_id": "B-4045",
+   "card": "9907",
+   "merchant": "TALABAT",
+   "amount": 37.683,
+   "status": "posted",
+   "date": "2026-09-04",
+   "disputed": false
+  },
+  "T-8460": {
+   "customer_id": "B-4046",
+   "card": "4407",
+   "merchant": "AMAZON.AE",
+   "amount": 238.837,
+   "status": "posted",
+   "date": "2026-07-09",
+   "disputed": false
+  },
+  "T-8461": {
+   "customer_id": "B-4046",
+   "card": "4407",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 63.878,
+   "status": "posted",
+   "date": "2026-08-22",
+   "disputed": false
+  },
+  "T-8470": {
+   "customer_id": "B-4047",
+   "card": "3927",
+   "merchant": "BAPCO FUEL",
+   "amount": 298.128,
+   "status": "posted",
+   "date": "2026-06-06",
+   "disputed": false
+  },
+  "T-8471": {
+   "customer_id": "B-4047",
+   "card": "3927",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 48.358,
+   "status": "posted",
+   "date": "2026-10-10",
+   "disputed": false
+  },
+  "T-8480": {
+   "customer_id": "B-4048",
+   "card": "3496",
+   "merchant": "BAPCO FUEL",
+   "amount": 35.322,
+   "status": "posted",
+   "date": "2026-08-19",
+   "disputed": false
+  },
+  "T-8481": {
+   "customer_id": "B-4048",
+   "card": "3496",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 218.595,
+   "status": "posted",
+   "date": "2026-09-03",
+   "disputed": false
+  },
+  "T-8482": {
+   "customer_id": "B-4048",
+   "card": "3496",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 286.016,
+   "status": "posted",
+   "date": "2026-06-22",
+   "disputed": false
+  },
+  "T-8483": {
+   "customer_id": "B-4048",
+   "card": "3496",
+   "merchant": "AMAZON.AE",
+   "amount": 223.813,
+   "status": "posted",
+   "date": "2026-07-02",
+   "disputed": false
+  },
+  "T-8484": {
+   "customer_id": "B-4048",
+   "card": "3496",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 75.778,
+   "status": "posted",
+   "date": "2026-05-11",
+   "disputed": false
+  },
+  "T-8485": {
+   "customer_id": "B-4048",
+   "card": "3496",
+   "merchant": "AMAZON.AE",
+   "amount": 31.765,
+   "status": "posted",
+   "date": "2026-06-13",
+   "disputed": false
+  },
+  "T-8486": {
+   "customer_id": "B-4048",
+   "card": "3496",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 286.175,
+   "status": "posted",
+   "date": "2026-07-19",
+   "disputed": false
+  },
+  "T-8487": {
+   "customer_id": "B-4048",
+   "card": "3496",
+   "merchant": "CARREFOUR",
+   "amount": 82.231,
+   "status": "posted",
+   "date": "2026-10-14",
+   "disputed": false
+  },
+  "T-8490": {
+   "customer_id": "B-4049",
+   "card": "2052",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 287.471,
+   "status": "posted",
+   "date": "2026-07-29",
+   "disputed": false
+  },
+  "T-8491": {
+   "customer_id": "B-4049",
+   "card": "2052",
+   "merchant": "CARREFOUR",
+   "amount": 285.163,
+   "status": "posted",
+   "date": "2026-08-01",
+   "disputed": true
+  },
+  "T-8492": {
+   "customer_id": "B-4049",
+   "card": "2052",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 242.903,
+   "status": "posted",
+   "date": "2026-09-24",
+   "disputed": false
+  },
+  "T-8500": {
+   "customer_id": "B-4050",
+   "card": "3376",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 96.258,
+   "status": "pending",
+   "date": "2026-08-18",
+   "disputed": false
+  },
+  "T-8501": {
+   "customer_id": "B-4050",
+   "card": "3376",
+   "merchant": "TALABAT",
+   "amount": 238.777,
+   "status": "posted",
+   "date": "2026-06-20",
+   "disputed": false
+  },
+  "T-8510": {
+   "customer_id": "B-4051",
+   "card": "5555",
+   "merchant": "CARREFOUR",
+   "amount": 127.103,
+   "status": "posted",
+   "date": "2026-08-21",
+   "disputed": false
+  },
+  "T-8511": {
+   "customer_id": "B-4051",
+   "card": "5555",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 59.94,
+   "status": "posted",
+   "date": "2026-07-06",
+   "disputed": false
+  },
+  "T-8512": {
+   "customer_id": "B-4051",
+   "card": "5555",
+   "merchant": "BAPCO FUEL",
+   "amount": 126.95,
+   "status": "posted",
+   "date": "2026-09-28",
+   "disputed": false
+  },
+  "T-8513": {
+   "customer_id": "B-4051",
+   "card": "5555",
+   "merchant": "TALABAT",
+   "amount": 115.474,
+   "status": "posted",
+   "date": "2026-08-30",
+   "disputed": true
+  },
+  "T-8514": {
+   "customer_id": "B-4051",
+   "card": "5555",
+   "merchant": "TALABAT",
+   "amount": 296.398,
+   "status": "posted",
+   "date": "2026-08-30",
+   "disputed": false
+  },
+  "T-8515": {
+   "customer_id": "B-4051",
+   "card": "5555",
+   "merchant": "AMAZON.AE",
+   "amount": 12.065,
+   "status": "posted",
+   "date": "2026-06-28",
+   "disputed": false
+  },
+  "T-8520": {
+   "customer_id": "B-4052",
+   "card": "7800",
+   "merchant": "BAPCO FUEL",
+   "amount": 226.354,
+   "status": "posted",
+   "date": "2026-06-21",
+   "disputed": false
+  },
+  "T-8521": {
+   "customer_id": "B-4052",
+   "card": "7800",
+   "merchant": "AMAZON.AE",
+   "amount": 184.084,
+   "status": "posted",
+   "date": "2026-05-16",
+   "disputed": false
+  },
+  "T-8522": {
+   "customer_id": "B-4052",
+   "card": "7800",
+   "merchant": "AMAZON.AE",
+   "amount": 254.753,
+   "status": "posted",
+   "date": "2026-10-10",
+   "disputed": false
+  },
+  "T-8523": {
+   "customer_id": "B-4052",
+   "card": "7800",
+   "merchant": "TALABAT",
+   "amount": 31.72,
+   "status": "posted",
+   "date": "2026-11-08",
+   "disputed": false
+  },
+  "T-8530": {
+   "customer_id": "B-4053",
+   "card": "4131",
+   "merchant": "TALABAT",
+   "amount": 296.88,
+   "status": "posted",
+   "date": "2026-10-28",
+   "disputed": false
+  },
+  "T-8531": {
+   "customer_id": "B-4053",
+   "card": "4131",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 34.13,
+   "status": "posted",
+   "date": "2026-10-22",
+   "disputed": false
+  },
+  "T-8532": {
+   "customer_id": "B-4053",
+   "card": "4131",
+   "merchant": "CARREFOUR",
+   "amount": 184.212,
+   "status": "posted",
+   "date": "2026-09-02",
+   "disputed": false
+  },
+  "T-8533": {
+   "customer_id": "B-4053",
+   "card": "4131",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 175.453,
+   "status": "posted",
+   "date": "2026-08-21",
+   "disputed": false
+  },
+  "T-8534": {
+   "customer_id": "B-4053",
+   "card": "4131",
+   "merchant": "TALABAT",
+   "amount": 266.452,
+   "status": "posted",
+   "date": "2026-07-28",
+   "disputed": false
+  },
+  "T-8535": {
+   "customer_id": "B-4053",
+   "card": "4131",
+   "merchant": "CARREFOUR",
+   "amount": 37.59,
+   "status": "posted",
+   "date": "2026-06-16",
+   "disputed": false
+  },
+  "T-8536": {
+   "customer_id": "B-4053",
+   "card": "4131",
+   "merchant": "AMAZON.AE",
+   "amount": 292.928,
+   "status": "posted",
+   "date": "2026-05-07",
+   "disputed": false
+  },
+  "T-8537": {
+   "customer_id": "B-4053",
+   "card": "4131",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 79.88,
+   "status": "posted",
+   "date": "2026-10-20",
+   "disputed": false
+  },
+  "T-8540": {
+   "customer_id": "B-4054",
+   "card": "9103",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 201.479,
+   "status": "posted",
+   "date": "2026-08-04",
+   "disputed": false
+  },
+  "T-8541": {
+   "customer_id": "B-4054",
+   "card": "9103",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 102.795,
+   "status": "posted",
+   "date": "2026-04-30",
+   "disputed": false
+  },
+  "T-8542": {
+   "customer_id": "B-4054",
+   "card": "9103",
+   "merchant": "BAPCO FUEL",
+   "amount": 228.386,
+   "status": "posted",
+   "date": "2026-07-17",
+   "disputed": false
+  },
+  "T-8550": {
+   "customer_id": "B-4055",
+   "card": "6957",
+   "merchant": "TALABAT",
+   "amount": 154.526,
+   "status": "posted",
+   "date": "2026-09-23",
+   "disputed": false
+  },
+  "T-8551": {
+   "customer_id": "B-4055",
+   "card": "6957",
+   "merchant": "AMAZON.AE",
+   "amount": 50.095,
+   "status": "posted",
+   "date": "2026-06-16",
+   "disputed": false
+  },
+  "T-8552": {
+   "customer_id": "B-4055",
+   "card": "6957",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 138.825,
+   "status": "posted",
+   "date": "2026-10-13",
+   "disputed": false
+  },
+  "T-8553": {
+   "customer_id": "B-4055",
+   "card": "6957",
+   "merchant": "AMAZON.AE",
+   "amount": 56.922,
+   "status": "pending",
+   "date": "2026-05-25",
+   "disputed": false
+  },
+  "T-8554": {
+   "customer_id": "B-4055",
+   "card": "6957",
+   "merchant": "BAPCO FUEL",
+   "amount": 80.408,
+   "status": "posted",
+   "date": "2026-10-20",
+   "disputed": false
+  },
+  "T-8560": {
+   "customer_id": "B-4056",
+   "card": "9321",
+   "merchant": "AMAZON.AE",
+   "amount": 82.504,
+   "status": "pending",
+   "date": "2026-05-28",
+   "disputed": false
+  },
+  "T-8561": {
+   "customer_id": "B-4056",
+   "card": "9321",
+   "merchant": "AMAZON.AE",
+   "amount": 58.986,
+   "status": "posted",
+   "date": "2026-09-26",
+   "disputed": false
+  },
+  "T-8570": {
+   "customer_id": "B-4057",
+   "card": "1817",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 35.441,
+   "status": "posted",
+   "date": "2026-06-16",
+   "disputed": false
+  },
+  "T-8571": {
+   "customer_id": "B-4057",
+   "card": "1817",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 160.107,
+   "status": "posted",
+   "date": "2026-06-05",
+   "disputed": false
+  },
+  "T-8580": {
+   "customer_id": "B-4058",
+   "card": "5395",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 235.933,
+   "status": "posted",
+   "date": "2026-08-29",
+   "disputed": false
+  },
+  "T-8581": {
+   "customer_id": "B-4058",
+   "card": "5395",
+   "merchant": "BAPCO FUEL",
+   "amount": 220.431,
+   "status": "pending",
+   "date": "2026-07-05",
+   "disputed": false
+  },
+  "T-8582": {
+   "customer_id": "B-4058",
+   "card": "5395",
+   "merchant": "TALABAT",
+   "amount": 143.551,
+   "status": "posted",
+   "date": "2026-05-18",
+   "disputed": false
+  },
+  "T-8590": {
+   "customer_id": "B-4059",
+   "card": "8458",
+   "merchant": "CARREFOUR",
+   "amount": 142.906,
+   "status": "posted",
+   "date": "2026-09-26",
+   "disputed": false
+  },
+  "T-8591": {
+   "customer_id": "B-4059",
+   "card": "8458",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 52.047,
+   "status": "posted",
+   "date": "2026-11-08",
+   "disputed": false
+  },
+  "T-8600": {
+   "customer_id": "B-4060",
+   "card": "8742",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 170.613,
+   "status": "posted",
+   "date": "2026-09-13",
+   "disputed": false
+  },
+  "T-8601": {
+   "customer_id": "B-4060",
+   "card": "8742",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 226.743,
+   "status": "posted",
+   "date": "2026-10-16",
+   "disputed": false
+  },
+  "T-8610": {
+   "customer_id": "B-4061",
+   "card": "9940",
+   "merchant": "AMAZON.AE",
+   "amount": 76.808,
+   "status": "posted",
+   "date": "2026-08-12",
+   "disputed": false
+  },
+  "T-8611": {
+   "customer_id": "B-4061",
+   "card": "9940",
+   "merchant": "BAPCO FUEL",
+   "amount": 267.52,
+   "status": "posted",
+   "date": "2026-06-11",
+   "disputed": false
+  },
+  "T-8612": {
+   "customer_id": "B-4061",
+   "card": "9940",
+   "merchant": "BAPCO FUEL",
+   "amount": 206.049,
+   "status": "posted",
+   "date": "2026-11-05",
+   "disputed": false
+  },
+  "T-8613": {
+   "customer_id": "B-4061",
+   "card": "9940",
+   "merchant": "AMAZON.AE",
+   "amount": 257.023,
+   "status": "posted",
+   "date": "2026-10-05",
+   "disputed": false
+  },
+  "T-8614": {
+   "customer_id": "B-4061",
+   "card": "9940",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 74.066,
+   "status": "posted",
+   "date": "2026-07-23",
+   "disputed": false
+  },
+  "T-8615": {
+   "customer_id": "B-4061",
+   "card": "9940",
+   "merchant": "CARREFOUR",
+   "amount": 27.693,
+   "status": "posted",
+   "date": "2026-08-06",
+   "disputed": false
+  },
+  "T-8616": {
+   "customer_id": "B-4061",
+   "card": "9940",
+   "merchant": "BAPCO FUEL",
+   "amount": 263.266,
+   "status": "posted",
+   "date": "2026-07-18",
+   "disputed": false
+  },
+  "T-8620": {
+   "customer_id": "B-4062",
+   "card": "6715",
+   "merchant": "TALABAT",
+   "amount": 125.771,
+   "status": "posted",
+   "date": "2026-08-23",
+   "disputed": false
+  },
+  "T-8621": {
+   "customer_id": "B-4062",
+   "card": "6715",
+   "merchant": "TALABAT",
+   "amount": 156.503,
+   "status": "posted",
+   "date": "2026-06-07",
+   "disputed": false
+  },
+  "T-8622": {
+   "customer_id": "B-4062",
+   "card": "6715",
+   "merchant": "AMAZON.AE",
+   "amount": 170.432,
+   "status": "posted",
+   "date": "2026-08-14",
+   "disputed": false
+  },
+  "T-8623": {
+   "customer_id": "B-4062",
+   "card": "6715",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 150.179,
+   "status": "posted",
+   "date": "2026-07-14",
+   "disputed": false
+  },
+  "T-8624": {
+   "customer_id": "B-4062",
+   "card": "6715",
+   "merchant": "TALABAT",
+   "amount": 290.035,
+   "status": "posted",
+   "date": "2026-05-24",
+   "disputed": false
+  },
+  "T-8630": {
+   "customer_id": "B-4063",
+   "card": "1255",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 85.622,
+   "status": "posted",
+   "date": "2026-10-28",
+   "disputed": false
+  },
+  "T-8631": {
+   "customer_id": "B-4063",
+   "card": "1255",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 129.667,
+   "status": "posted",
+   "date": "2026-11-10",
+   "disputed": false
+  },
+  "T-8640": {
+   "customer_id": "B-4064",
+   "card": "9224",
+   "merchant": "CARREFOUR",
+   "amount": 81.93,
+   "status": "posted",
+   "date": "2026-09-21",
+   "disputed": false
+  },
+  "T-8641": {
+   "customer_id": "B-4064",
+   "card": "9224",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 87.95,
+   "status": "pending",
+   "date": "2026-08-12",
+   "disputed": false
+  },
+  "T-8650": {
+   "customer_id": "B-4065",
+   "card": "2607",
+   "merchant": "TALABAT",
+   "amount": 93.91,
+   "status": "posted",
+   "date": "2026-05-21",
+   "disputed": false
+  },
+  "T-8651": {
+   "customer_id": "B-4065",
+   "card": "2607",
+   "merchant": "TALABAT",
+   "amount": 42.614,
+   "status": "posted",
+   "date": "2026-09-07",
+   "disputed": false
+  },
+  "T-8652": {
+   "customer_id": "B-4065",
+   "card": "2607",
+   "merchant": "TALABAT",
+   "amount": 60.657,
+   "status": "posted",
+   "date": "2026-08-26",
+   "disputed": false
+  },
+  "T-8653": {
+   "customer_id": "B-4065",
+   "card": "2607",
+   "merchant": "CARREFOUR",
+   "amount": 138.885,
+   "status": "posted",
+   "date": "2026-04-24",
+   "disputed": false
+  },
+  "T-8660": {
+   "customer_id": "B-4066",
+   "card": "6132",
+   "merchant": "BAPCO FUEL",
+   "amount": 128.873,
+   "status": "posted",
+   "date": "2026-07-28",
+   "disputed": false
+  },
+  "T-8661": {
+   "customer_id": "B-4066",
+   "card": "6132",
+   "merchant": "TALABAT",
+   "amount": 8.9,
+   "status": "posted",
+   "date": "2026-10-19",
+   "disputed": false
+  },
+  "T-8662": {
+   "customer_id": "B-4066",
+   "card": "6132",
+   "merchant": "TALABAT",
+   "amount": 272.148,
+   "status": "posted",
+   "date": "2026-06-15",
+   "disputed": false
+  },
+  "T-8663": {
+   "customer_id": "B-4066",
+   "card": "6132",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 186.646,
+   "status": "posted",
+   "date": "2026-08-27",
+   "disputed": false
+  },
+  "T-8664": {
+   "customer_id": "B-4066",
+   "card": "6132",
+   "merchant": "AMAZON.AE",
+   "amount": 38.655,
+   "status": "posted",
+   "date": "2026-07-15",
+   "disputed": false
+  },
+  "T-8670": {
+   "customer_id": "B-4067",
+   "card": "1896",
+   "merchant": "CARREFOUR",
+   "amount": 33.008,
+   "status": "posted",
+   "date": "2026-08-28",
+   "disputed": false
+  },
+  "T-8671": {
+   "customer_id": "B-4067",
+   "card": "1896",
+   "merchant": "CARREFOUR",
+   "amount": 100.061,
+   "status": "pending",
+   "date": "2026-05-05",
+   "disputed": false
+  },
+  "T-8672": {
+   "customer_id": "B-4067",
+   "card": "1896",
+   "merchant": "TALABAT",
+   "amount": 222.07,
+   "status": "pending",
+   "date": "2026-09-19",
+   "disputed": false
+  },
+  "T-8673": {
+   "customer_id": "B-4067",
+   "card": "1896",
+   "merchant": "TALABAT",
+   "amount": 222.387,
+   "status": "posted",
+   "date": "2026-09-14",
+   "disputed": false
+  },
+  "T-8674": {
+   "customer_id": "B-4067",
+   "card": "1896",
+   "merchant": "CARREFOUR",
+   "amount": 255.824,
+   "status": "posted",
+   "date": "2026-08-23",
+   "disputed": false
+  },
+  "T-8675": {
+   "customer_id": "B-4067",
+   "card": "1896",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 241.879,
+   "status": "posted",
+   "date": "2026-09-20",
+   "disputed": false
+  },
+  "T-8676": {
+   "customer_id": "B-4067",
+   "card": "1896",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 46.754,
+   "status": "posted",
+   "date": "2026-06-30",
+   "disputed": false
+  },
+  "T-8677": {
+   "customer_id": "B-4067",
+   "card": "1896",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 31.979,
+   "status": "pending",
+   "date": "2026-07-04",
+   "disputed": false
+  },
+  "T-8680": {
+   "customer_id": "B-4068",
+   "card": "4015",
+   "merchant": "TALABAT",
+   "amount": 78.821,
+   "status": "posted",
+   "date": "2026-07-21",
+   "disputed": false
+  },
+  "T-8681": {
+   "customer_id": "B-4068",
+   "card": "4015",
+   "merchant": "TALABAT",
+   "amount": 37.836,
+   "status": "posted",
+   "date": "2026-11-05",
+   "disputed": false
+  },
+  "T-8682": {
+   "customer_id": "B-4068",
+   "card": "4015",
+   "merchant": "CARREFOUR",
+   "amount": 197.582,
+   "status": "posted",
+   "date": "2026-05-05",
+   "disputed": false
+  },
+  "T-8683": {
+   "customer_id": "B-4068",
+   "card": "4015",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 143.371,
+   "status": "posted",
+   "date": "2026-05-24",
+   "disputed": false
+  },
+  "T-8684": {
+   "customer_id": "B-4068",
+   "card": "4015",
+   "merchant": "TALABAT",
+   "amount": 148.396,
+   "status": "posted",
+   "date": "2026-08-02",
+   "disputed": false
+  },
+  "T-8685": {
+   "customer_id": "B-4068",
+   "card": "4015",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 139.725,
+   "status": "posted",
+   "date": "2026-10-04",
+   "disputed": true
+  },
+  "T-8686": {
+   "customer_id": "B-4068",
+   "card": "4015",
+   "merchant": "AMAZON.AE",
+   "amount": 36.918,
+   "status": "posted",
+   "date": "2026-06-15",
+   "disputed": false
+  },
+  "T-8687": {
+   "customer_id": "B-4068",
+   "card": "4015",
+   "merchant": "CARREFOUR",
+   "amount": 195.476,
+   "status": "posted",
+   "date": "2026-07-20",
+   "disputed": false
+  },
+  "T-8690": {
+   "customer_id": "B-4069",
+   "card": "8509",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 107.967,
+   "status": "posted",
+   "date": "2026-07-05",
+   "disputed": false
+  },
+  "T-8691": {
+   "customer_id": "B-4069",
+   "card": "8509",
+   "merchant": "CARREFOUR",
+   "amount": 157.992,
+   "status": "posted",
+   "date": "2026-09-27",
+   "disputed": false
+  },
+  "T-8700": {
+   "customer_id": "B-4070",
+   "card": "3294",
+   "merchant": "CARREFOUR",
+   "amount": 91.576,
+   "status": "posted",
+   "date": "2026-05-29",
+   "disputed": false
+  },
+  "T-8701": {
+   "customer_id": "B-4070",
+   "card": "3294",
+   "merchant": "AMAZON.AE",
+   "amount": 182.147,
+   "status": "posted",
+   "date": "2026-05-13",
+   "disputed": false
+  },
+  "T-8702": {
+   "customer_id": "B-4070",
+   "card": "3294",
+   "merchant": "CARREFOUR",
+   "amount": 158.105,
+   "status": "posted",
+   "date": "2026-08-20",
+   "disputed": false
+  },
+  "T-8703": {
+   "customer_id": "B-4070",
+   "card": "3294",
+   "merchant": "TALABAT",
+   "amount": 105.08,
+   "status": "posted",
+   "date": "2026-07-30",
+   "disputed": false
+  },
+  "T-8704": {
+   "customer_id": "B-4070",
+   "card": "3294",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 255.757,
+   "status": "posted",
+   "date": "2026-10-17",
+   "disputed": false
+  },
+  "T-8705": {
+   "customer_id": "B-4070",
+   "card": "3294",
+   "merchant": "AMAZON.AE",
+   "amount": 280.336,
+   "status": "posted",
+   "date": "2026-04-30",
+   "disputed": false
+  },
+  "T-8706": {
+   "customer_id": "B-4070",
+   "card": "3294",
+   "merchant": "CARREFOUR",
+   "amount": 238.886,
+   "status": "posted",
+   "date": "2026-09-27",
+   "disputed": false
+  },
+  "T-8707": {
+   "customer_id": "B-4070",
+   "card": "3294",
+   "merchant": "AMAZON.AE",
+   "amount": 226.988,
+   "status": "posted",
+   "date": "2026-10-25",
+   "disputed": false
+  },
+  "T-8710": {
+   "customer_id": "B-4071",
+   "card": "2194",
+   "merchant": "BAPCO FUEL",
+   "amount": 182.353,
+   "status": "posted",
+   "date": "2026-09-27",
+   "disputed": false
+  },
+  "T-8711": {
+   "customer_id": "B-4071",
+   "card": "2194",
+   "merchant": "CARREFOUR",
+   "amount": 135.403,
+   "status": "posted",
+   "date": "2026-05-31",
+   "disputed": false
+  },
+  "T-8712": {
+   "customer_id": "B-4071",
+   "card": "2194",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 59.52,
+   "status": "posted",
+   "date": "2026-05-21",
+   "disputed": false
+  },
+  "T-8713": {
+   "customer_id": "B-4071",
+   "card": "2194",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 222.904,
+   "status": "posted",
+   "date": "2026-06-28",
+   "disputed": false
+  },
+  "T-8714": {
+   "customer_id": "B-4071",
+   "card": "2194",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 26.719,
+   "status": "pending",
+   "date": "2026-05-23",
+   "disputed": false
+  },
+  "T-8715": {
+   "customer_id": "B-4071",
+   "card": "2194",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 243.193,
+   "status": "posted",
+   "date": "2026-08-10",
+   "disputed": false
+  },
+  "T-8716": {
+   "customer_id": "B-4071",
+   "card": "2194",
+   "merchant": "TALABAT",
+   "amount": 164.428,
+   "status": "pending",
+   "date": "2026-09-24",
+   "disputed": false
+  },
+  "T-8717": {
+   "customer_id": "B-4071",
+   "card": "2194",
+   "merchant": "CARREFOUR",
+   "amount": 193.027,
+   "status": "posted",
+   "date": "2026-09-18",
+   "disputed": false
+  },
+  "T-8720": {
+   "customer_id": "B-4072",
+   "card": "3258",
+   "merchant": "AMAZON.AE",
+   "amount": 188.016,
+   "status": "posted",
+   "date": "2026-06-18",
+   "disputed": false
+  },
+  "T-8721": {
+   "customer_id": "B-4072",
+   "card": "3258",
+   "merchant": "TALABAT",
+   "amount": 90.17,
+   "status": "posted",
+   "date": "2026-09-12",
+   "disputed": false
+  },
+  "T-8722": {
+   "customer_id": "B-4072",
+   "card": "3258",
+   "merchant": "TALABAT",
+   "amount": 99.945,
+   "status": "posted",
+   "date": "2026-08-28",
+   "disputed": false
+  },
+  "T-8723": {
+   "customer_id": "B-4072",
+   "card": "3258",
+   "merchant": "BAPCO FUEL",
+   "amount": 117.737,
+   "status": "posted",
+   "date": "2026-10-01",
+   "disputed": false
+  },
+  "T-8724": {
+   "customer_id": "B-4072",
+   "card": "3258",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 160.793,
+   "status": "posted",
+   "date": "2026-07-01",
+   "disputed": false
+  },
+  "T-8730": {
+   "customer_id": "B-4073",
+   "card": "9944",
+   "merchant": "AMAZON.AE",
+   "amount": 281.141,
+   "status": "posted",
+   "date": "2026-05-27",
+   "disputed": true
+  },
+  "T-8731": {
+   "customer_id": "B-4073",
+   "card": "9944",
+   "merchant": "BAPCO FUEL",
+   "amount": 127.0,
+   "status": "posted",
+   "date": "2026-04-29",
+   "disputed": false
+  },
+  "T-8732": {
+   "customer_id": "B-4073",
+   "card": "9944",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 164.579,
+   "status": "posted",
+   "date": "2026-05-01",
+   "disputed": false
+  },
+  "T-8733": {
+   "customer_id": "B-4073",
+   "card": "9944",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 71.45,
+   "status": "pending",
+   "date": "2026-06-19",
+   "disputed": false
+  },
+  "T-8734": {
+   "customer_id": "B-4073",
+   "card": "9944",
+   "merchant": "CARREFOUR",
+   "amount": 250.666,
+   "status": "posted",
+   "date": "2026-08-14",
+   "disputed": false
+  },
+  "T-8735": {
+   "customer_id": "B-4073",
+   "card": "9944",
+   "merchant": "AMAZON.AE",
+   "amount": 179.846,
+   "status": "posted",
+   "date": "2026-10-21",
+   "disputed": false
+  },
+  "T-8740": {
+   "customer_id": "B-4074",
+   "card": "2704",
+   "merchant": "TALABAT",
+   "amount": 68.348,
+   "status": "posted",
+   "date": "2026-07-11",
+   "disputed": false
+  },
+  "T-8741": {
+   "customer_id": "B-4074",
+   "card": "2704",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 7.412,
+   "status": "pending",
+   "date": "2026-04-26",
+   "disputed": false
+  },
+  "T-8742": {
+   "customer_id": "B-4074",
+   "card": "2704",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 160.722,
+   "status": "posted",
+   "date": "2026-05-20",
+   "disputed": false
+  },
+  "T-8743": {
+   "customer_id": "B-4074",
+   "card": "2704",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 166.196,
+   "status": "pending",
+   "date": "2026-04-28",
+   "disputed": false
+  },
+  "T-8744": {
+   "customer_id": "B-4074",
+   "card": "2704",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 129.486,
+   "status": "posted",
+   "date": "2026-10-06",
+   "disputed": false
+  },
+  "T-8750": {
+   "customer_id": "B-4075",
+   "card": "8152",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 28.505,
+   "status": "pending",
+   "date": "2026-07-28",
+   "disputed": false
+  },
+  "T-8751": {
+   "customer_id": "B-4075",
+   "card": "8152",
+   "merchant": "TALABAT",
+   "amount": 170.847,
+   "status": "posted",
+   "date": "2026-11-07",
+   "disputed": false
+  },
+  "T-8752": {
+   "customer_id": "B-4075",
+   "card": "8152",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 243.974,
+   "status": "pending",
+   "date": "2026-10-09",
+   "disputed": false
+  },
+  "T-8760": {
+   "customer_id": "B-4076",
+   "card": "5001",
+   "merchant": "TALABAT",
+   "amount": 119.948,
+   "status": "posted",
+   "date": "2026-05-26",
+   "disputed": false
+  },
+  "T-8761": {
+   "customer_id": "B-4076",
+   "card": "5001",
+   "merchant": "BAPCO FUEL",
+   "amount": 281.573,
+   "status": "posted",
+   "date": "2026-05-14",
+   "disputed": false
+  },
+  "T-8762": {
+   "customer_id": "B-4076",
+   "card": "5001",
+   "merchant": "BAPCO FUEL",
+   "amount": 269.394,
+   "status": "posted",
+   "date": "2026-07-20",
+   "disputed": false
+  },
+  "T-8770": {
+   "customer_id": "B-4077",
+   "card": "9631",
+   "merchant": "CARREFOUR",
+   "amount": 162.884,
+   "status": "posted",
+   "date": "2026-08-14",
+   "disputed": false
+  },
+  "T-8771": {
+   "customer_id": "B-4077",
+   "card": "9631",
+   "merchant": "CARREFOUR",
+   "amount": 285.218,
+   "status": "posted",
+   "date": "2026-10-21",
+   "disputed": false
+  },
+  "T-8772": {
+   "customer_id": "B-4077",
+   "card": "9631",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 252.586,
+   "status": "posted",
+   "date": "2026-08-24",
+   "disputed": false
+  },
+  "T-8773": {
+   "customer_id": "B-4077",
+   "card": "9631",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 37.702,
+   "status": "posted",
+   "date": "2026-10-05",
+   "disputed": false
+  },
+  "T-8780": {
+   "customer_id": "B-4078",
+   "card": "2871",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 81.819,
+   "status": "posted",
+   "date": "2026-08-26",
+   "disputed": false
+  },
+  "T-8781": {
+   "customer_id": "B-4078",
+   "card": "2871",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 18.856,
+   "status": "posted",
+   "date": "2026-08-04",
+   "disputed": false
+  },
+  "T-8782": {
+   "customer_id": "B-4078",
+   "card": "2871",
+   "merchant": "AMAZON.AE",
+   "amount": 116.014,
+   "status": "pending",
+   "date": "2026-09-19",
+   "disputed": false
+  },
+  "T-8783": {
+   "customer_id": "B-4078",
+   "card": "2871",
+   "merchant": "CARREFOUR",
+   "amount": 129.894,
+   "status": "pending",
+   "date": "2026-08-24",
+   "disputed": false
+  },
+  "T-8784": {
+   "customer_id": "B-4078",
+   "card": "2871",
+   "merchant": "BAPCO FUEL",
+   "amount": 281.23,
+   "status": "posted",
+   "date": "2026-05-01",
+   "disputed": false
+  },
+  "T-8790": {
+   "customer_id": "B-4079",
+   "card": "8111",
+   "merchant": "CARREFOUR",
+   "amount": 278.641,
+   "status": "posted",
+   "date": "2026-10-14",
+   "disputed": false
+  },
+  "T-8791": {
+   "customer_id": "B-4079",
+   "card": "8111",
+   "merchant": "CARREFOUR",
+   "amount": 279.809,
+   "status": "posted",
+   "date": "2026-06-27",
+   "disputed": false
+  },
+  "T-8792": {
+   "customer_id": "B-4079",
+   "card": "8111",
+   "merchant": "TALABAT",
+   "amount": 216.047,
+   "status": "posted",
+   "date": "2026-09-05",
+   "disputed": false
+  },
+  "T-8793": {
+   "customer_id": "B-4079",
+   "card": "8111",
+   "merchant": "AMAZON.AE",
+   "amount": 140.732,
+   "status": "posted",
+   "date": "2026-09-11",
+   "disputed": false
+  },
+  "T-8794": {
+   "customer_id": "B-4079",
+   "card": "8111",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 84.929,
+   "status": "posted",
+   "date": "2026-09-01",
+   "disputed": false
+  },
+  "T-8795": {
+   "customer_id": "B-4079",
+   "card": "8111",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 231.63,
+   "status": "posted",
+   "date": "2026-06-17",
+   "disputed": false
+  },
+  "T-8796": {
+   "customer_id": "B-4079",
+   "card": "8111",
+   "merchant": "TALABAT",
+   "amount": 83.007,
+   "status": "posted",
+   "date": "2026-09-07",
+   "disputed": false
+  },
+  "T-8797": {
+   "customer_id": "B-4079",
+   "card": "8111",
+   "merchant": "TALABAT",
+   "amount": 4.689,
+   "status": "posted",
+   "date": "2026-05-25",
+   "disputed": false
+  },
+  "T-8800": {
+   "customer_id": "B-4080",
+   "card": "8207",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 289.8,
+   "status": "posted",
+   "date": "2026-06-21",
+   "disputed": false
+  },
+  "T-8801": {
+   "customer_id": "B-4080",
+   "card": "8207",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 174.292,
+   "status": "pending",
+   "date": "2026-06-07",
+   "disputed": false
+  },
+  "T-8802": {
+   "customer_id": "B-4080",
+   "card": "8207",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 132.691,
+   "status": "posted",
+   "date": "2026-09-01",
+   "disputed": false
+  },
+  "T-8803": {
+   "customer_id": "B-4080",
+   "card": "8207",
+   "merchant": "AMAZON.AE",
+   "amount": 39.04,
+   "status": "posted",
+   "date": "2026-10-04",
+   "disputed": false
+  },
+  "T-8804": {
+   "customer_id": "B-4080",
+   "card": "8207",
+   "merchant": "CARREFOUR",
+   "amount": 15.824,
+   "status": "posted",
+   "date": "2026-11-01",
+   "disputed": false
+  },
+  "T-8810": {
+   "customer_id": "B-4081",
+   "card": "4734",
+   "merchant": "BAPCO FUEL",
+   "amount": 292.609,
+   "status": "pending",
+   "date": "2026-08-12",
+   "disputed": false
+  },
+  "T-8811": {
+   "customer_id": "B-4081",
+   "card": "4734",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 180.573,
+   "status": "posted",
+   "date": "2026-10-22",
+   "disputed": false
+  },
+  "T-8812": {
+   "customer_id": "B-4081",
+   "card": "4734",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 153.8,
+   "status": "posted",
+   "date": "2026-08-19",
+   "disputed": false
+  },
+  "T-8813": {
+   "customer_id": "B-4081",
+   "card": "4734",
+   "merchant": "CARREFOUR",
+   "amount": 125.375,
+   "status": "posted",
+   "date": "2026-08-30",
+   "disputed": false
+  },
+  "T-8814": {
+   "customer_id": "B-4081",
+   "card": "4734",
+   "merchant": "BAPCO FUEL",
+   "amount": 182.483,
+   "status": "posted",
+   "date": "2026-07-29",
+   "disputed": false
+  },
+  "T-8815": {
+   "customer_id": "B-4081",
+   "card": "4734",
+   "merchant": "BAPCO FUEL",
+   "amount": 141.735,
+   "status": "posted",
+   "date": "2026-06-04",
+   "disputed": false
+  },
+  "T-8816": {
+   "customer_id": "B-4081",
+   "card": "4734",
+   "merchant": "BAPCO FUEL",
+   "amount": 14.339,
+   "status": "posted",
+   "date": "2026-06-12",
+   "disputed": true
+  },
+  "T-8820": {
+   "customer_id": "B-4082",
+   "card": "9326",
+   "merchant": "AMAZON.AE",
+   "amount": 249.387,
+   "status": "pending",
+   "date": "2026-05-09",
+   "disputed": false
+  },
+  "T-8821": {
+   "customer_id": "B-4082",
+   "card": "9326",
+   "merchant": "CARREFOUR",
+   "amount": 24.455,
+   "status": "pending",
+   "date": "2026-09-14",
+   "disputed": false
+  },
+  "T-8822": {
+   "customer_id": "B-4082",
+   "card": "9326",
+   "merchant": "TALABAT",
+   "amount": 189.467,
+   "status": "posted",
+   "date": "2026-06-26",
+   "disputed": false
+  },
+  "T-8830": {
+   "customer_id": "B-4083",
+   "card": "9592",
+   "merchant": "BAPCO FUEL",
+   "amount": 59.312,
+   "status": "posted",
+   "date": "2026-09-09",
+   "disputed": false
+  },
+  "T-8831": {
+   "customer_id": "B-4083",
+   "card": "9592",
+   "merchant": "BAPCO FUEL",
+   "amount": 70.036,
+   "status": "posted",
+   "date": "2026-10-12",
+   "disputed": false
+  },
+  "T-8832": {
+   "customer_id": "B-4083",
+   "card": "9592",
+   "merchant": "AMAZON.AE",
+   "amount": 220.107,
+   "status": "posted",
+   "date": "2026-08-10",
+   "disputed": false
+  },
+  "T-8833": {
+   "customer_id": "B-4083",
+   "card": "9592",
+   "merchant": "TALABAT",
+   "amount": 152.187,
+   "status": "posted",
+   "date": "2026-05-27",
+   "disputed": false
+  },
+  "T-8840": {
+   "customer_id": "B-4084",
+   "card": "3052",
+   "merchant": "AMAZON.AE",
+   "amount": 202.557,
+   "status": "posted",
+   "date": "2026-06-08",
+   "disputed": false
+  },
+  "T-8841": {
+   "customer_id": "B-4084",
+   "card": "3052",
+   "merchant": "BAPCO FUEL",
+   "amount": 103.13,
+   "status": "posted",
+   "date": "2026-07-29",
+   "disputed": false
+  },
+  "T-8842": {
+   "customer_id": "B-4084",
+   "card": "3052",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 173.228,
+   "status": "posted",
+   "date": "2026-04-27",
+   "disputed": false
+  },
+  "T-8843": {
+   "customer_id": "B-4084",
+   "card": "3052",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 263.045,
+   "status": "pending",
+   "date": "2026-10-11",
+   "disputed": false
+  },
+  "T-8844": {
+   "customer_id": "B-4084",
+   "card": "3052",
+   "merchant": "TALABAT",
+   "amount": 213.703,
+   "status": "posted",
+   "date": "2026-10-16",
+   "disputed": false
+  },
+  "T-8845": {
+   "customer_id": "B-4084",
+   "card": "3052",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 250.324,
+   "status": "pending",
+   "date": "2026-09-29",
+   "disputed": false
+  },
+  "T-8846": {
+   "customer_id": "B-4084",
+   "card": "3052",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 154.954,
+   "status": "posted",
+   "date": "2026-08-03",
+   "disputed": false
+  },
+  "T-8847": {
+   "customer_id": "B-4084",
+   "card": "3052",
+   "merchant": "BAPCO FUEL",
+   "amount": 39.108,
+   "status": "posted",
+   "date": "2026-09-10",
+   "disputed": false
+  },
+  "T-8850": {
+   "customer_id": "B-4085",
+   "card": "6515",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 23.052,
+   "status": "posted",
+   "date": "2026-07-19",
+   "disputed": false
+  },
+  "T-8851": {
+   "customer_id": "B-4085",
+   "card": "6515",
+   "merchant": "CARREFOUR",
+   "amount": 135.476,
+   "status": "posted",
+   "date": "2026-08-28",
+   "disputed": false
+  },
+  "T-8852": {
+   "customer_id": "B-4085",
+   "card": "6515",
+   "merchant": "CARREFOUR",
+   "amount": 41.247,
+   "status": "posted",
+   "date": "2026-04-28",
+   "disputed": false
+  },
+  "T-8853": {
+   "customer_id": "B-4085",
+   "card": "6515",
+   "merchant": "TALABAT",
+   "amount": 26.053,
+   "status": "posted",
+   "date": "2026-06-12",
+   "disputed": false
+  },
+  "T-8854": {
+   "customer_id": "B-4085",
+   "card": "6515",
+   "merchant": "CARREFOUR",
+   "amount": 195.172,
+   "status": "posted",
+   "date": "2026-07-21",
+   "disputed": false
+  },
+  "T-8855": {
+   "customer_id": "B-4085",
+   "card": "6515",
+   "merchant": "CARREFOUR",
+   "amount": 176.836,
+   "status": "posted",
+   "date": "2026-10-17",
+   "disputed": false
+  },
+  "T-8856": {
+   "customer_id": "B-4085",
+   "card": "6515",
+   "merchant": "AMAZON.AE",
+   "amount": 102.994,
+   "status": "posted",
+   "date": "2026-06-29",
+   "disputed": false
+  },
+  "T-8860": {
+   "customer_id": "B-4086",
+   "card": "3923",
+   "merchant": "CARREFOUR",
+   "amount": 264.833,
+   "status": "posted",
+   "date": "2026-07-23",
+   "disputed": false
+  },
+  "T-8861": {
+   "customer_id": "B-4086",
+   "card": "3923",
+   "merchant": "TALABAT",
+   "amount": 263.996,
+   "status": "posted",
+   "date": "2026-08-14",
+   "disputed": false
+  },
+  "T-8870": {
+   "customer_id": "B-4087",
+   "card": "4664",
+   "merchant": "BAPCO FUEL",
+   "amount": 296.653,
+   "status": "posted",
+   "date": "2026-09-12",
+   "disputed": false
+  },
+  "T-8871": {
+   "customer_id": "B-4087",
+   "card": "4664",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 29.697,
+   "status": "posted",
+   "date": "2026-07-03",
+   "disputed": false
+  },
+  "T-8872": {
+   "customer_id": "B-4087",
+   "card": "4664",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 179.919,
+   "status": "pending",
+   "date": "2026-06-25",
+   "disputed": false
+  },
+  "T-8873": {
+   "customer_id": "B-4087",
+   "card": "4664",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 2.993,
+   "status": "posted",
+   "date": "2026-11-04",
+   "disputed": false
+  },
+  "T-8880": {
+   "customer_id": "B-4088",
+   "card": "3067",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 215.159,
+   "status": "posted",
+   "date": "2026-10-11",
+   "disputed": false
+  },
+  "T-8881": {
+   "customer_id": "B-4088",
+   "card": "3067",
+   "merchant": "AMAZON.AE",
+   "amount": 148.483,
+   "status": "pending",
+   "date": "2026-10-06",
+   "disputed": false
+  },
+  "T-8882": {
+   "customer_id": "B-4088",
+   "card": "3067",
+   "merchant": "CARREFOUR",
+   "amount": 200.946,
+   "status": "posted",
+   "date": "2026-10-21",
+   "disputed": false
+  },
+  "T-8883": {
+   "customer_id": "B-4088",
+   "card": "3067",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 218.481,
+   "status": "posted",
+   "date": "2026-07-04",
+   "disputed": false
+  },
+  "T-8890": {
+   "customer_id": "B-4089",
+   "card": "1628",
+   "merchant": "CARREFOUR",
+   "amount": 238.465,
+   "status": "posted",
+   "date": "2026-06-21",
+   "disputed": false
+  },
+  "T-8891": {
+   "customer_id": "B-4089",
+   "card": "1628",
+   "merchant": "CARREFOUR",
+   "amount": 11.655,
+   "status": "posted",
+   "date": "2026-11-08",
+   "disputed": false
+  },
+  "T-8900": {
+   "customer_id": "B-4090",
+   "card": "4205",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 145.868,
+   "status": "posted",
+   "date": "2026-07-06",
+   "disputed": false
+  },
+  "T-8901": {
+   "customer_id": "B-4090",
+   "card": "4205",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 190.797,
+   "status": "pending",
+   "date": "2026-07-01",
+   "disputed": false
+  },
+  "T-8902": {
+   "customer_id": "B-4090",
+   "card": "4205",
+   "merchant": "CARREFOUR",
+   "amount": 65.043,
+   "status": "posted",
+   "date": "2026-07-08",
+   "disputed": false
+  },
+  "T-8903": {
+   "customer_id": "B-4090",
+   "card": "4205",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 213.287,
+   "status": "pending",
+   "date": "2026-05-18",
+   "disputed": false
+  },
+  "T-8904": {
+   "customer_id": "B-4090",
+   "card": "4205",
+   "merchant": "AMAZON.AE",
+   "amount": 189.677,
+   "status": "posted",
+   "date": "2026-08-13",
+   "disputed": false
+  },
+  "T-8910": {
+   "customer_id": "B-4091",
+   "card": "5786",
+   "merchant": "CARREFOUR",
+   "amount": 118.271,
+   "status": "posted",
+   "date": "2026-07-10",
+   "disputed": false
+  },
+  "T-8911": {
+   "customer_id": "B-4091",
+   "card": "5786",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 34.598,
+   "status": "posted",
+   "date": "2026-05-01",
+   "disputed": false
+  },
+  "T-8912": {
+   "customer_id": "B-4091",
+   "card": "5786",
+   "merchant": "AMAZON.AE",
+   "amount": 290.839,
+   "status": "posted",
+   "date": "2026-05-25",
+   "disputed": false
+  },
+  "T-8913": {
+   "customer_id": "B-4091",
+   "card": "5786",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 139.956,
+   "status": "posted",
+   "date": "2026-10-12",
+   "disputed": false
+  },
+  "T-8914": {
+   "customer_id": "B-4091",
+   "card": "5786",
+   "merchant": "AMAZON.AE",
+   "amount": 211.741,
+   "status": "posted",
+   "date": "2026-07-10",
+   "disputed": false
+  },
+  "T-8920": {
+   "customer_id": "B-4092",
+   "card": "5766",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 267.053,
+   "status": "posted",
+   "date": "2026-10-26",
+   "disputed": false
+  },
+  "T-8921": {
+   "customer_id": "B-4092",
+   "card": "5766",
+   "merchant": "BAPCO FUEL",
+   "amount": 79.22,
+   "status": "posted",
+   "date": "2026-08-02",
+   "disputed": false
+  },
+  "T-8922": {
+   "customer_id": "B-4092",
+   "card": "5766",
+   "merchant": "AMAZON.AE",
+   "amount": 120.205,
+   "status": "posted",
+   "date": "2026-09-03",
+   "disputed": false
+  },
+  "T-8923": {
+   "customer_id": "B-4092",
+   "card": "5766",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 102.613,
+   "status": "posted",
+   "date": "2026-08-24",
+   "disputed": false
+  },
+  "T-8924": {
+   "customer_id": "B-4092",
+   "card": "5766",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 172.179,
+   "status": "posted",
+   "date": "2026-09-19",
+   "disputed": false
+  },
+  "T-8925": {
+   "customer_id": "B-4092",
+   "card": "5766",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 284.415,
+   "status": "posted",
+   "date": "2026-08-18",
+   "disputed": false
+  },
+  "T-8930": {
+   "customer_id": "B-4093",
+   "card": "7212",
+   "merchant": "CARREFOUR",
+   "amount": 100.653,
+   "status": "posted",
+   "date": "2026-04-28",
+   "disputed": false
+  },
+  "T-8931": {
+   "customer_id": "B-4093",
+   "card": "7212",
+   "merchant": "CARREFOUR",
+   "amount": 15.715,
+   "status": "posted",
+   "date": "2026-06-26",
+   "disputed": false
+  },
+  "T-8932": {
+   "customer_id": "B-4093",
+   "card": "7212",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 251.607,
+   "status": "posted",
+   "date": "2026-05-11",
+   "disputed": false
+  },
+  "T-8933": {
+   "customer_id": "B-4093",
+   "card": "7212",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 273.285,
+   "status": "posted",
+   "date": "2026-09-16",
+   "disputed": false
+  },
+  "T-8934": {
+   "customer_id": "B-4093",
+   "card": "7212",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 282.064,
+   "status": "pending",
+   "date": "2026-11-05",
+   "disputed": false
+  },
+  "T-8935": {
+   "customer_id": "B-4093",
+   "card": "7212",
+   "merchant": "TALABAT",
+   "amount": 31.654,
+   "status": "posted",
+   "date": "2026-07-09",
+   "disputed": false
+  },
+  "T-8936": {
+   "customer_id": "B-4093",
+   "card": "7212",
+   "merchant": "BAPCO FUEL",
+   "amount": 91.138,
+   "status": "posted",
+   "date": "2026-04-27",
+   "disputed": false
+  },
+  "T-8937": {
+   "customer_id": "B-4093",
+   "card": "7212",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 82.465,
+   "status": "posted",
+   "date": "2026-04-24",
+   "disputed": false
+  },
+  "T-8940": {
+   "customer_id": "B-4094",
+   "card": "5423",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 151.848,
+   "status": "posted",
+   "date": "2026-05-07",
+   "disputed": false
+  },
+  "T-8941": {
+   "customer_id": "B-4094",
+   "card": "5423",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 223.053,
+   "status": "posted",
+   "date": "2026-10-03",
+   "disputed": false
+  },
+  "T-8950": {
+   "customer_id": "B-4095",
+   "card": "6114",
+   "merchant": "TALABAT",
+   "amount": 223.302,
+   "status": "posted",
+   "date": "2026-07-16",
+   "disputed": false
+  },
+  "T-8951": {
+   "customer_id": "B-4095",
+   "card": "6114",
+   "merchant": "BAPCO FUEL",
+   "amount": 290.809,
+   "status": "posted",
+   "date": "2026-08-06",
+   "disputed": false
+  },
+  "T-8952": {
+   "customer_id": "B-4095",
+   "card": "6114",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 67.454,
+   "status": "posted",
+   "date": "2026-08-31",
+   "disputed": false
+  },
+  "T-8953": {
+   "customer_id": "B-4095",
+   "card": "6114",
+   "merchant": "CARREFOUR",
+   "amount": 160.428,
+   "status": "posted",
+   "date": "2026-11-06",
+   "disputed": false
+  },
+  "T-8954": {
+   "customer_id": "B-4095",
+   "card": "6114",
+   "merchant": "CARREFOUR",
+   "amount": 118.7,
+   "status": "posted",
+   "date": "2026-06-24",
+   "disputed": false
+  },
+  "T-8960": {
+   "customer_id": "B-4096",
+   "card": "7510",
+   "merchant": "BAPCO FUEL",
+   "amount": 143.565,
+   "status": "posted",
+   "date": "2026-08-23",
+   "disputed": false
+  },
+  "T-8961": {
+   "customer_id": "B-4096",
+   "card": "7510",
+   "merchant": "CARREFOUR",
+   "amount": 292.769,
+   "status": "pending",
+   "date": "2026-09-28",
+   "disputed": false
+  },
+  "T-8962": {
+   "customer_id": "B-4096",
+   "card": "7510",
+   "merchant": "AMAZON.AE",
+   "amount": 178.429,
+   "status": "pending",
+   "date": "2026-07-30",
+   "disputed": false
+  },
+  "T-8963": {
+   "customer_id": "B-4096",
+   "card": "7510",
+   "merchant": "AMAZON.AE",
+   "amount": 157.498,
+   "status": "posted",
+   "date": "2026-04-30",
+   "disputed": false
+  },
+  "T-8964": {
+   "customer_id": "B-4096",
+   "card": "7510",
+   "merchant": "AMAZON.AE",
+   "amount": 76.355,
+   "status": "posted",
+   "date": "2026-08-16",
+   "disputed": false
+  },
+  "T-8970": {
+   "customer_id": "B-4097",
+   "card": "7660",
+   "merchant": "CARREFOUR",
+   "amount": 63.558,
+   "status": "posted",
+   "date": "2026-07-08",
+   "disputed": false
+  },
+  "T-8971": {
+   "customer_id": "B-4097",
+   "card": "7660",
+   "merchant": "BAPCO FUEL",
+   "amount": 287.883,
+   "status": "posted",
+   "date": "2026-07-15",
+   "disputed": false
+  },
+  "T-8972": {
+   "customer_id": "B-4097",
+   "card": "7660",
+   "merchant": "TALABAT",
+   "amount": 166.887,
+   "status": "posted",
+   "date": "2026-05-07",
+   "disputed": false
+  },
+  "T-8973": {
+   "customer_id": "B-4097",
+   "card": "7660",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 128.285,
+   "status": "pending",
+   "date": "2026-10-09",
+   "disputed": false
+  },
+  "T-8980": {
+   "customer_id": "B-4098",
+   "card": "2862",
+   "merchant": "AMAZON.AE",
+   "amount": 52.046,
+   "status": "posted",
+   "date": "2026-07-09",
+   "disputed": false
+  },
+  "T-8981": {
+   "customer_id": "B-4098",
+   "card": "2862",
+   "merchant": "TALABAT",
+   "amount": 126.026,
+   "status": "pending",
+   "date": "2026-10-11",
+   "disputed": false
+  },
+  "T-8982": {
+   "customer_id": "B-4098",
+   "card": "2862",
+   "merchant": "BAPCO FUEL",
+   "amount": 216.263,
+   "status": "posted",
+   "date": "2026-09-02",
+   "disputed": false
+  },
+  "T-8983": {
+   "customer_id": "B-4098",
+   "card": "2862",
+   "merchant": "TALABAT",
+   "amount": 266.974,
+   "status": "posted",
+   "date": "2026-09-29",
+   "disputed": false
+  },
+  "T-8984": {
+   "customer_id": "B-4098",
+   "card": "2862",
+   "merchant": "TALABAT",
+   "amount": 205.822,
+   "status": "posted",
+   "date": "2026-05-12",
+   "disputed": false
+  },
+  "T-8990": {
+   "customer_id": "B-4099",
+   "card": "6409",
+   "merchant": "TALABAT",
+   "amount": 214.809,
+   "status": "posted",
+   "date": "2026-08-21",
+   "disputed": false
+  },
+  "T-8991": {
+   "customer_id": "B-4099",
+   "card": "6409",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 141.678,
+   "status": "posted",
+   "date": "2026-11-09",
+   "disputed": false
+  },
+  "T-8992": {
+   "customer_id": "B-4099",
+   "card": "6409",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 60.581,
+   "status": "pending",
+   "date": "2026-07-16",
+   "disputed": false
+  },
+  "T-9000": {
+   "customer_id": "B-4100",
+   "card": "6741",
+   "merchant": "CARREFOUR",
+   "amount": 5.225,
+   "status": "posted",
+   "date": "2026-08-30",
+   "disputed": false
+  },
+  "T-9001": {
+   "customer_id": "B-4100",
+   "card": "6741",
+   "merchant": "AMAZON.AE",
+   "amount": 175.756,
+   "status": "posted",
+   "date": "2026-06-04",
+   "disputed": false
+  },
+  "T-9002": {
+   "customer_id": "B-4100",
+   "card": "6741",
+   "merchant": "BAPCO FUEL",
+   "amount": 168.773,
+   "status": "posted",
+   "date": "2026-09-20",
+   "disputed": false
+  },
+  "T-9003": {
+   "customer_id": "B-4100",
+   "card": "6741",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 31.79,
+   "status": "posted",
+   "date": "2026-09-26",
+   "disputed": false
+  },
+  "T-9010": {
+   "customer_id": "B-4101",
+   "card": "7274",
+   "merchant": "TALABAT",
+   "amount": 181.828,
+   "status": "posted",
+   "date": "2026-05-06",
+   "disputed": false
+  },
+  "T-9011": {
+   "customer_id": "B-4101",
+   "card": "7274",
+   "merchant": "CARREFOUR",
+   "amount": 272.86,
+   "status": "posted",
+   "date": "2026-11-10",
+   "disputed": false
+  },
+  "T-9012": {
+   "customer_id": "B-4101",
+   "card": "7274",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 28.31,
+   "status": "posted",
+   "date": "2026-10-04",
+   "disputed": false
+  },
+  "T-9013": {
+   "customer_id": "B-4101",
+   "card": "7274",
+   "merchant": "AMAZON.AE",
+   "amount": 262.51,
+   "status": "posted",
+   "date": "2026-10-28",
+   "disputed": false
+  },
+  "T-9014": {
+   "customer_id": "B-4101",
+   "card": "7274",
+   "merchant": "AMAZON.AE",
+   "amount": 128.196,
+   "status": "posted",
+   "date": "2026-08-25",
+   "disputed": false
+  },
+  "T-9015": {
+   "customer_id": "B-4101",
+   "card": "7274",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 72.991,
+   "status": "posted",
+   "date": "2026-04-26",
+   "disputed": false
+  },
+  "T-9020": {
+   "customer_id": "B-4102",
+   "card": "6193",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 286.653,
+   "status": "posted",
+   "date": "2026-08-31",
+   "disputed": false
+  },
+  "T-9021": {
+   "customer_id": "B-4102",
+   "card": "6193",
+   "merchant": "AMAZON.AE",
+   "amount": 168.585,
+   "status": "posted",
+   "date": "2026-09-07",
+   "disputed": false
+  },
+  "T-9022": {
+   "customer_id": "B-4102",
+   "card": "6193",
+   "merchant": "TALABAT",
+   "amount": 270.029,
+   "status": "posted",
+   "date": "2026-09-26",
+   "disputed": true
+  },
+  "T-9023": {
+   "customer_id": "B-4102",
+   "card": "6193",
+   "merchant": "BAPCO FUEL",
+   "amount": 256.756,
+   "status": "posted",
+   "date": "2026-08-14",
+   "disputed": false
+  },
+  "T-9024": {
+   "customer_id": "B-4102",
+   "card": "6193",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 185.475,
+   "status": "posted",
+   "date": "2026-09-23",
+   "disputed": false
+  },
+  "T-9025": {
+   "customer_id": "B-4102",
+   "card": "6193",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 280.025,
+   "status": "posted",
+   "date": "2026-09-21",
+   "disputed": false
+  },
+  "T-9030": {
+   "customer_id": "B-4103",
+   "card": "6381",
+   "merchant": "BAPCO FUEL",
+   "amount": 151.335,
+   "status": "pending",
+   "date": "2026-09-02",
+   "disputed": false
+  },
+  "T-9031": {
+   "customer_id": "B-4103",
+   "card": "6381",
+   "merchant": "BAPCO FUEL",
+   "amount": 192.861,
+   "status": "posted",
+   "date": "2026-05-16",
+   "disputed": false
+  },
+  "T-9032": {
+   "customer_id": "B-4103",
+   "card": "6381",
+   "merchant": "BAPCO FUEL",
+   "amount": 187.956,
+   "status": "posted",
+   "date": "2026-11-03",
+   "disputed": false
+  },
+  "T-9033": {
+   "customer_id": "B-4103",
+   "card": "6381",
+   "merchant": "AMAZON.AE",
+   "amount": 299.172,
+   "status": "posted",
+   "date": "2026-07-08",
+   "disputed": false
+  },
+  "T-9040": {
+   "customer_id": "B-4104",
+   "card": "3509",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 25.765,
+   "status": "posted",
+   "date": "2026-10-11",
+   "disputed": false
+  },
+  "T-9041": {
+   "customer_id": "B-4104",
+   "card": "3509",
+   "merchant": "CARREFOUR",
+   "amount": 213.467,
+   "status": "posted",
+   "date": "2026-06-24",
+   "disputed": false
+  },
+  "T-9042": {
+   "customer_id": "B-4104",
+   "card": "3509",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 196.876,
+   "status": "posted",
+   "date": "2026-08-17",
+   "disputed": false
+  },
+  "T-9043": {
+   "customer_id": "B-4104",
+   "card": "3509",
+   "merchant": "BAPCO FUEL",
+   "amount": 269.423,
+   "status": "posted",
+   "date": "2026-06-13",
+   "disputed": false
+  },
+  "T-9044": {
+   "customer_id": "B-4104",
+   "card": "3509",
+   "merchant": "BAPCO FUEL",
+   "amount": 155.386,
+   "status": "posted",
+   "date": "2026-07-30",
+   "disputed": false
+  },
+  "T-9045": {
+   "customer_id": "B-4104",
+   "card": "3509",
+   "merchant": "CARREFOUR",
+   "amount": 201.223,
+   "status": "pending",
+   "date": "2026-04-30",
+   "disputed": false
+  },
+  "T-9046": {
+   "customer_id": "B-4104",
+   "card": "3509",
+   "merchant": "CARREFOUR",
+   "amount": 80.724,
+   "status": "posted",
+   "date": "2026-10-30",
+   "disputed": false
+  },
+  "T-9047": {
+   "customer_id": "B-4104",
+   "card": "3509",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 206.926,
+   "status": "posted",
+   "date": "2026-06-01",
+   "disputed": false
+  },
+  "T-9050": {
+   "customer_id": "B-4105",
+   "card": "2928",
+   "merchant": "TALABAT",
+   "amount": 250.996,
+   "status": "pending",
+   "date": "2026-07-15",
+   "disputed": false
+  },
+  "T-9051": {
+   "customer_id": "B-4105",
+   "card": "2928",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 55.568,
+   "status": "pending",
+   "date": "2026-08-21",
+   "disputed": false
+  },
+  "T-9052": {
+   "customer_id": "B-4105",
+   "card": "2928",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 230.25,
+   "status": "posted",
+   "date": "2026-09-16",
+   "disputed": false
+  },
+  "T-9053": {
+   "customer_id": "B-4105",
+   "card": "2928",
+   "merchant": "AMAZON.AE",
+   "amount": 25.301,
+   "status": "posted",
+   "date": "2026-09-08",
+   "disputed": false
+  },
+  "T-9054": {
+   "customer_id": "B-4105",
+   "card": "2928",
+   "merchant": "CARREFOUR",
+   "amount": 193.053,
+   "status": "posted",
+   "date": "2026-09-23",
+   "disputed": false
+  },
+  "T-9060": {
+   "customer_id": "B-4106",
+   "card": "5703",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 169.947,
+   "status": "posted",
+   "date": "2026-09-23",
+   "disputed": false
+  },
+  "T-9061": {
+   "customer_id": "B-4106",
+   "card": "5703",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 53.957,
+   "status": "posted",
+   "date": "2026-05-16",
+   "disputed": false
+  },
+  "T-9062": {
+   "customer_id": "B-4106",
+   "card": "5703",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 147.476,
+   "status": "posted",
+   "date": "2026-08-13",
+   "disputed": false
+  },
+  "T-9063": {
+   "customer_id": "B-4106",
+   "card": "5703",
+   "merchant": "TALABAT",
+   "amount": 135.452,
+   "status": "posted",
+   "date": "2026-09-28",
+   "disputed": false
+  },
+  "T-9070": {
+   "customer_id": "B-4107",
+   "card": "4451",
+   "merchant": "CARREFOUR",
+   "amount": 243.462,
+   "status": "posted",
+   "date": "2026-09-18",
+   "disputed": false
+  },
+  "T-9071": {
+   "customer_id": "B-4107",
+   "card": "4451",
+   "merchant": "TALABAT",
+   "amount": 165.932,
+   "status": "posted",
+   "date": "2026-09-03",
+   "disputed": false
+  },
+  "T-9072": {
+   "customer_id": "B-4107",
+   "card": "4451",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 78.206,
+   "status": "posted",
+   "date": "2026-11-02",
+   "disputed": false
+  },
+  "T-9073": {
+   "customer_id": "B-4107",
+   "card": "4451",
+   "merchant": "TALABAT",
+   "amount": 197.841,
+   "status": "posted",
+   "date": "2026-10-06",
+   "disputed": false
+  },
+  "T-9080": {
+   "customer_id": "B-4108",
+   "card": "1554",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 189.212,
+   "status": "posted",
+   "date": "2026-11-08",
+   "disputed": false
+  },
+  "T-9081": {
+   "customer_id": "B-4108",
+   "card": "1554",
+   "merchant": "AMAZON.AE",
+   "amount": 101.079,
+   "status": "posted",
+   "date": "2026-10-16",
+   "disputed": false
+  },
+  "T-9082": {
+   "customer_id": "B-4108",
+   "card": "1554",
+   "merchant": "BAPCO FUEL",
+   "amount": 92.576,
+   "status": "posted",
+   "date": "2026-09-24",
+   "disputed": false
+  },
+  "T-9083": {
+   "customer_id": "B-4108",
+   "card": "1554",
+   "merchant": "AMAZON.AE",
+   "amount": 242.957,
+   "status": "posted",
+   "date": "2026-06-16",
+   "disputed": false
+  },
+  "T-9084": {
+   "customer_id": "B-4108",
+   "card": "1554",
+   "merchant": "CARREFOUR",
+   "amount": 120.401,
+   "status": "posted",
+   "date": "2026-09-07",
+   "disputed": false
+  },
+  "T-9085": {
+   "customer_id": "B-4108",
+   "card": "1554",
+   "merchant": "TALABAT",
+   "amount": 102.026,
+   "status": "posted",
+   "date": "2026-08-26",
+   "disputed": false
+  },
+  "T-9086": {
+   "customer_id": "B-4108",
+   "card": "1554",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 229.189,
+   "status": "posted",
+   "date": "2026-07-04",
+   "disputed": false
+  },
+  "T-9090": {
+   "customer_id": "B-4109",
+   "card": "1467",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 276.784,
+   "status": "posted",
+   "date": "2026-05-16",
+   "disputed": false
+  },
+  "T-9091": {
+   "customer_id": "B-4109",
+   "card": "1467",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 285.497,
+   "status": "posted",
+   "date": "2026-10-06",
+   "disputed": false
+  },
+  "T-9092": {
+   "customer_id": "B-4109",
+   "card": "1467",
+   "merchant": "BAPCO FUEL",
+   "amount": 236.782,
+   "status": "pending",
+   "date": "2026-10-18",
+   "disputed": false
+  },
+  "T-9093": {
+   "customer_id": "B-4109",
+   "card": "1467",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 240.645,
+   "status": "posted",
+   "date": "2026-09-29",
+   "disputed": false
+  },
+  "T-9094": {
+   "customer_id": "B-4109",
+   "card": "1467",
+   "merchant": "CARREFOUR",
+   "amount": 45.1,
+   "status": "posted",
+   "date": "2026-08-25",
+   "disputed": false
+  },
+  "T-9095": {
+   "customer_id": "B-4109",
+   "card": "1467",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 71.619,
+   "status": "posted",
+   "date": "2026-10-18",
+   "disputed": false
+  },
+  "T-9100": {
+   "customer_id": "B-4110",
+   "card": "6647",
+   "merchant": "TALABAT",
+   "amount": 206.349,
+   "status": "posted",
+   "date": "2026-07-13",
+   "disputed": false
+  },
+  "T-9101": {
+   "customer_id": "B-4110",
+   "card": "6647",
+   "merchant": "AMAZON.AE",
+   "amount": 212.161,
+   "status": "posted",
+   "date": "2026-10-17",
+   "disputed": false
+  },
+  "T-9102": {
+   "customer_id": "B-4110",
+   "card": "6647",
+   "merchant": "BAPCO FUEL",
+   "amount": 229.15,
+   "status": "posted",
+   "date": "2026-04-27",
+   "disputed": false
+  },
+  "T-9103": {
+   "customer_id": "B-4110",
+   "card": "6647",
+   "merchant": "BAPCO FUEL",
+   "amount": 246.118,
+   "status": "posted",
+   "date": "2026-07-25",
+   "disputed": false
+  },
+  "T-9104": {
+   "customer_id": "B-4110",
+   "card": "6647",
+   "merchant": "TALABAT",
+   "amount": 22.425,
+   "status": "posted",
+   "date": "2026-05-05",
+   "disputed": false
+  },
+  "T-9110": {
+   "customer_id": "B-4111",
+   "card": "4852",
+   "merchant": "BAPCO FUEL",
+   "amount": 150.935,
+   "status": "pending",
+   "date": "2026-06-10",
+   "disputed": false
+  },
+  "T-9111": {
+   "customer_id": "B-4111",
+   "card": "4852",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 194.028,
+   "status": "posted",
+   "date": "2026-09-23",
+   "disputed": false
+  },
+  "T-9112": {
+   "customer_id": "B-4111",
+   "card": "4852",
+   "merchant": "BAPCO FUEL",
+   "amount": 131.185,
+   "status": "posted",
+   "date": "2026-05-27",
+   "disputed": false
+  },
+  "T-9113": {
+   "customer_id": "B-4111",
+   "card": "4852",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 86.204,
+   "status": "posted",
+   "date": "2026-07-10",
+   "disputed": false
+  },
+  "T-9120": {
+   "customer_id": "B-4112",
+   "card": "9476",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 104.54,
+   "status": "posted",
+   "date": "2026-05-27",
+   "disputed": false
+  },
+  "T-9121": {
+   "customer_id": "B-4112",
+   "card": "9476",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 49.104,
+   "status": "posted",
+   "date": "2026-07-04",
+   "disputed": false
+  },
+  "T-9122": {
+   "customer_id": "B-4112",
+   "card": "9476",
+   "merchant": "AMAZON.AE",
+   "amount": 4.465,
+   "status": "posted",
+   "date": "2026-05-23",
+   "disputed": false
+  },
+  "T-9123": {
+   "customer_id": "B-4112",
+   "card": "9476",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 91.583,
+   "status": "posted",
+   "date": "2026-06-01",
+   "disputed": false
+  },
+  "T-9124": {
+   "customer_id": "B-4112",
+   "card": "9476",
+   "merchant": "AMAZON.AE",
+   "amount": 151.116,
+   "status": "posted",
+   "date": "2026-05-12",
+   "disputed": false
+  },
+  "T-9130": {
+   "customer_id": "B-4113",
+   "card": "7947",
+   "merchant": "CARREFOUR",
+   "amount": 24.923,
+   "status": "pending",
+   "date": "2026-05-13",
+   "disputed": false
+  },
+  "T-9131": {
+   "customer_id": "B-4113",
+   "card": "7947",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 154.954,
+   "status": "posted",
+   "date": "2026-07-17",
+   "disputed": false
+  },
+  "T-9132": {
+   "customer_id": "B-4113",
+   "card": "7947",
+   "merchant": "AMAZON.AE",
+   "amount": 85.232,
+   "status": "posted",
+   "date": "2026-07-08",
+   "disputed": false
+  },
+  "T-9133": {
+   "customer_id": "B-4113",
+   "card": "7947",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 266.861,
+   "status": "posted",
+   "date": "2026-09-07",
+   "disputed": false
+  },
+  "T-9134": {
+   "customer_id": "B-4113",
+   "card": "7947",
+   "merchant": "CARREFOUR",
+   "amount": 89.547,
+   "status": "posted",
+   "date": "2026-06-25",
+   "disputed": false
+  },
+  "T-9135": {
+   "customer_id": "B-4113",
+   "card": "7947",
+   "merchant": "BAPCO FUEL",
+   "amount": 107.709,
+   "status": "pending",
+   "date": "2026-08-19",
+   "disputed": false
+  },
+  "T-9136": {
+   "customer_id": "B-4113",
+   "card": "7947",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 179.138,
+   "status": "posted",
+   "date": "2026-11-01",
+   "disputed": false
+  },
+  "T-9137": {
+   "customer_id": "B-4113",
+   "card": "7947",
+   "merchant": "AMAZON.AE",
+   "amount": 75.339,
+   "status": "pending",
+   "date": "2026-10-17",
+   "disputed": false
+  },
+  "T-9140": {
+   "customer_id": "B-4114",
+   "card": "6658",
+   "merchant": "TALABAT",
+   "amount": 73.986,
+   "status": "posted",
+   "date": "2026-05-07",
+   "disputed": false
+  },
+  "T-9141": {
+   "customer_id": "B-4114",
+   "card": "6658",
+   "merchant": "TALABAT",
+   "amount": 138.067,
+   "status": "pending",
+   "date": "2026-08-07",
+   "disputed": false
+  },
+  "T-9142": {
+   "customer_id": "B-4114",
+   "card": "6658",
+   "merchant": "TALABAT",
+   "amount": 293.076,
+   "status": "posted",
+   "date": "2026-10-16",
+   "disputed": false
+  },
+  "T-9143": {
+   "customer_id": "B-4114",
+   "card": "6658",
+   "merchant": "CARREFOUR",
+   "amount": 24.551,
+   "status": "posted",
+   "date": "2026-05-03",
+   "disputed": false
+  },
+  "T-9144": {
+   "customer_id": "B-4114",
+   "card": "6658",
+   "merchant": "AMAZON.AE",
+   "amount": 7.693,
+   "status": "posted",
+   "date": "2026-09-06",
+   "disputed": false
+  },
+  "T-9145": {
+   "customer_id": "B-4114",
+   "card": "6658",
+   "merchant": "CARREFOUR",
+   "amount": 264.995,
+   "status": "posted",
+   "date": "2026-07-23",
+   "disputed": false
+  },
+  "T-9146": {
+   "customer_id": "B-4114",
+   "card": "6658",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 171.698,
+   "status": "posted",
+   "date": "2026-06-06",
+   "disputed": false
+  },
+  "T-9150": {
+   "customer_id": "B-4115",
+   "card": "4525",
+   "merchant": "CARREFOUR",
+   "amount": 206.97,
+   "status": "posted",
+   "date": "2026-07-05",
+   "disputed": false
+  },
+  "T-9151": {
+   "customer_id": "B-4115",
+   "card": "4525",
+   "merchant": "TALABAT",
+   "amount": 120.203,
+   "status": "posted",
+   "date": "2026-08-30",
+   "disputed": false
+  },
+  "T-9152": {
+   "customer_id": "B-4115",
+   "card": "4525",
+   "merchant": "AMAZON.AE",
+   "amount": 62.934,
+   "status": "posted",
+   "date": "2026-05-26",
+   "disputed": false
+  },
+  "T-9153": {
+   "customer_id": "B-4115",
+   "card": "4525",
+   "merchant": "BAPCO FUEL",
+   "amount": 139.27,
+   "status": "posted",
+   "date": "2026-06-01",
+   "disputed": false
+  },
+  "T-9160": {
+   "customer_id": "B-4116",
+   "card": "4621",
+   "merchant": "BAPCO FUEL",
+   "amount": 218.721,
+   "status": "posted",
+   "date": "2026-07-16",
+   "disputed": false
+  },
+  "T-9161": {
+   "customer_id": "B-4116",
+   "card": "4621",
+   "merchant": "CARREFOUR",
+   "amount": 178.974,
+   "status": "posted",
+   "date": "2026-07-12",
+   "disputed": false
+  },
+  "T-9162": {
+   "customer_id": "B-4116",
+   "card": "4621",
+   "merchant": "LULU HYPERMARKET",
+   "amount": 103.542,
+   "status": "posted",
+   "date": "2026-07-20",
+   "disputed": false
+  },
+  "T-9163": {
+   "customer_id": "B-4116",
+   "card": "4621",
+   "merchant": "CARREFOUR",
+   "amount": 150.193,
+   "status": "posted",
+   "date": "2026-09-28",
+   "disputed": false
+  },
+  "T-9164": {
+   "customer_id": "B-4116",
+   "card": "4621",
+   "merchant": "BAPCO FUEL",
+   "amount": 121.479,
+   "status": "posted",
+   "date": "2026-06-17",
+   "disputed": false
+  },
+  "T-9165": {
+   "customer_id": "B-4116",
+   "card": "4621",
+   "merchant": "CARREFOUR",
+   "amount": 146.475,
+   "status": "posted",
+   "date": "2026-10-20",
+   "disputed": false
+  },
+  "T-9170": {
+   "customer_id": "B-4117",
+   "card": "6166",
+   "merchant": "AMAZON.AE",
+   "amount": 9.84,
+   "status": "posted",
+   "date": "2026-09-29",
+   "disputed": false
+  },
+  "T-9171": {
+   "customer_id": "B-4117",
+   "card": "6166",
+   "merchant": "TALABAT",
+   "amount": 130.028,
+   "status": "posted",
+   "date": "2026-11-05",
+   "disputed": false
+  },
+  "T-9172": {
+   "customer_id": "B-4117",
+   "card": "6166",
+   "merchant": "BAPCO FUEL",
+   "amount": 167.375,
+   "status": "posted",
+   "date": "2026-09-11",
+   "disputed": false
+  },
+  "T-9173": {
+   "customer_id": "B-4117",
+   "card": "6166",
+   "merchant": "TALABAT",
+   "amount": 40.378,
+   "status": "posted",
+   "date": "2026-10-10",
+   "disputed": false
+  },
+  "T-9174": {
+   "customer_id": "B-4117",
+   "card": "6166",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 64.18,
+   "status": "posted",
+   "date": "2026-08-28",
+   "disputed": false
+  },
+  "T-9175": {
+   "customer_id": "B-4117",
+   "card": "6166",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 230.296,
+   "status": "posted",
+   "date": "2026-07-31",
+   "disputed": false
+  },
+  "T-9176": {
+   "customer_id": "B-4117",
+   "card": "6166",
+   "merchant": "BAPCO FUEL",
+   "amount": 225.633,
+   "status": "posted",
+   "date": "2026-06-10",
+   "disputed": false
+  },
+  "T-9180": {
+   "customer_id": "B-4118",
+   "card": "6206",
+   "merchant": "AMAZON.AE",
+   "amount": 148.955,
+   "status": "posted",
+   "date": "2026-07-18",
+   "disputed": false
+  },
+  "T-9181": {
+   "customer_id": "B-4118",
+   "card": "6206",
+   "merchant": "CITY CENTRE CINEMA",
+   "amount": 120.616,
+   "status": "pending",
+   "date": "2026-08-17",
+   "disputed": false
+  },
+  "T-9182": {
+   "customer_id": "B-4118",
+   "card": "6206",
+   "merchant": "CARREFOUR",
+   "amount": 52.509,
+   "status": "posted",
+   "date": "2026-08-04",
+   "disputed": false
+  },
+  "T-9190": {
+   "customer_id": "B-4119",
+   "card": "1475",
+   "merchant": "TALABAT",
+   "amount": 186.356,
+   "status": "posted",
+   "date": "2026-06-10",
+   "disputed": false
+  },
+  "T-9191": {
+   "customer_id": "B-4119",
+   "card": "1475",
+   "merchant": "AMAZON.AE",
+   "amount": 283.701,
+   "status": "posted",
+   "date": "2026-09-08",
+   "disputed": false
+  },
+  "T-9192": {
+   "customer_id": "B-4119",
+   "card": "1475",
+   "merchant": "CARREFOUR",
+   "amount": 142.102,
+   "status": "pending",
+   "date": "2026-08-08",
+   "disputed": true
+  }
+ },
+ "approvals": [],
+ "dispute_window_days": 120
+}

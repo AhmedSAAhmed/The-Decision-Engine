@@ -1,0 +1,78 @@
+# Nahla Telecom: account actions an AI agent can take over WhatsApp, voice and chat.
+id: telecom
+name: Nahla Telecom · account actions
+org: Nahla Telecom (fictional)
+version: 1.0.0
+currency: BHD
+
+thresholds:
+  execute_confidence: 0.80
+  irreversible_confidence: 0.95
+  autonomy_budget: 3.0
+
+actions:
+  plan_change:
+    description: Move the line to another plan from the next bill cycle
+    reversibility: reversible
+    intents: [plan_change]
+    impact: 2.0
+    route_to: retention_team
+    execute_template: "Switch {msisdn} to {new_plan} from next cycle"
+    required_fields:
+      msisdn:   {question_en: "Which number should I change?", question_ar: "أي رقم تبيني أغير له الباقة؟"}
+      new_plan: {question_en: "Which plan would you like?", question_ar: "أي باقة تبي؟"}
+    required_evidence: [subscriber_exists, requester_is_holder, plan_exists, fee_acknowledged]
+    refuse_if:
+      - {check: requester_not_holder, reason: "Only the account holder can change the plan"}
+    defer_if:
+      - {check: plan_change_pending, reason: "A plan change is already scheduled", retry: "Re-check after the scheduled change takes effect"}
+
+  bill_credit:
+    description: Credit the bill for a logged network outage
+    reversibility: compensable
+    intents: [outage_credit]
+    impact: param:amount
+    route_to: billing_team
+    execute_template: "Credit {amount} BHD to {msisdn} for the logged outage"
+    required_fields:
+      msisdn: {question_en: "Which number was affected?", question_ar: "أي رقم تأثر؟"}
+      amount: {question_en: "", question_ar: ""}
+    required_evidence: [subscriber_exists, requester_is_holder, outage_in_area, amount_within_formula, no_credit_this_month]
+    escalate_if:
+      - {check: amount_over, value: 5, reason: "Credits above 5 BHD need billing approval"}
+      - {check: credit_over_formula, reason: "Requested credit exceeds the outage formula"}
+    risk:
+      - {check: amount_over, value: 3, weight: 0.2, label: "credit above 3 BHD"}
+
+  sim_swap:
+    description: Move the number to a new SIM. Irreversible, and the classic account-takeover vector
+    reversibility: irreversible
+    intents: [sim_swap]
+    impact: 40.0                        # expected fraud loss if a takeover succeeds (bank OTPs, wallets)
+    autonomy_budget: 15.0
+    route_to: fraud_desk
+    execute_template: "Swap {msisdn} to SIM {new_iccid}"
+    required_fields:
+      msisdn:    {question_en: "Which number is the SIM for?", question_ar: "الشريحة لأي رقم؟"}
+      new_iccid: {question_en: "Please read me the number printed on the new SIM card.", question_ar: "اقرأ لي الرقم المطبوع على الشريحة الجديدة."}
+    required_evidence: [subscriber_exists, requester_is_holder, identity_verified, no_recent_swap, no_port_out_pending]
+    refuse_if:
+      - {check: requester_not_holder, reason: "SIM swaps are only for the account holder, in person or with OTP"}
+    escalate_if:
+      - {check: swap_fraud_pattern, reason: "Recent swap or pending port-out: account-takeover pattern"}
+    risk:
+      - {check: swap_fraud_pattern, weight: 0.5, label: "takeover pattern"}
+      - {check: customer_urgency_pressure, weight: 0.2, label: "urgency pressure"}
+
+  disclose_call_records:
+    description: Send itemised call records
+    reversibility: irreversible         # disclosed data cannot be un-disclosed
+    intents: [records_request]
+    impact: 30.0
+    route_to: privacy_officer
+    execute_template: "Email call records for {msisdn} to the registered address"
+    required_fields:
+      msisdn: {question_en: "Which number?", question_ar: "أي رقم؟"}
+    required_evidence: [subscriber_exists, requester_is_holder, identity_verified]
+    refuse_if:
+      - {check: requester_not_holder, reason: "Call records of another person's line are never disclosed (PDPL)"}

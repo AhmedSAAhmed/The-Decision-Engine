@@ -1,0 +1,67 @@
+# Gulf Pearl Bank: an AI agent may protect money fast, may open disputes, and may never move money.
+id: banking
+name: Gulf Pearl Bank · cards & disputes
+org: Gulf Pearl Bank (fictional)
+version: 1.0.0
+currency: BHD
+
+thresholds:
+  execute_confidence: 0.80
+  irreversible_confidence: 0.97
+  autonomy_budget: 10.0
+
+actions:
+  block_card:
+    description: Temporarily freeze a card. Fully reversible, and waiting is the expensive option
+    reversibility: reversible
+    intents: [card_lost, dispute]
+    impact: 1.0                         # cost of a wrong block: a customer inconvenienced, unblock in app
+    cost_of_delay: 50.0                 # every minute an exposed card stays live
+    execute_confidence: 0.6             # asymmetric risk: act on lower confidence
+    route_to: card_ops
+    execute_template: "Freeze card ****{card_last4} now (customer can unfreeze in app)"
+    required_fields:
+      card_last4: {question_en: "Which card? Please tell me the last 4 digits.", question_ar: "أي بطاقة؟ عطني آخر ٤ أرقام."}
+    required_evidence: [card_belongs_to_customer]
+
+  dispute_transaction:
+    description: Open a chargeback dispute with the card scheme
+    reversibility: compensable
+    intents: [dispute]
+    impact: param:amount
+    route_to: disputes_team
+    execute_template: "Open dispute on {txn_id} for {amount} BHD and issue provisional credit"
+    required_fields:
+      txn_id: {question_en: "Which transaction is it?", question_ar: "أي عملية؟"}
+      amount: {question_en: "", question_ar: ""}
+    required_evidence: [txn_exists, txn_belongs_to_customer, amount_matches_txn, not_already_disputed]
+    refuse_if:
+      - {check: outside_dispute_window, reason: "Past the 120-day scheme dispute window"}
+    defer_if:
+      - {check: txn_pending, reason: "Pending transactions cannot be disputed yet", retry: "Re-check once the transaction posts (1–3 days)"}
+    escalate_if:
+      - {check: amount_over, value: 100, reason: "Disputes above 100 BHD need an analyst"}
+      - {check: customer_watchlisted, reason: "Customer on a risk watchlist"}
+    risk:
+      - {check: amount_over, value: 50, weight: 0.2, label: "amount above 50 BHD"}
+      - {check: customer_watchlisted, weight: 0.5, label: "watchlisted customer"}
+
+  transfer_funds:
+    description: Move money out of the customer's account
+    reversibility: irreversible
+    intents: [transfer]
+    impact: param:amount
+    allowed_actors: []                  # no AI agent may ever do this from a conversation
+    route_to: branch
+    refuse_if:
+      - {check: always, reason: "AI agents are never permitted to move money (policy B-1)"}
+
+  raise_transfer_limit:
+    description: Raise the daily transfer limit
+    reversibility: irreversible
+    intents: [limit_change]
+    impact: 500.0
+    allowed_actors: []
+    route_to: branch
+    refuse_if:
+      - {check: always, reason: "Limit changes require in-app biometric confirmation by the customer (policy B-2)"}
