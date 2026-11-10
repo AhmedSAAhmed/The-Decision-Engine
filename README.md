@@ -30,6 +30,35 @@ with confidence, risk, evidence, missing info, reversibility, expected loss, a f
 Built for the DOO Builder Challenge. The three example businesses are fictional GCC companies of the kind DOO serves:
 **Sufra Delivery** (food), **Nahla Telecom**, **Gulf Pearl Bank**. Conversations are in English, Gulf Arabic and Arabizi.
 
+## How it works (the simple version)
+
+Imagine a helper robot at a shop. A customer asks it for something. Before the robot does anything,
+a careful checker looks at the request and decides what the robot is allowed to do.
+
+```mermaid
+flowchart TD
+    A["🙋 A customer sends a message<br/>'I was charged twice, please refund me!'"] --> B["🤖 The helper robot wants to act<br/>'Let me give a refund'"]
+    B --> C["📖 A reader looks at the message<br/>and writes down what the customer CLAIMS"]
+    C --> D["🔍 The checker compares every claim<br/>with the shop's real records"]
+    D --> E{"🚦 Five questions, in order"}
+
+    E -->|"Is this against the rules?"| R["⛔ REFUSE<br/>'Sorry, I can never do that'"]
+    E -->|"Is something missing?"| Q["❓ ASK<br/>'What is your order number?'"]
+    E -->|"Do we need to wait?"| W["⏳ DEFER<br/>'Let's check again in 3 days'"]
+    E -->|"Is it risky or suspicious?"| H["🧑‍💼 ESCALATE<br/>'A person will decide this one'"]
+    E -->|"Is everything true and safe?"| G["✅ EXECUTE<br/>'Done! Your refund is on its way'"]
+
+    R --> L["📒 Write it in the notebook<br/>Every page is locked to the page before it,<br/>so nobody can secretly change the past"]
+    Q --> L
+    W --> L
+    H --> L
+    G --> L
+```
+
+**The one big rule:** the robot can *read* the message, but it never gets to *decide*. If a customer says
+"my manager already said yes!", the checker looks in the records. No proof in the records means no refund,
+and a person takes over.
+
 ## Run it (clean clone, no keys needed)
 
 ```bash
