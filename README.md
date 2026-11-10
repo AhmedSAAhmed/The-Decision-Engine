@@ -13,6 +13,9 @@ short_description: Decides when an AI agent is allowed to act.
 
 # The Decision Engine
 
+**Live demo:** https://decision-engine-dk2v.onrender.com · API docs: https://decision-engine-dk2v.onrender.com/docs
+(free instance, so the first load after 15 idle minutes takes about a minute)
+
 **Can an AI system know when it is allowed to act?** This is a decision layer for AI customer-service agents.
 An agent proposes an action, for example "refund 240 BHD". The engine reads the customer conversation, checks every
 claim against the business's system of record, and returns one of:
