@@ -100,8 +100,7 @@ Interactive docs at `/docs`.
 
 ## Notes
 
-- **AI tools used:** Claude Code (architecture, code, docs), structured with the ICM folder method
-  (`AGENTS.md` + per-folder `CONTEXT.md` contracts) and ECC practices (eval-first, TDD, ADRs, verification before commit).
+- **AI tools used:** ECC practices (eval-first, TDD, ADRs, verification before commit).
   Runtime LLMs: Groq `gpt-oss-120b`, Gemini 2.5 Flash, OpenRouter (all optional).
 - **UI:** Gradio, with design tokens inspired by the Navy theme (type, palette, square corners). No template code or assets.
 - **Out of scope:** auth, multi-tenant policies, signed approvals, cross-session fraud memory, a policy editor UI.
