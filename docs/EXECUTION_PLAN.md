@@ -3,7 +3,8 @@
 > **Status, 10 Nov 2026:** Days 0–4 built. Changes from the original plan, decided with the owner:
 > domains follow DOO's own market (Sufra Delivery food, Nahla Telecom, Gulf Pearl Bank; EN/AR/Arabizi)
 > instead of refunds/deploys/moderation. LLMs are free-tier Groq → Gemini → OpenRouter via OpenAI-compatible
-> endpoints instead of Claude. 38 labelled scenarios, 48 tests. Remaining: Hugging Face Spaces deploy (owner),
+> endpoints instead of Claude. 38 labelled scenarios, 48 tests. Hosting moved from Hugging Face Spaces to Render's free tier (`render.yaml`), because no Space slot was free.
+> Remaining: Render deploy (owner),
 > 90-second Loom (owner), submission.
 
 Target: DOO Builder Challenge, "The Decision Engine" ($500 + Decision Architect badge).

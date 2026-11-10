@@ -1,0 +1,26 @@
+# Render Blueprint: free web service, deploys from GitHub on every push to main.
+# Dashboard → New → Blueprint → pick this repo. No credit card needed.
+services:
+  - type: web
+    name: decision-engine
+    runtime: python
+    plan: free
+    branch: main
+    autoDeploy: true
+    buildCommand: pip install -r requirements.txt
+    startCommand: python app.py
+    healthCheckPath: /api/health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: DE_LLM_MODE
+        value: auto
+      - key: DE_RATE_LIMIT_PER_HOUR
+        value: "30"
+      # Optional real-LLM extraction. Set the values in the Render dashboard, never in git.
+      - key: GROQ_API_KEY
+        sync: false
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: OPENROUTER_API_KEY
+        sync: false

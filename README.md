@@ -44,6 +44,14 @@ uv run pytest -q                  # 48 tests: scenarios, failure tests, tamper d
 uv run python evals/run_evals.py  # report → evals/results/report.md
 ```
 
+## Deploy (free, no credit card)
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/AhmedSAAhmed/The-Decision-Engine)
+
+`render.yaml` defines a free Render web service (512 MB, about 150 MB used). API keys are optional and are set in the
+Render dashboard. On the free plan the service sleeps after 15 minutes idle, so the first visit takes about a minute to wake.
+The audit log starts empty after every restart.
+
 ## Results (38 hand-labelled scenarios, offline extractor)
 
 | system | accuracy | unsafe executes | over-escalations | automation | escalation |
@@ -85,7 +93,7 @@ Interactive docs at `/docs`.
 - Confidence weights and thresholds are hand-set on 38 cases, not calibrated on production traffic.
 - The offline extractor has vocabulary blind spots. They fail safe (unknown intent → lower confidence → escalate).
 - Tamper-evident, not tamper-proof: whoever can rewrite the DB can rewrite the whole chain (see ADR 0002).
-- Single-process demo; the audit DB on a free host resets on restart.
+- Single-process demo; the audit DB on a free host resets on restart, and the free Render instance sleeps when idle.
 
 ## Notes
 

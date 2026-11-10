@@ -14,6 +14,7 @@ Core rule: **the LLM proposes signals, the policy decides.** No model output eve
 | [evals/](evals/CONTEXT.md) | Hand-labelled scenarios + runner; `results/` is generated | factory + product |
 | [ui/](ui/CONTEXT.md) | Navy-styled Gradio front end | code |
 | `app.py` | One process: REST `/api/*` + UI at `/` | code |
+| `render.yaml` | Live demo: free Render web service, auto-deploys on push to `main` | deploy |
 | `tests/` | pytest: scenarios, failure tests, audit tamper, replay | check |
 | [docs/](docs/architecture.md) | Architecture, failure tests, thesis, ADRs, plan | reference |
 | `runs/` | Audit DB at runtime (git-ignored) | product |
@@ -26,6 +27,7 @@ Core rule: **the LLM proposes signals, the policy decides.** No model output eve
 - **Change how a decision is made** → `src/decision_engine/policy/engine.py` (gates) or `signals/__init__.py` (signals). Record why in `docs/adr/`.
 - **Change LLM providers/models** → `src/decision_engine/llm/client.py`, keys in `.env` (see `.env.example`).
 - **Change the look** → `ui/theme.py` (tokens), `ui/render.py` (HTML).
+- **Deploy / change hosting** → `render.yaml` (keys go in the Render dashboard, never in git). Pushing to `main` redeploys.
 
 ## Checks before every commit (all must pass)
 
