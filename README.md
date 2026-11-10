@@ -52,6 +52,9 @@ uv run python evals/run_evals.py  # report → evals/results/report.md
 Render dashboard. On the free plan the service sleeps after 15 minutes idle, so the first visit takes about a minute to wake.
 The audit log starts empty after every restart.
 
+**Self-host for free, always on:** [docs/deploy-oracle.md](docs/deploy-oracle.md) shows how to run this repo and your other
+projects on one Oracle Cloud Always Free ARM VM with Docker and Caddy (automatic HTTPS, one subdomain per app).
+
 ## Results (38 hand-labelled scenarios, offline extractor)
 
 | system | accuracy | unsafe executes | over-escalations | automation | escalation |

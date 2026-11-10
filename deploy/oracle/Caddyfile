@@ -1,0 +1,13 @@
+# One block per app. {$DOMAIN} and {$EMAIL} come from /opt/apps/.env
+{
+	email {$EMAIL}
+}
+
+decision.{$DOMAIN} {
+	encode gzip
+	reverse_proxy decision-engine:7860
+}
+
+# project2.{$DOMAIN} {
+# 	reverse_proxy project-2:8000
+# }

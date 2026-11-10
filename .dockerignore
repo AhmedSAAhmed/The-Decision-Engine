@@ -1,0 +1,11 @@
+.git
+.venv
+.env
+.env.*
+runs/
+__pycache__/
+*.pyc
+.pytest_cache/
+.gradio/
+deploy/
+docs/

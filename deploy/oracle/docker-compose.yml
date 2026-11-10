@@ -1,0 +1,44 @@
+# One server, many apps. Caddy terminates HTTPS (automatic Let's Encrypt) and routes each
+# subdomain to its container. Add your other projects as more services + one Caddyfile block each.
+#
+#   cd /opt/apps && docker compose up -d --build
+#
+# Layout on the server:
+#   /opt/apps/docker-compose.yml   (this file)
+#   /opt/apps/Caddyfile
+#   /opt/apps/.env                 (DOMAIN=..., EMAIL=..., API keys)
+#   /opt/apps/The-Decision-Engine/ (git clone)
+#   /opt/apps/<project-2>/ ...
+
+services:
+  caddy:
+    image: caddy:2
+    restart: unless-stopped
+    ports: ["80:80", "443:443"]
+    env_file: .env
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+
+  decision-engine:
+    build: ./The-Decision-Engine
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      DE_LLM_MODE: auto
+      DE_RATE_LIMIT_PER_HOUR: "30"
+    volumes:
+      - decision_runs:/app/runs        # audit chain survives restarts and redeploys
+    mem_limit: 768m
+
+  # project-2:
+  #   build: ./project-2
+  #   restart: unless-stopped
+  #   env_file: .env
+  #   mem_limit: 768m
+
+volumes:
+  caddy_data:
+  caddy_config:
+  decision_runs:
