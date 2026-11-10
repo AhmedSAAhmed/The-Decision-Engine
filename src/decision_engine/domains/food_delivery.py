@@ -11,7 +11,7 @@ def build(record: dict) -> Domain:
         id="food_delivery",
         title="Sufra Delivery · refunds & order fixes",
         record=record,
-        id_pattern=r"(?<![\d.])\d{4,5}(?![\d.])",
+        id_pattern=r"(?<![\d.\-])\d{4,5}(?![\d.])",  # skips APR-1182 style refs
         intent_keywords={
             "double_charge": ["charged twice", "double charge", "charged me twice", "two charges", "deducted twice",
                               "انخصم مرتين", "خصم مرتين", "مرتين", "ankhasam marten", "marten"],
@@ -110,7 +110,7 @@ def build(record: dict) -> Domain:
         o = order(ctx)
         if not o:
             return Check(False, "no order to compare")
-        return threshold_check(ctx.num("amount"), o["total"], "amount vs order total")
+        return threshold_check(ctx.num("amount"), o["total"], "amount vs order total", hard=True)
 
     @d.check("charge_pending")
     def _(ctx: Ctx, r: Rule) -> Check:

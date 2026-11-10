@@ -78,10 +78,14 @@ class Domain:
         return deco
 
 
-def threshold_check(value: float, limit: float, label: str) -> Check:
-    """Shared numeric predicate: matched if value > limit, with a margin for rule certainty."""
-    margin = min(1.0, abs(value - limit) / limit) if limit else 1.0
-    return Check(value > limit, f"{label} {value:g} vs limit {limit:g}", margin)
+def threshold_check(value: float, limit: float, label: str, hard: bool = False) -> Check:
+    """Shared numeric predicate: matched if value > limit.
+
+    Judgment thresholds (escalate above 15 BHD) carry a margin: cases near the line get less
+    confidence. Hard caps (refund ≤ what was paid) carry none: sitting exactly at the cap is fine.
+    """
+    margin = None if hard else (min(1.0, abs(value - limit) / limit) if limit else 1.0)
+    return Check(value > limit + 1e-9, f"{label} {value:g} vs limit {limit:g}", margin)
 
 
 def register_common(d: Domain) -> None:

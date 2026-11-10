@@ -17,7 +17,7 @@ def build(record: dict) -> Domain:
                             "غير الباقة", "تغيير الباقة", "باقة", "ابي باقة", "baga"],
             "outage_credit": ["no signal", "network down", "outage", "no internet", "compensation", "credit",
                               "ما في شبكة", "انقطاع", "الشبكة طايحة", "تعويض", "ma fi network"],
-            "sim_swap": ["new sim", "lost my phone", "replace sim", "sim swap", "phone stolen", "esim",
+            "sim_swap": ["new sim", "lost my phone", "replace sim", "replace my sim", "sim swap", "phone stolen", "esim",
                          "شريحة جديدة", "ضاع تلفوني", "انسرق تلفوني", "بدل الشريحة", "shareeha"],
             "records_request": ["call records", "call history", "who called", "messages log", "سجل المكالمات", "كشف المكالمات"],
         },
@@ -133,6 +133,6 @@ def build(record: dict) -> Domain:
 
     @d.check("credit_over_formula")
     def _(ctx: Ctx, r: Rule) -> Check:
-        return threshold_check(ctx.num("amount"), max(_formula_cap(ctx), 0.001), "credit vs entitlement")
+        return threshold_check(ctx.num("amount"), max(_formula_cap(ctx), 0.001), "credit vs entitlement", hard=True)
 
     return d
